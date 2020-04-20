@@ -1,0 +1,2559 @@
+{
+    "ead": {
+        "Space": "urn:isbn:1-931666-22-9",
+        "Local": "ead"
+    },
+    "xmlns": "urn:isbn:1-931666-22-9",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "schemaLocation": "urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd",
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "findaidstatus": "completed",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "mss_421",
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "url": "http://dlib.nyu.edu/findingaids/html/fales/mss_421"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": {
+                    "value": " Guide to the Richard Berkowitz Papers \n        ",
+                    "num": "MSS.421"
+                },
+                "author": "Megan O'Shea"
+            },
+            "publicationstmt": {
+                "publisher": "Fales Library and Special Collections",
+                "p": {
+                    "value": "\n          \n        ",
+                    "date": "August 2016"
+                },
+                "address": {
+                    "addressline": [
+                        {
+                            "value": "Elmer Holmes Bobst Library",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "70 Washington Square South",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "2nd Floor",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "New York, NY 10012",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "special.collections@nyu.edu",
+                            "extptr": {}
+                        },
+                        {
+                            "value": " URL: \n          ",
+                            "extptr": {
+                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "show": "new",
+                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "type": "simple"
+                            }
+                        }
+                    ]
+                }
+            },
+            "editionstmt": {}
+        },
+        "profiledesc": {
+            "creation": {
+                "value": " This finding aid was produced using ArchivesSpace on  . ",
+                "date": "2020-01-14 13:53:01\n          -0500"
+            },
+            "langusage": "Finding aid written in English",
+            "descrules": "Describing Archives: A Content Standard"
+        },
+        "revisiondesc": {
+            "change": [
+                {
+                    "date": "September 2018",
+                    "item": "Item-level records for five films added to Subseries II.A"
+                },
+                {
+                    "date": "July 2019",
+                    "item": "Updated by Kelly Haydon to reflect digitized access copies available for Subseries\n          II.A"
+                }
+            ]
+        }
+    },
+    "archdesc": {
+        "acqinfo": {
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Purchased from Richard Berkowitz in 2014. The accession numbers associated with this\n        collection are 2014.421, 2015.421.001, 2015.421.002, 2015.421.003, 2015.421.004, and\n        2016.007."
+            }
+        },
+        "did": {
+            "abstract": {
+                "value": " Richard Berkowitz (b. 1955) is a gay\n        American author, AIDS activist, and a former sex worker. In 1983, Berkowitz and Michael\n        Callen wrote the first safe sex guide,  . Berkowitz continued to write about and advocate for safe sex through\n        the 1980s into the 2000s. The Richard Berkowitz Papers date from 1944 to 2015, with the bulk\n        being between 1982-2015, and document his work as a writer, AIDS activist, and sex worker,\n        as well as his family, his education, his medical history, and Daryl Wein's documentary\n        about Berkowitz's life,  . The papers contain\n        correspondence, manuscripts, published material, clippings, programs, photographs, a\n        scrapbook, audiovisual material, and a website. "
+            },
+            "langmaterial": {
+                "value": "Materials are in\n        English."
+            },
+            "origination": {
+                "persname": {
+                    "value": "Berkowitz, Richard, 1955-",
+                    "source": "naf",
+                    "rules": "aacr"
+                }
+            },
+            "physdesc": {
+                "extent": {
+                    "value": "1 websites"
+                }
+            },
+            "physloc": {
+                "value": "Materials are stored offsite and advance\n        notice is required for use. Please contact fales.library@nyu.edu at least two business days\n        prior to your research visit to coordinate access."
+            },
+            "repository": {
+                "corpname": {
+                    "value": "Fales Library and Special Collections"
+                }
+            },
+            "unittitle": {
+                "value": "Richard Berkowitz Papers"
+            },
+            "unitid": {
+                "value": "400"
+            },
+            "unitdate": {
+                "value": "1982-2015"
+            }
+        },
+        "dsc": {
+            "c": [
+                {
+                    "c": [
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Correspondence"
+                                        },
+                                        "unitdate": {
+                                            "value": "1973-2009"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Email and correspondence"
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-1997, 2008-2016"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Restricted letter"
+                                        },
+                                        "unitdate": {
+                                            "value": "2001"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 12,082 messages in three email archives, and 19\n                computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries I.A. General"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2013"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries includes correspondence relating to Berkowitz's speaking engagements\n              and writings on AIDS and safe sex; requests to interview Berkowitz for documentaries,\n              biographies, and museum and library exhibits; personal reflections from friends,\n              family, and strangers upon seeing  ; personal\n              experiences from individuals living with HIV/AIDS; and personal correspondence with\n              friends and family. The bulk of the correspondence is email and includes attachments\n              of word processing documents and photographs as well as voice messages from Abby\n              Tallmer and others. Frequent correspondents include Berkowitz's brothers,\n              sister-in-law, nephews, and niece; Michelle Cochrane; Norma C. Connolly; Greg Ellis;\n              Alex Fialho; David France; Paula Frew; Kevin Kushel; Sherri Lewis; Ardele Lister;\n              Patrick Merla; Spencer Schilly; Jeffrey Schwarz; Stephen Simon; Sean Strub; Abby\n              Tallmer; Enrique Torre Molina; Daryl Wein; and Sharon Wood. There is a small amount of\n              correspondence with Joseph Sonnabend. "
+                                }
+                            },
+                            "accessrestrict": {
+                                "head": "Conditions Governing Access",
+                                "p": {
+                                    "value": "The email in this subseries is closed until two years after the death of Richard\n              Berkowitz."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Email"
+                                        },
+                                        "unitdate": {
+                                            "value": "2009-2012"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 276 computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries I.B. Southern REACH (Regional Expansion of Access and Capacity to\n              Address HIV/AIDS)/Gulf Coast HIV/AIDS Evaluations"
+                                },
+                                "unitdate": {
+                                    "value": "2009-2012"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": "This subseries contains email correspondence regarding telephone interviews conducted\n              by Berkowitz on behalf of Paula Frew, an investigator at Emory University's Center for\n              AIDS Research. He interviewed HIV/AIDS organizations in the southern United States\n              that were grantees of a project funded by the National AIDS Fund to increase HIV/AIDS\n              policy and advocacy outcomes in their regions. Correspondents include Frew and Carla\n              Rotole, who transcribed the interviews."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Email"
+                                        },
+                                        "unitdate": {
+                                            "value": "2012-2015"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 72 computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries I.C. Michael Callen Projects"
+                                },
+                                "unitdate": {
+                                    "value": "2012"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries includes email correspondence regarding projects based on Michael\n              Callen's life. The bulk of the correspondence is between Berkowitz and Jim Bredeson\n              regarding the development of  , a\n              musical based on the life and work of Callen. The remaining correspondence is between\n              Berkowitz and Martin Duberman regarding his book  and correspondence between Berkowitz and Richard Dworkin regarding\n              Callen's life and legacy. "
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Email and correspondence"
+                                        },
+                                        "unitdate": {
+                                            "value": "1997, 2008-2015"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 390 computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries I.D. Joseph Sonnabend"
+                                },
+                                "unitdate": {
+                                    "value": "1997, 2008-2015"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries contains email correspondence between Berkowitz and Joseph Sonnabend\n              regarding various topics, including day-to-day life, AIDS advocacy and policy work,\n              the early history of AIDS, and the documentary  . Discussion related to \n              includes some reconciliation between Berkowitz, Sonnabend, and some of their opponents\n              from the beginning of the AIDS crisis, including Larry Kramer and Rodger McFarlane, as\n              well as continued friction with others, including Larry Mass. There is also\n              correspondence between Berkowitz, Sean Strub, and Stephen Simon, some of which relates\n              to Sonnabend, and voice messages from Sonnabend, mainly regarding day-to-day life.\n            "
+                                }
+                            },
+                            "level": "subseries"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 12,839 computer files."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series I. Correspondence"
+                        },
+                        "unitdate": {
+                            "value": "2009-2013"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": "This series includes correspondence relating to Berkowitz's writings, post-AIDS crisis\n            activism, interviews he conducted for an evaluation of National AIDS Fund grantees, gay\n            rights, and personal correspondence with friends and family. Frequent correspondents\n            include Jim Bredeson, Alex Fialho, David France, Sherri Lewis, Patrick Merla, Joseph\n            Sonnabend, Sean Strub, Daryl Wein, Todd Wiggins, and Sharon Wood. The bulk of the\n            correspondence is email with a small amount of paper correspondence."
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "Subseries I.D. Joseph Sonnabend, 2008-2015"
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Audio cassettes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1975-1976"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Changing Stereotypes of Women, Blacks, and Gays in\n                Cinema\"--poster"
+                                        },
+                                        "unitdate": {
+                                            "value": "1977"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Correspondence"
+                                        },
+                                        "unitdate": {
+                                            "value": "1975-1977"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "did": {
+                                                "unittitle": {
+                                                    "value": "Suburban Showdown"
+                                                },
+                                                "unitid": {
+                                                    "value": "421.0014"
+                                                },
+                                                "unitdate": {
+                                                    "value": "1977"
+                                                }
+                                            },
+                                            "scopecontent": {
+                                                "head": "Scope and Contents",
+                                                "p": {
+                                                    "value": "A student film directed by Richard Berkowitz."
+                                                }
+                                            },
+                                            "level": "file"
+                                        },
+                                        {
+                                            "did": {
+                                                "unittitle": {
+                                                    "value": "Suburban Showdown [outtakes]"
+                                                },
+                                                "unitid": {
+                                                    "value": "421.0015"
+                                                },
+                                                "unitdate": {
+                                                    "value": "1977"
+                                                }
+                                            },
+                                            "scopecontent": {
+                                                "head": "Scope and Contents",
+                                                "p": {
+                                                    "value": "Outtakes from Surburban Showdown, a student film directed by Richard\n                  Berkowitz."
+                                                }
+                                            },
+                                            "level": "file"
+                                        },
+                                        {
+                                            "did": {
+                                                "unittitle": {
+                                                    "value": "[Gay Rally]"
+                                                },
+                                                "unitid": {
+                                                    "value": "421.0019"
+                                                },
+                                                "unitdate": {
+                                                    "value": "1977"
+                                                }
+                                            },
+                                            "scopecontent": {
+                                                "head": "Scope and Contents",
+                                                "p": {
+                                                    "value": "Contains footage from the 1977 Gay Pride Parade in New York City. Rollerena Fairy\n                  Godmother and Felipe Rose of The Village People make brief appearances."
+                                                }
+                                            },
+                                            "level": "file"
+                                        },
+                                        {
+                                            "did": {
+                                                "unittitle": {
+                                                    "value": "[Home movie] "
+                                                },
+                                                "unitid": {
+                                                    "value": "421.0020"
+                                                },
+                                                "unitdate": {
+                                                    "value": "1975"
+                                                }
+                                            },
+                                            "scopecontent": {
+                                                "head": "Scope and Contents",
+                                                "p": {
+                                                    "value": "Contains Double-exposed footage of a family vacationing near a lake."
+                                                }
+                                            },
+                                            "level": "file"
+                                        },
+                                        {
+                                            "did": {
+                                                "unittitle": {
+                                                    "value": "At Seventeen"
+                                                },
+                                                "unitid": {
+                                                    "value": "421.0033"
+                                                },
+                                                "unitdate": {
+                                                    "value": "1974-1979"
+                                                }
+                                            },
+                                            "scopecontent": {
+                                                "head": "Scope and Contents",
+                                                "p": {
+                                                    "value": "Contains footage of street scenes and scenery taken in the areas around Rutgers\n                  University."
+                                                }
+                                            },
+                                            "level": "file"
+                                        }
+                                    ],
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Films"
+                                        },
+                                        "unitdate": {
+                                            "value": "1975-1977, undated"
+                                        }
+                                    },
+                                    "level": "subseries"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Movie notes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1976, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "1974-1977, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "1 videoreels (1/2 inch)"
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries II.A. Rutgers University"
+                                },
+                                "unitdate": {
+                                    "value": "1974-1977, undated"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries includes articles written by Berkowitz for Rutgers' campus newspaper,\n                 ; student films he produced; financial\n              aid documents; and a poster for a film panel in which he participated. "
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Correspondence"
+                                        },
+                                        "unitdate": {
+                                            "value": "1977-1979, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Miscellaneous"
+                                        },
+                                        "unitdate": {
+                                            "value": "1977-1980, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Movie notes"
+                                        },
+                                        "unitdate": {
+                                            "value": "Undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Resumes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1978, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "Undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "1 audiocassette"
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries II.B. New York University"
+                                },
+                                "unitdate": {
+                                    "value": "1977-1980, undated"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries contains Berkowitz's notes, script, and films for his student film,\n                 ; report cards; resumes; class notes; and\n              correspondence with NYU administrators. "
+                                }
+                            },
+                            "level": "subseries"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "1 videoreels (1/2 inch)"
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series II. Education"
+                        },
+                        "unitdate": {
+                            "value": "1974-1980, undated"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": "This series documents Berkowitz's undergraduate and graduate education at Rutgers\n            University and New York University (NYU), respectively. The series includes articles\n            written by Berkowitz, student films he produced, financial records, and correspondence\n            documenting Berkowitz's time at Rutgers and NYU."
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "Material within the subseries is arranged in alphabetical order by type or topic of the\n            material."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Audio cassettes"
+                                },
+                                "unitdate": {
+                                    "value": "Undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Biographical materials"
+                                },
+                                "unitdate": {
+                                    "value": "1925, 1944-1952, 1962-1965,\n              1975"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Correspondence"
+                                },
+                                "unitdate": {
+                                    "value": "1976-1993, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Home movies"
+                                },
+                                "unitdate": {
+                                    "value": "1958-1959, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Photographs"
+                                },
+                                "unitdate": {
+                                    "value": "1964, 1994-2000, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Scrapbook"
+                                },
+                                "unitdate": {
+                                    "value": "1944-1946, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Stag films"
+                                },
+                                "unitdate": {
+                                    "value": "Undated"
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 5 computer files."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series III. Family Records"
+                        },
+                        "unitdate": {
+                            "value": "1925, 1944-1994, undated"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": "This series documents Berkowitz's family, particularly his father, Milton Berkowitz.\n            The series contains a small amount of correspondence between Richard Berkowitz and\n            various family members and between other members of the family; home movies from the\n            1950s; and photographs of Berkowitz, his parents, his brothers, and their families.\n            Materials related to Milton Berkowitz include his scrapbook created during his tour of\n            duty in the United Kingdom and Germany with the United States Army in World War II; his\n            collection of stag films; and his dues books from the Bricklayers, Masons and\n            Plasterers' International Union of America."
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "This series is arranged in alphabetical order by type of material."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "American Red Cross in Greater New York"
+                                },
+                                "unitdate": {
+                                    "value": "1984"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Apartment"
+                                },
+                                "unitdate": {
+                                    "value": "1982-2012"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Miscellaneous expenses"
+                                },
+                                "unitdate": {
+                                    "value": "Undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "PEN American Center"
+                                },
+                                "unitdate": {
+                                    "value": "1991-1997"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "\n              \n            "
+                                },
+                                "unitdate": {
+                                    "value": "1997-1998"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "\n              \n            "
+                                },
+                                "unitdate": {
+                                    "value": "1996"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Taxes"
+                                },
+                                "unitdate": {
+                                    "value": "1983-1986"
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in half of a record carton."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series IV. Financial Records"
+                        },
+                        "unitdate": {
+                            "value": "1994-2004"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": " This series documents Berkowitz's finances, including his income and issues he faced\n            in maintaining his residence. Materials in this series include pay stubs from\n            Berkowitz's work as a driver for the American Red Cross in Greater New York, and for his\n            work for  and \n            magazines; correspondence, legal documents, and receipts detailing issues Berkowitz had\n            with his landlords and apartment management companies; and correspondence regarding\n            grants he received, including one from the PEN American Center which allowed him to\n            purchase AIDS medications. "
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "This series is arranged in alphabetical order by organization or topic."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Bills"
+                                },
+                                "unitdate": {
+                                    "value": "1979-1999"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Crixivan drug trial"
+                                },
+                                "unitdate": {
+                                    "value": "1994-1997"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Discharge instructions and notes"
+                                },
+                                "unitdate": {
+                                    "value": "1994-2002, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Home healthcare"
+                                },
+                                "unitdate": {
+                                    "value": "1989-1998"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Laboratory orders"
+                                },
+                                "unitdate": {
+                                    "value": "1984-1997"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Laboratory results"
+                                },
+                                "unitdate": {
+                                    "value": "1981-2001"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Medication"
+                                },
+                                "unitdate": {
+                                    "value": "1982-2002"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Stuyvesant Polyclinic/Cabrini Medical Center patient records"
+                                },
+                                "unitdate": {
+                                    "value": "1996-1999"
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in half of a record carton."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series V. Medical Records"
+                        },
+                        "unitdate": {
+                            "value": "1979-2002, undated"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": "This series documents Berkowitz's medical history before and after his AIDS diagnosis.\n            Included in this series are Berkowitz's blood and other medical test results,\n            prescription receipts, information on AIDS drugs, and correspondence and reports\n            regarding a Crixivan drug trial in which he participated."
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "This series is arranged in alphabetical order by type or topic of the material."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Correspondence"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2009"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--General"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2010"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--Edmonton International Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--NewFest: The NYC LGBT Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--Outfest Los Angeles LGBT Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--Rochester International Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--San Francisco International Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--Seattle International Film Festival"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Film festivals--South by Southwest (SXSW)"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Funding"
+                                },
+                                "unitdate": {
+                                    "value": "2007-2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Promotional condom"
+                                },
+                                "unitdate": {
+                                    "value": "2008"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Reviews and publicity"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2010"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Royalties"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2009"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Speaking engagements and screenings"
+                                },
+                                "unitdate": {
+                                    "value": "2008-2011"
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 718 computer files."
+                            }
+                        },
+                        "unittitle": {
+                            "value": " Series VI. \n          "
+                        },
+                        "unitdate": {
+                            "value": "2008-2009"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": " This series documents Berkowitz's role in the creation, distribution, and reception of\n            Daryl Wein's documentary,  , focusing on\n            Berkowitz's life and safe sex advocacy. The series includes correspondence, clippings of\n            reviews of and advertisements for the film, film festival programs, travel documents,\n            and ephemera relating to the documentary. The bulk of the series documents Berkowitz's\n            attendance at multiple film festivals around the United States at which the film was\n            screened. The correspondence contains correspondence between Berkowitz and Joseph\n            Sonnabend, as well as letters from Berkowitz to others, regarding a disagreement\n            Berkowitz and Sonnabend had following the release of the film. "
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "This series is arranged in alphabetical order by type or topic of the material."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "analorgasm.net"
+                                },
+                                "unitdate": {
+                                    "value": "1997-2001"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Classified advertisements"
+                                },
+                                "unitdate": {
+                                    "value": "1985-1994"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Clients"
+                                },
+                                "unitdate": {
+                                    "value": "1995-1996, undated"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Correspondence"
+                                },
+                                "unitdate": {
+                                    "value": "1978-1992, undated"
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 28 computer files."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series VII. Sex Work"
+                        },
+                        "unitdate": {
+                            "value": "1978-2002, undated"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Content",
+                        "p": {
+                            "value": " This series documents Berkowitz's work as an S\u0026M top or dominant. The series\n            contains writings and photographs of clients used on his website, analorgasm.net; lists\n            of clients, including their physical descriptions and preferences; lists of services he\n            provided; correspondence with and photographs of clients; and correspondence regarding\n            and copies of Berkowitz's classified advertisement he placed in  and the  . "
+                        }
+                    },
+                    "accessrestrict": {
+                        "head": "Conditions Governing Access",
+                        "p": {
+                            "value": "This series is closed until two years after the death of Richard Berkowitz."
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "This series is arranged in alphabetical order by topic or type of material."
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "c": [
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Audio cassettes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-2005, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Notes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1998, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Restricted audio cassettes"
+                                        },
+                                        "unitdate": {
+                                            "value": "undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Video recordings"
+                                        },
+                                        "unitdate": {
+                                            "value": "1976-2009, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "2 videodiscs (dvd)"
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries VIII. A. Audio and Video Recordings"
+                                },
+                                "unitdate": {
+                                    "value": "1982-2005, undated"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": "This subseries contains audio recordings of Berkowitz's conversations with Callen,\n              Sonnabend, Gabriel Rotello, Michelle Cochrane, and others, and recordings of\n              television and radio interviews with Arthur Bell, Callen, Larry Kramer, Vito Russo,\n              and others. This subseries also includes Berkowitz's notes on the content of the\n              audiocassettes. This subseries also contains video recordings of television\n              appearances by Berkowitz, Callen, Sonnabend, and others, as well as off-air recordings\n              of television programs and movies."
+                                }
+                            },
+                            "accessrestrict": {
+                                "head": "Conditions Governing Access",
+                                "p": {
+                                    "value": "Two audio cassettes in this subseries are restricted until two years after the death\n              of Richard Berkowitz."
+                                }
+                            },
+                            "arrangement": {
+                                "head": "Arrangement",
+                                "p": {
+                                    "value": "This subseries has not been arranged. Audio recordings that could be intellectually\n              arranged within a series or subseries have been removed from this subseries and\n              physically arranged and described with those materials. Audio recordings in this\n              series contain conversations with multiple people and/or off-air recordings of\n              interviews or programs. Any extra documentation attached to the cassettes (apart from\n              the sleeves in the cases) have been removed and housed separately. All video\n              recordings have been kept in this series."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "City of New York Commission on Human Rights"
+                                        },
+                                        "unitdate": {
+                                            "value": "1984"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "General"
+                                        },
+                                        "unitdate": {
+                                            "value": "1993-2015, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Rotello, Gabriel"
+                                        },
+                                        "unitdate": {
+                                            "value": "1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 68 computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries VIII. B. Correspondence"
+                                },
+                                "unitdate": {
+                                    "value": "1984-2015, undated"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": " This subseries contains correspondence regarding Berkowitz's writing. The bulk of\n              the subseries includes email correspondence regarding articles by Berkowitz, including\n              a response to  , written\n              by an anonymous collective of Canadian artists with HIV. "
+                                }
+                            },
+                            "arrangement": {
+                                "head": "Arrangement",
+                                "p": {
+                                    "value": "The paper correspondence is in Berkowitz's original order."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                 by Samuel R. Delany "
+                                        },
+                                        "unitdate": {
+                                            "value": "2000"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "1993 March on Washington for Lesbian, Gay, and Bi Equal Rights and\n                Liberation"
+                                        },
+                                        "unitdate": {
+                                            "value": "1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Adnum, Mark"
+                                        },
+                                        "unitdate": {
+                                            "value": "2013"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Bathhouses"
+                                        },
+                                        "unitdate": {
+                                            "value": "1976-1987"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Callen, Michael"
+                                        },
+                                        "unitdate": {
+                                            "value": "1983-2015, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Clinton, Bill--Impeachment"
+                                        },
+                                        "unitdate": {
+                                            "value": "1998-1999"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Cochrane, Michelle"
+                                        },
+                                        "unitdate": {
+                                            "value": "1993-2003"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Condoms"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1994"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Contagion"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-2001"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Curriculum vitae"
+                                        },
+                                        "unitdate": {
+                                            "value": "2000"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Cytomegalovirus"
+                                        },
+                                        "unitdate": {
+                                            "value": "1975-1983"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Disclosure"
+                                        },
+                                        "unitdate": {
+                                            "value": "2003"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Duberman, Martin"
+                                        },
+                                        "unitdate": {
+                                            "value": "2009"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Early People with AIDS movement"
+                                        },
+                                        "unitdate": {
+                                            "value": "1983-1985"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Fain, Nathan"
+                                        },
+                                        "unitdate": {
+                                            "value": "1983-2003"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Farber, Celia"
+                                        },
+                                        "unitdate": {
+                                            "value": "1988-2008, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Gay Men's Health Crisis (GMHC)"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "General"
+                                        },
+                                        "unitdate": {
+                                            "value": "1993-2012, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Giuliani, Rudolph W."
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-2000"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "HIV/AIDS"
+                                        },
+                                        "unitdate": {
+                                            "value": "1981-2014"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                 by C. A. Tripp "
+                                        },
+                                        "unitdate": {
+                                            "value": "1975"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Infectious diseases"
+                                        },
+                                        "unitdate": {
+                                            "value": "1974-1984"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Kushner, Tony"
+                                        },
+                                        "unitdate": {
+                                            "value": "1992-2010"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Lambda Passages"
+                                        },
+                                        "unitdate": {
+                                            "value": "1985"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Legal issues"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "LGBT issues"
+                                        },
+                                        "unitdate": {
+                                            "value": "1996-2012, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Lister, Ardele"
+                                        },
+                                        "unitdate": {
+                                            "value": "2008"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Lymphadenopathy"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1984"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Madonna"
+                                        },
+                                        "unitdate": {
+                                            "value": "1981-2009"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Obama, Barack"
+                                        },
+                                        "unitdate": {
+                                            "value": "2008-2010"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "People with AIDS"
+                                        },
+                                        "unitdate": {
+                                            "value": "1989-2004"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Physicians for Human Rights"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1983, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Pride"
+                                        },
+                                        "unitdate": {
+                                            "value": "1992"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Recreational drugs"
+                                        },
+                                        "unitdate": {
+                                            "value": "1998-2005, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Rotello, Gabriel"
+                                        },
+                                        "unitdate": {
+                                            "value": "1995"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Russo, Vito"
+                                        },
+                                        "unitdate": {
+                                            "value": "1975-1990"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Safe sex"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-2013"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Sex clubs"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Sex Panic!"
+                                        },
+                                        "unitdate": {
+                                            "value": "1996-2008"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Sexually transmitted infections"
+                                        },
+                                        "unitdate": {
+                                            "value": "1976-2008"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Sonnabend, Joseph"
+                                        },
+                                        "unitdate": {
+                                            "value": "1991-2008, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Sperm"
+                                        },
+                                        "unitdate": {
+                                            "value": "1980-1992"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Ultra-violet light and immune suppression"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1983"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Unsafe sex"
+                                        },
+                                        "unitdate": {
+                                            "value": "1997-2005"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "22 audiocassettes"
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries VIII. C. Research Files"
+                                },
+                                "unitdate": {
+                                    "value": "1976-2012, undated"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Content",
+                                "p": {
+                                    "value": "This subseries contains research files on HIV/AIDS, safe sex advocacy, gay rights\n              issues; and other topics of interest to Berkowitz, most of which was used in his\n              writings. The files contain paper and born-digital materials, including newspaper and\n              magazine clippings, books, pamphlets, fliers, audio recordings, correspondence, and\n              notes. Berkowitz's collaborations with Michael Callen, Michelle Cochrane, Celia\n              Farber, and Joseph Sonnabend are documented in audio recordings of their\n              conversations, notes on the conversations, drafts of articles by Cochrane and Farber,\n              and email and internet chats between Berkowitz and Farber."
+                                }
+                            },
+                            "arrangement": {
+                                "head": "Arrangement",
+                                "p": {
+                                    "value": "This subseries is arranged in alphabetical order by topic."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"AIDS: One Man's Odyssey\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1984"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"AIDS: Return of the Sex Police\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-1997"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Best of Manhattan: Best Gay Bookstore\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Birth of Safe Sex\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1996"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"A Brief History of AIDS Dogma\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1993-1996, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Co-factor Factor\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-1997"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Crixivan Study and Arrest in Philadelphia"
+                                        },
+                                        "unitdate": {
+                                            "value": "1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Florida bathhouse talks"
+                                        },
+                                        "unitdate": {
+                                            "value": "1985"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Heterosexual Men and AIDS\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1987-2003, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"A History of the Creation of the Term \"People with AIDS\"\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "1983-2002, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Ideas"
+                                        },
+                                        "unitdate": {
+                                            "value": "undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Letters to the editor"
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "1995"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Mrs. Duesinger\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Night Larry Kramer Dissed Me\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2005"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "Notes"
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Original Safe Sex Slut's Guide to Healthy Living\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1996-1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Other Epidemic\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2005"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                 biography "
+                                        },
+                                        "unitdate": {
+                                            "value": "2000"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"PrEP: Prevention \u0026 Profits\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2013"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                 articles "
+                                        },
+                                        "unitdate": {
+                                            "value": "1992"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"S+M: Sons and Mothers\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2006"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Safer-sex Panic\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1995-1998, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Safer Sex Positive\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2011"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Satire on Gay Articles Declaring Oral Sex a Risk for AIDS\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1995"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"A Second Look\" and \"Before the Revolution\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1997"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Silence of the Lambdas\" by Katie Szymanski"
+                                        },
+                                        "unitdate": {
+                                            "value": "1998"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "1992-2003"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\n                \n              "
+                                        },
+                                        "unitdate": {
+                                            "value": "1988"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Timeline of Dr. Joseph Sonnabend's Contributions to AIDS\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1998, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Tragic Death of Robert Gould, M.D.\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1988-1999, undated"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Truth Be Told\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1994"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Truth Sucks\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1993"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"A Warning to Gay Men with AIDS\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1982"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"The Way We War\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1996"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"Walter Fuck-up\""
+                                        },
+                                        "unitdate": {
+                                            "value": "2005"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"We Know Who We Are\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1982-1983"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"When Do HIV-exposed Individuals Seroconvert?\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1997"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {
+                                            "value": "\"When the Epidemic Hits Home\""
+                                        },
+                                        "unitdate": {
+                                            "value": "1983"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 98 computer files."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries VIII. D. Writings"
+                                },
+                                "unitdate": {
+                                    "value": "1982-2009"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and content",
+                                "p": {
+                                    "value": " This subseries contains Berkowitz's drafts, notes, and published versions of his\n              writings, including his collaborations with Michael Callen \"We Know Who We Are\" and\n                 , and his\n              autobiography,  . It features research\n              material used by Berkowitz in his writing and correspondence regarding his work. "
+                                }
+                            },
+                            "arrangement": {
+                                "head": "Arrangement",
+                                "p": {
+                                    "value": "This subseries is arranged in alphabetical order by title of work or type of\n              material."
+                                }
+                            },
+                            "level": "subseries"
+                        },
+                        {
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "1 websites"
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Subseries VIII. E. Archived Website"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "scopecontent": {
+                                "head": "Scope and Contents",
+                                "p": {
+                                    "value": " Berkowitz's website documents his writings on safe sex, AIDS, and gay rights from\n              the 1970s through the 2000s. The website includes published and unpublished writings,\n              including journal entries from 2010 and 2013, which include interviews with Berkowitz\n              and Callen in 1983; scans of his writings published in periodicals; and information\n              about his biography,  , and the documentary\n              based on his life,  . "
+                                }
+                            },
+                            "level": "subseries"
+                        }
+                    ],
+                    "did": {
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 179 computer files."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Series VIII. Work Files"
+                        },
+                        "unitdate": {
+                            "value": "1976-2015, undated"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and content",
+                        "p": {
+                            "value": " This series documents Berkowitz's work as a writer on issues related to AIDS, safe\n            sex, and gay rights. The series contains Berkowitz's drafts, notes, and published\n            versions of and research materials and correspondence regarding his writings, including\n            his collaborations with Michael Callen \"We Know Who We Are\" and  , and his autobiography,  . The series also includes Berkowitz's research\n            files which include notes, correspondence, newspaper and magazine clippings; audio and\n            video recordings of Berkowitz, Callen, Joseph Sonnabend, and others; and Berkowitz's\n            website,  . Topics in the research files\n            include HIV/AIDS; safe sex advocacy; gay rights issues; and other topics of interest to\n            Berkowitz. "
+                        }
+                    },
+                    "arrangement": {
+                        "head": "Arrangement",
+                        "p": {
+                            "value": "Subseries VIII.E. Archived Website, 2016"
+                        }
+                    },
+                    "level": "series"
+                },
+                {
+                    "did": {
+                        "origination": {
+                            "persname": {
+                                "value": "Berkowitz, Richard, 1955-",
+                                "source": "naf",
+                                "rules": "aacr"
+                            }
+                        },
+                        "physdesc": {
+                            "extent": {
+                                "value": "in 1 archived website."
+                            }
+                        },
+                        "unittitle": {
+                            "value": "Archived website"
+                        },
+                        "unitdate": {
+                            "value": "August 2016- ongoing"
+                        }
+                    },
+                    "scopecontent": {
+                        "head": "Scope and Contents",
+                        "p": {
+                            "value": "The website contains the writings of Richard Berkowitz relating to safe sex, issues\n            surrounding gay life, and sex positivity."
+                        }
+                    },
+                    "level": "otherlevel"
+                },
+                {
+                    "did": {
+                        "unittitle": {
+                            "value": "Physical digital media"
+                        }
+                    },
+                    "level": "file"
+                }
+            ]
+        },
+        "scopecontent": {
+            "head": "Scope and Content",
+            "p": {
+                "value": " The Richard Berkowitz Papers document the life and career of AIDS activist, writer, and\n        safe-sex advocate Richard Berkowitz, particularly his writings on AIDS, safe sex, and gay\n        rights issues; the documentary  , about his life\n        and work; his family; his education; his medical history; and his time as a sex worker. The\n        papers date from 1944 to 2015, with the bulk being between 1982-2015. The bulk of the\n        collection contains Berkowitz's work files, including drafts, notes, and published versions\n        of his writings, including \"We Know Who We Are\",  , and  ; audio\n        recordings of and correspondence with Michael Callen, Joseph Sonnabend, and others; video\n        recordings of interviews with Callen, Larry Kramer, and others, and off-air recordings of\n        AIDS-related programs; research files on different aspects of AIDS, safe sex, gay rights\n        issues, and topics of interest to Berkowitz; and his website documenting his career,  . Material related to Berkowitz's undergraduate\n        and graduate education includes his student films from Rutgers University and New York\n        University. Material related to Berkowitz's medical history include his blood test results\n        from the mid-1980s to the 2000s. Material related to  includes correspondence with Daryl Wein, Sonnabend, and others;\n        correspondence, programs, and other material related to film festivals Berkowitz attended in\n        conjunction with the film; and newspaper and magazine clippings about the film. Material\n        from Berkowitz's time as a sex worker includes correspondence with and photographs of\n        clients; writings and photographs of clients used on his escort website, analorgasm.net; and\n        some lists of clients and services he provided for them. His family records include a\n        scrapbook compiled by his father, Milton Berkowitz, during his tour of duty with the United\n        States Army in World War II; Milton Berkowitz's stag films; family home movies from the\n        1950s; and photographs of both parents, Berkowitz, his brothers, and their families. "
+            }
+        },
+        "bioghist": {
+            "head": "Biographical Note",
+            "p": {
+                "value": " Callen died in 1993 from AIDS-related complications. Sonnabend co-founded the AIDS Medical\n        Foundation in 1983, and continued writing about AIDS issues and serving in private practice\n        until his retirement in 2005. Berkowitz continued to write about AIDS, safe sex, and gay\n        rights issues throughout the 1980s and into the 2000s. He returned to sex work in the late\n        1980s, promoting himself as a safe sex S\u0026M dominant in Florida and New York. In 2003 he\n        published his autobiography,  , and in 2008 was\n        the subject of  , a documentary written and\n        directed by Daryl Wein. "
+            }
+        },
+        "accessrestrict": {
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Donor permission is required for access. Please contact the Fales Library and Special\n        Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "userestrict": {
+            "head": "Conditions Governing Use",
+            "p": {
+                "value": "Copyright (or related rights to publicity and privacy) for materials in this collection,\n        which was created by Richard Berkowitz, was not transferred to New York University.\n        Permission to use materials must be secured from the copyright holder. Please contact the\n        Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": [
+            {
+                "value": "\n      \n      \n      \n    ",
+                "id": "aspace_c5e917b1b8fade5a7641468fc9f5b095"
+            }
+        ],
+        "processinfo": {
+            "head": "Processing Information",
+            "p": {
+                "value": "Paper materials were housed in archival folders and boxes. Audiovisual material with\n        damaged or no housing was housed; all audiovisual material was placed in archival boxes and\n        labeled with unique identifiers. Floppy disks were forensically imaged, analyzed, and\n        arranged in Forensic Toolkit. Email was ingested into and arranged in Forensic Toolkit.\n        Berkowitz's website was archived to the Internet Archive using the Archive-It service.\n        Material that belonged together intellectually was brought together physically and duplicate\n        publications were removed. Items of a sexually explicit nature were identified and will be\n        restricted until two years after Berkowitz's death."
+            }
+        },
+        "arrangement": {
+            "head": "Arrangement",
+            "p": {
+                "value": "Subseries VIII.E. Archived Website, 2016"
+            }
+        },
+        "controlaccess": {
+            "genreform": [
+                {
+                    "value": "Correspondence.",
+                    "source": "aat"
+                },
+                {
+                    "value": "Scrapbooks.",
+                    "source": "aat"
+                },
+                {
+                    "value": "Pornographic films.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Audiocassettes.",
+                    "source": "aat"
+                },
+                {
+                    "value": "Videocassettes.",
+                    "source": "aat"
+                },
+                {
+                    "value": "Clippings (information artifacts)",
+                    "source": "aat"
+                }
+            ],
+            "persname": [
+                {
+                    "value": "Sonnabend, Joseph A.",
+                    "source": "naf"
+                },
+                {
+                    "value": "Callen, Michael, 1955-1993",
+                    "source": "naf"
+                }
+            ],
+            "subject": [
+                {
+                    "value": "Safe sex in AIDS prevention -- History",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "AIDS activists -- New York (State) -- New York",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Homosexuality",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Male prostitutes -- New York (State) -- New York",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Gay authors -- New York (State) -- New York",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Amateur films",
+                    "source": "lcsh"
+                }
+            ]
+        }
+    }
+}

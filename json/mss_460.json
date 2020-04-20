@@ -1,0 +1,1161 @@
+{
+    "ead": {
+        "Space": "urn:isbn:1-931666-22-9",
+        "Local": "ead"
+    },
+    "xmlns": "urn:isbn:1-931666-22-9",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "schemaLocation": "urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd",
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "findaidstatus": "completed",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "mss_460",
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "url": "http://dlib.nyu.edu/findingaids/html/fales/mss_460"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": {
+                    "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series\n            ",
+                    "num": "MSS.460"
+                },
+                "author": "Megan O'Shea and Bess Pittman"
+            },
+            "publicationstmt": {
+                "publisher": "Fales Library and Special Collections",
+                "p": {
+                    "date": "April 2017"
+                },
+                "address": {
+                    "addressline": [
+                        {
+                            "value": "Elmer Holmes Bobst Library",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "70 Washington Square South",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "2nd Floor",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "New York, NY 10012",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "special.collections@nyu.edu",
+                            "extptr": {}
+                        },
+                        {
+                            "value": "URL: ",
+                            "extptr": {
+                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "show": "new",
+                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "type": "simple"
+                            }
+                        }
+                    ]
+                }
+            },
+            "editionstmt": {}
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace on .",
+                "date": "2020-01-14 13:51:09\n          -0500"
+            },
+            "langusage": "Finding aid written in English",
+            "descrules": "Describing Archives: A Content Standard"
+        },
+        "revisiondesc": {}
+    },
+    "archdesc": {
+        "acqinfo": {
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Adele Fournet, September 2016. The accession number associated with this gift is\n        2016.041."
+            }
+        },
+        "did": {
+            "abstract": {
+                "value": "Bit Rosie is a web series about female\n        music producers directed, produced, and edited by Adele Fournet between 2015 and 2016. The\n        project sought to highlight the work of women creating electronic music and to disseminate\n        their work. The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings\n        created by Fournet and the website, bitrosie.com, on which the recordings were posted. The\n        recordings include full-length and edited interviews with and performances by 11 of the 12\n        female music producers and groups featured on bitrosie.com. The Bit Rosie website includes\n        the edited interviews and video recordings of performances. The interviews include\n        discussions of the type of music the women create and produce, their creative influences and\n        processes, and their feelings about being women in a male-dominated field."
+            },
+            "langmaterial": {
+                "value": "Materials primarily in English,\n        with six video recordings in Spanish and nine video recordings in German."
+            },
+            "origination": {
+                "persname": {
+                    "value": "Fournet, Adele",
+                    "source": "local",
+                    "rules": "dacs"
+                }
+            },
+            "physdesc": {
+                "extent": {
+                    "value": "in 1 archived website."
+                }
+            },
+            "repository": {
+                "corpname": {
+                    "value": "Fales Library and Special Collections"
+                }
+            },
+            "unittitle": {
+                "value": "Adele Fournet Papers on the Bit Rosie Web Series"
+            },
+            "unitid": {
+                "value": "MSS.460"
+            },
+            "unitdate": {
+                "value": "2015-2016"
+            }
+        },
+        "dsc": {
+            "c": [
+                {
+                    "c": [
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Andersson, Klara -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5743"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Andersson, Klara -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5742"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Andersson, Klara -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5744"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Andersson, Klara"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Klara Andersson is a Swedish music composer and performer who utilizes traditional\n              instruments along with technological enhancements to produce her pieces, which seek to\n              explore the line between noise and music. She works under the stage name Fagelle."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "unittitle": {
+                                    "value": "Archived website"
+                                },
+                                "unitid": {
+                                    "value": "cuid7032"
+                                },
+                                "unitdate": {
+                                    "value": "2017-ongoing"
+                                }
+                            },
+                            "processinfo": {
+                                "head": "Processing Information",
+                                "p": {
+                                    "value": "Date of capture reflects the first date on which the site was crawled. Dates of\n              subsequent crawls can be found in the Wayback Machine."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Chrem, Orieta -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5746"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Chrem, Orieta -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5745"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Chrem, Orieta -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid7033"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "file"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Chrem, Orieta"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Orieta Chrem is a member of Menores, an experimental hip-hop group based in Lima,\n              Peru. She is also the producer of the group's music."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Covello, Julie -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5749"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Covello, Julie -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5748"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Covello, Julie -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5750"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Covello, Julie"
+                                },
+                                "unitdate": {
+                                    "value": "2015-2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Julie Covello, working under her stage name \"DJ Shakey\", is the producer for a\n              freestyle musical duo based out of Brooklyn, NY, called Opal Crocus. She also has a\n              solo career as a composer and performer."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "did": {
+                                "physdesc": {
+                                    "extent": {
+                                        "value": "in 2 spreadsheets."
+                                    }
+                                },
+                                "unittitle": {
+                                    "value": "Inventories"
+                                },
+                                "unitid": {
+                                    "value": "cuid7031"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Jäger, Friederike -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5752"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Jäger, Friederike -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5751"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Jäger, Friederike -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5753"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Jäger, Friederike"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Friederike Jager is a composer and performer based in Berlin, Germany. She composes\n              musical works with strong visual components as well as producing music for\n              theater."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kathryn, Julie -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5755"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kathryn, Julie -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5754"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kathryn, Julie -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5756"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Kathryn, Julie"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Julie Kathryn is a music composer, producer, and performer based in New York City.\n              She is also on of the lead producers of the group \"Female Frequency\", an organization\n              dedicated to encouraging women to make music. She has composed and performed under her\n              own name as well as the stage name \"I Am Snow Angel\", which designates her exploration\n              of a mre pop-electronic style of music."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kato, Minami -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5758"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kato, Minami -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5757"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kato, Minami -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5759"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Kato, Minami"
+                                },
+                                "unitdate": {
+                                    "value": "2015"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Minami Kato is a Japanese composer and producer based in Brooklyn, NY. Her love for\n              technology and music shape her creations, although she also plays several traditional\n              instruments."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kim, K. Marie -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5761"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kim, K. Marie -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5760"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Kim, K. Marie -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5762"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Kim, K. Marie"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "K. Marie Kim, a member of the alt-pop duo Blank Paper and session musician, is a\n              composer and performer based in Brooklyn, NY. She has also performed with musical\n              groups in several other genres and created music for short films and pilots."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "McKenzie, Dion -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5764"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "McKenzie, Dion -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5763"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "McKenzie, Dion -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5765"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "McKenzie, Dion"
+                                },
+                                "unitdate": {
+                                    "value": "2015-2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Dion McKenzie is a Jamaican musician based in Brooklyn, NY. She is a producer and DJ\n              who also works as a curator for two queer clubs in New York City, where she showcases\n              her experimental club sound."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Plückhan, Franziska -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5767"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Plückhan, Franziska -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5766"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Plückhan, Franziska -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5768"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Plückhan, Franziska"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Franziska Plückhan is a composer, producer, and performer based in Berlin, Germany.\n              She works in the alt-pop genre under the stage name \"Sissip\"."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Sasaki, Pauchi -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5770"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Sasaki, Pauchi -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5769"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Sasaki, Pauchi -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5771"
+                                        },
+                                        "unitdate": {
+                                            "value": "2016"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Sasaki, Pauchi"
+                                },
+                                "unitdate": {
+                                    "value": "2016"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Bibliographical",
+                                "p": {
+                                    "value": "Pauchi Sasaki is a Peruvian-Japanese composer who utilizes her knowledge of\n              programming to make music that combines technology with traditional instruments."
+                                }
+                            },
+                            "level": "file"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Silvestre, Gisela Fullá -- Edited interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5773"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": " Silvestre, Gisela Fullá -- Full-length interview"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5772"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "accessrestrict": {
+                                        "head": "Conditions Governing Access",
+                                        "p": {
+                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                        }
+                                    },
+                                    "level": "item"
+                                },
+                                {
+                                    "did": {
+                                        "physdesc": {
+                                            "extent": {
+                                                "value": "in 1 video file."
+                                            }
+                                        },
+                                        "unittitle": {
+                                            "value": "Silvestre, Gisela Fullá -- Performance"
+                                        },
+                                        "unitid": {
+                                            "value": "cuid5774"
+                                        },
+                                        "unitdate": {
+                                            "value": "2015"
+                                        }
+                                    },
+                                    "level": "item"
+                                }
+                            ],
+                            "did": {
+                                "unittitle": {
+                                    "value": "Silvestre, Gisela Fullá"
+                                },
+                                "unitdate": {
+                                    "value": "2015"
+                                }
+                            },
+                            "bioghist": {
+                                "head": "Biographical",
+                                "p": {
+                                    "value": "Gisela Fullá Silvestre is a producer, composer, and sound designer based in Brooklyn,\n              NY. She is originally from Barcelona, Spain. She works under the stage name NOIA."
+                                }
+                            },
+                            "level": "file"
+                        }
+                    ],
+                    "did": {
+                        "unittitle": {
+                            "value": "Adele Fournet Papers on the Bit Rosie Web Series"
+                        }
+                    },
+                    "level": "series"
+                }
+            ]
+        },
+        "scopecontent": {
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Adele Fournet Papers on the Bit Rosie Web Series documents the work of Fournet in\n        creating her web series, Bit Rosie, about female music producers. The collection contains 33\n        video recordings recorded by Fournet; an archived copy of bitrosie.com, the website on which\n        the series was published; and two spreadsheets created by Fournet with information about\n        each producer. The video recordings include full-length and edited interviews with and\n        performances by 11 of the 12 female music producers featured on bitrosie.com. The producers\n        represented in the collection are Klara Andersson, Orieta Chrem, Julie Covello, Friederike\n        Jäger, Julie Kathryn, Minami Kato, K. Marie Kim, Dion McKenzie, Franziska Plückhan, Pauchi\n        Sasaki, and Gisela Fullá Silvestre. The interviews include discussions of the type of music\n        the women create and produce, their creative influences and processes, and their feelings\n        about being women in a male-dominated field. The interviews were conducted in New York,\n        Germany, and Peru. The website includes brief biographies, edited interviews, and video\n        recordings of performances for 12 female music producers. The spreadsheets include\n        information about the producers, including the type of music they create, the hardware and\n        software they use to create the music, and where they live and work."
+            }
+        },
+        "bioghist": {
+            "head": "Historical Note",
+            "p": {
+                "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by\n        Adele Fournet between 2015 and 2016. The project sought to highlight the work of women\n        creating electronic music and to disseminate their work. Fournet conducted 12 interviews\n        with women working with music technology as producers, DJs, and engineers, both individually\n        and in collaboration with other women. The interviews were conducted between 2015 and 2016\n        in New York, Germany, and Peru."
+            }
+        },
+        "accessrestrict": {
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Edited interviews and video recordings of performance videos are available for public\n        streaming from NYU Libraries' website. The full-length interviews are available for\n        streaming with password authentication from NYU Libraries for researchers with prior\n        approval from the NYU Libraries based on the 2016 agreement with the donor."
+            }
+        },
+        "userestrict": {
+            "head": "Conditions Governing Use",
+            "p": {
+                "value": "Copyright (or related rights to publicity and privacy) for materials in this collection was\n        not transferred to New York University. Permission to use materials must be secured from the\n        copyright holder. Please contact the Fales Library and Special Collections,\n        fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": [
+            {
+                "value": "\n      \n      \n      \n    ",
+                "id": "aspace_0fac463a815d45650a80afaef22f8aa8"
+            }
+        ],
+        "processinfo": {
+            "head": "Processing Information",
+            "p": {
+                "value": "New York University Libraries follows professional standards and best practices when\n        imaging, ingesting, and processing born-digital material in order to maintain the integrity\n        of the content."
+            }
+        },
+        "arrangement": {
+            "head": "Arrangement",
+            "p": {
+                "value": "The collection is arranged in alphabetical order by last name of the music producer or\n        format of material."
+            }
+        },
+        "controlaccess": {
+            "genreform": [
+                {
+                    "value": "Video recordings.",
+                    "source": "aat"
+                }
+            ],
+            "subject": [
+                {
+                    "value": "Composition (Music) -- 21st century.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Electronic music.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Music -- Peru -- 20th century.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Women musicians -- Interviews.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Music -- Germany -- 20th century.",
+                    "source": "lcsh"
+                },
+                {
+                    "value": "Music -- New York (State) -- New York -- 20th century.",
+                    "source": "lcsh"
+                }
+            ],
+            "corpname": [
+                {
+                    "value": "Bit Rosie",
+                    "source": "local",
+                    "rules": "dacs"
+                }
+            ]
+        }
+    }
+}
