@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -21,17 +17,14 @@
         "filedesc": {
             "titlestmt": {
                 "titleproper": {
-                    "value": " Guide to the John \"The Cop\" Quigley Collection \n        ",
+                    "value": "Guide to the John \"The Cop\" Quigley Collection ",
                     "num": "MC.100"
                 },
                 "author": "Leslie Barnes."
             },
             "publicationstmt": {
                 "publisher": "New York University Archives",
-                "p": {
-                    "value": "\n          \n        ",
-                    "date": "n.d."
-                },
+                "p": "\u003cspan class=\"date\"\u003en.d.\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -55,7 +48,7 @@
                             "extptr": {}
                         },
                         {
-                            "value": " URL: \n          ",
+                            "value": "URL: ",
                             "extptr": {
                                 "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
                                 "show": "new",
@@ -70,8 +63,8 @@
         },
         "profiledesc": {
             "creation": {
-                "value": " This finding aid was produced using ArchivesSpace on  . ",
-                "date": "2020-01-14 14:28:52\n          -0500"
+                "value": "This finding aid was produced using ArchivesSpace on .",
+                "date": "2020-04-27 15:48:05 -0400"
             },
             "langusage": "English",
             "descrules": "Describing Archives: A Content Standard"
@@ -80,7 +73,7 @@
             "change": [
                 {
                     "date": "July 2019",
-                    "item": "Edited by Makoroba Sow for compliance with DACS and ACM Required Elements for Archival\n          Description"
+                    "item": "Edited by Makoroba Sow for compliance with DACS and ACM Required Elements for Archival Description"
                 }
             ]
         }
@@ -88,22 +81,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition",
-            "p": {
-                "value": "Donated by Daniel Quilty, Director of Athletics. The accession number associated with this\n        collection is 82.022."
-            }
+            "p": "Donated by Daniel Quilty, Director of Athletics. The accession number associated with this collection is 82.022."
         },
         "did": {
             "abstract": {
-                "value": " This collection contains\n        correspondence and questionnaires regarding life at the University Heights campus of New\n        York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a\n        popular figure at the school. John Quigley was an officer at the University Heights campus\n        for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes,\n        stories, and photographs from alumnus about Quigley in preparation for  , a book that celebrated Quigley's fortieth\n        anniversary at the University Heights campus. "
+                "value": "This collection contains correspondence and questionnaires regarding life at the University Heights campus of New York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a popular figure at the school. John Quigley was an officer at the University Heights campus for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes, stories, and photographs from alumnus about Quigley in preparation for , a book that celebrated Quigley's fortieth anniversary at the University Heights campus."
             },
             "langmaterial": {
-                "value": "Materials are in\n        English."
-            },
-            "origination": {
-                "persname": {
-                    "value": "Oscar Rose, Secretary of the Committee on Publication; member of\n          the NYU Arts and Engineering Alumni Association",
-                    "source": "local"
-                }
+                "value": "Materials are in English."
             },
             "physdesc": {
                 "extent": {
@@ -111,7 +96,7 @@
                 }
             },
             "physloc": {
-                "value": "Materials are stored offsite and advance\n        notice is required for use. Please request materials at least two business days prior to\n        your research visit to coordinate access."
+                "value": "Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access."
             },
             "repository": {
                 "corpname": {
@@ -122,7 +107,7 @@
                 "value": "John \"The Cop\" Quigley Collection"
             },
             "unitid": {
-                "value": "248"
+                "value": "MC.100"
             },
             "unitdate": {
                 "value": "1935-1937"
@@ -133,13 +118,10 @@
                 {
                     "did": {
                         "langmaterial": {
-                            "value": "\n             . "
+                            "value": "."
                         },
                         "unittitle": {
                             "value": "James Dalton - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174207"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -150,10 +132,7 @@
                 {
                     "did": {
                         "unittitle": {
-                            "value": "NYU Bureau of Public Information - Announcement of John Quigley's\n            death"
-                        },
-                        "unitid": {
-                            "value": "174217"
+                            "value": "NYU Bureau of Public Information - Announcement of John Quigley's death"
                         },
                         "unitdate": {
                             "value": "July 20, 1943"
@@ -166,9 +145,6 @@
                         "unittitle": {
                             "value": "Edward B. Willing - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174218"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -179,9 +155,6 @@
                     "did": {
                         "unittitle": {
                             "value": "E. H. Hamilton - Letter and Anecdotes about John Quigley"
-                        },
-                        "unitid": {
-                            "value": "174219"
                         },
                         "unitdate": {
                             "value": "July 16, 1935"
@@ -194,9 +167,6 @@
                         "unittitle": {
                             "value": "Leonard Eckman - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174220"
-                        },
                         "unitdate": {
                             "value": "June 12, 1935"
                         }
@@ -208,9 +178,6 @@
                         "unittitle": {
                             "value": "W. O. Partisch - Letter and Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174221"
-                        },
                         "unitdate": {
                             "value": "June 26, 1935"
                         }
@@ -220,10 +187,7 @@
                 {
                     "did": {
                         "unittitle": {
-                            "value": "H. F. Watson - Excerpts from an N.Y.U. Diary and Letter to Oscar\n            Rose"
-                        },
-                        "unitid": {
-                            "value": "174222"
+                            "value": "H. F. Watson - Excerpts from an N.Y.U. Diary and Letter to Oscar Rose"
                         },
                         "unitdate": {
                             "value": "October 4, 1935"
@@ -234,10 +198,7 @@
                 {
                     "did": {
                         "unittitle": {
-                            "value": "Irving E. Mansback - Anecdotes related to John Quigley and Letter to Oscar\n            Rose"
-                        },
-                        "unitid": {
-                            "value": "174223"
+                            "value": "Irving E. Mansback - Anecdotes related to John Quigley and Letter to Oscar Rose"
                         },
                         "unitdate": {
                             "value": "April 22, 1935"
@@ -250,9 +211,6 @@
                         "unittitle": {
                             "value": "John E. Longua - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174224"
-                        },
                         "unitdate": {
                             "value": "June 7, 1935"
                         }
@@ -263,9 +221,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Irving E. Mansback - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174225"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -278,9 +233,6 @@
                         "unittitle": {
                             "value": "Sidney Feildrey - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174226"
-                        },
                         "unitdate": {
                             "value": "June 7, 1935"
                         }
@@ -290,14 +242,11 @@
                 {
                     "did": {
                         "langmaterial": {
-                            "value": "\n             . "
+                            "value": "."
                         },
                         "unittitle": {
                             "value": "Freeman Woodbridge - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174227"
-                        },
                         "unitdate": {
                             "value": "June 7, 1935"
                         }
@@ -307,13 +256,10 @@
                 {
                     "did": {
                         "langmaterial": {
-                            "value": "\n             . "
+                            "value": "."
                         },
                         "unittitle": {
                             "value": "E. H. Hamilton - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174228"
                         },
                         "unitdate": {
                             "value": "July 10. 1935"
@@ -326,9 +272,6 @@
                         "unittitle": {
                             "value": "Bill Luasha - Questionnaire and Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174229"
-                        },
                         "unitdate": {
                             "value": "June 6, 1935"
                         }
@@ -339,9 +282,6 @@
                     "did": {
                         "unittitle": {
                             "value": "W. Elstad - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174230"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -354,9 +294,6 @@
                         "unittitle": {
                             "value": "Chas D. Humphey - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174231"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -367,9 +304,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Charles A. Tonsor - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174232"
                         },
                         "unitdate": {
                             "value": "January 21, 1935"
@@ -382,9 +316,6 @@
                         "unittitle": {
                             "value": "Joe Hickey - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174233"
-                        },
                         "unitdate": {
                             "value": "July 30, 1935"
                         }
@@ -394,10 +325,7 @@
                 {
                     "did": {
                         "unittitle": {
-                            "value": "Richard A. Lynch Jr. - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174234"
+                            "value": "Richard A. Lynch Jr.  - Letter to Oscar Rose"
                         },
                         "unitdate": {
                             "value": "July 30, 1935"
@@ -410,9 +338,6 @@
                         "unittitle": {
                             "value": "Rudolph Macy - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174235"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -423,9 +348,6 @@
                     "did": {
                         "unittitle": {
                             "value": "A. W. Odgen - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174236"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -438,9 +360,6 @@
                         "unittitle": {
                             "value": "T. Jiel - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174237"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -451,9 +370,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Benjamin A. Ross - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174238"
                         },
                         "unitdate": {
                             "value": "May 5, 1936"
@@ -466,9 +382,6 @@
                         "unittitle": {
                             "value": "Anon. - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174239"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -480,9 +393,6 @@
                         "unittitle": {
                             "value": "Edward J. McKary - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174240"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -493,9 +403,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Anon. - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174241"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -508,9 +415,6 @@
                         "unittitle": {
                             "value": "John M. Laughran - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174242"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -521,9 +425,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Robert S. Whightman - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174243"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -536,9 +437,6 @@
                         "unittitle": {
                             "value": "Lindorf - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174244"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -549,9 +447,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Theodore A. Distler - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174245"
                         },
                         "unitdate": {
                             "value": "June 21, 1935"
@@ -564,9 +459,6 @@
                         "unittitle": {
                             "value": "Hoyt Hostutter - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174246"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -578,9 +470,6 @@
                         "unittitle": {
                             "value": "Arthur J. O'dea - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174247"
-                        },
                         "unitdate": {
                             "value": "July 11, 1935"
                         }
@@ -590,13 +479,10 @@
                 {
                     "did": {
                         "langmaterial": {
-                            "value": "\n             . "
+                            "value": "."
                         },
                         "unittitle": {
                             "value": "Richard D. Pilieasteru - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174248"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -609,9 +495,6 @@
                         "unittitle": {
                             "value": "Harold Lenz - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174249"
-                        },
                         "unitdate": {
                             "value": "June 11, 1935"
                         }
@@ -623,9 +506,6 @@
                         "unittitle": {
                             "value": "Dr. Frank J. Goff - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174250"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -635,13 +515,10 @@
                 {
                     "did": {
                         "langmaterial": {
-                            "value": "\n             . "
+                            "value": "."
                         },
                         "unittitle": {
                             "value": "Seymour Male - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174251"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -654,9 +531,6 @@
                         "unittitle": {
                             "value": "Charles P. Murphy - Letter to Lawrence Lang"
                         },
-                        "unitid": {
-                            "value": "174252"
-                        },
                         "unitdate": {
                             "value": "July 10, 1935"
                         }
@@ -667,9 +541,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Oscar Rose - Letter to Alumnus"
-                        },
-                        "unitid": {
-                            "value": "174253"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -682,9 +553,6 @@
                         "unittitle": {
                             "value": "C. A. Bill - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174254"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -695,9 +563,6 @@
                     "did": {
                         "unittitle": {
                             "value": "H. F. Watson - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174255"
                         },
                         "unitdate": {
                             "value": "June 15, 1935"
@@ -710,9 +575,6 @@
                         "unittitle": {
                             "value": "Munro G. Rieser - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174256"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -723,9 +585,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Donald F. Brown - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174257"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -738,9 +597,6 @@
                         "unittitle": {
                             "value": "J. F. Rockwatt - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174258"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -751,9 +607,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Julian N. Henriques - Questionaire and Letter"
-                        },
-                        "unitid": {
-                            "value": "174259"
                         },
                         "unitdate": {
                             "value": "June 17, 1935"
@@ -766,9 +619,6 @@
                         "unittitle": {
                             "value": "Dr. S. Bernard Wortis - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174260"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -779,9 +629,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Dr. George A. Simons - Questionnaire and Pamphlets"
-                        },
-                        "unitid": {
-                            "value": "174261"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -794,9 +641,6 @@
                         "unittitle": {
                             "value": "Erwin H. Hamilton - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174262"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -807,9 +651,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Charles P. Murphy - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174263"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -822,9 +663,6 @@
                         "unittitle": {
                             "value": "Stanley Kenward - Questionnaire and Photographs"
                         },
-                        "unitid": {
-                            "value": "174264"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -835,9 +673,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Erwin H. Hamilton - Letter to Oscar Rose and Anecdotes"
-                        },
-                        "unitid": {
-                            "value": "174265"
                         },
                         "unitdate": {
                             "value": "August 21, 1935"
@@ -850,9 +685,6 @@
                         "unittitle": {
                             "value": "Jules W. Goldschmidt - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174266"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -863,9 +695,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Anon. - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174267"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -878,9 +707,6 @@
                         "unittitle": {
                             "value": "Harold H. Ball - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174268"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -891,9 +717,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Philip Finkelstein - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174269"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -906,9 +729,6 @@
                         "unittitle": {
                             "value": "D. H. Elineweisch - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174270"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -919,9 +739,6 @@
                     "did": {
                         "unittitle": {
                             "value": "M. L. Bettcher - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174271"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -934,9 +751,6 @@
                         "unittitle": {
                             "value": "Ernest Larson - Letter to Oscar Rose and Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174272"
-                        },
                         "unitdate": {
                             "value": "June 11, 1935"
                         }
@@ -947,9 +761,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Richard A. Lynch, Jr. - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174273"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -962,9 +773,6 @@
                         "unittitle": {
                             "value": "Joseph W. Roe - Letter to Oscar Rose and Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174274"
-                        },
                         "unitdate": {
                             "value": "June 6, 1935"
                         }
@@ -975,9 +783,6 @@
                     "did": {
                         "unittitle": {
                             "value": "John P. Phillips - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174275"
                         },
                         "unitdate": {
                             "value": "June 18, 1935"
@@ -990,9 +795,6 @@
                         "unittitle": {
                             "value": "Walter S. L. Cleverdon - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174276"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -1003,9 +805,6 @@
                     "did": {
                         "unittitle": {
                             "value": "George J. Viertel - Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174277"
                         },
                         "unitdate": {
                             "value": "c. 1935"
@@ -1018,9 +817,6 @@
                         "unittitle": {
                             "value": "C. Raymond Kramer - Letter to Oscar Rose and Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174278"
-                        },
                         "unitdate": {
                             "value": "June 11, 1935"
                         }
@@ -1032,9 +828,6 @@
                         "unittitle": {
                             "value": "A. L. Borton - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174279"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -1045,9 +838,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Sam M. Hollander - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174280"
                         },
                         "unitdate": {
                             "value": "July 10, 1935"
@@ -1060,9 +850,6 @@
                         "unittitle": {
                             "value": "Cayuga Press - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174281"
-                        },
                         "unitdate": {
                             "value": "February 15, 1935"
                         }
@@ -1073,9 +860,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Ben Ross - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174282"
                         },
                         "unitdate": {
                             "value": "January 11, 1938"
@@ -1088,9 +872,6 @@
                         "unittitle": {
                             "value": "Sam M. Hollander - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174283"
-                        },
                         "unitdate": {
                             "value": "August 27, 1937"
                         }
@@ -1101,9 +882,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Eugene R. Canudo - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174284"
                         },
                         "unitdate": {
                             "value": "January 6, 1933"
@@ -1116,9 +894,6 @@
                         "unittitle": {
                             "value": "Ben Ross - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174285"
-                        },
                         "unitdate": {
                             "value": "March 28, 1935"
                         }
@@ -1129,9 +904,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Arthur H. Nason - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitid": {
-                            "value": "174286"
                         },
                         "unitdate": {
                             "value": "June 6, 1935"
@@ -1144,9 +916,6 @@
                         "unittitle": {
                             "value": "Stanley Harte - Questionnaire"
                         },
-                        "unitid": {
-                            "value": "174287"
-                        },
                         "unitdate": {
                             "value": "c. 1935"
                         }
@@ -1157,9 +926,6 @@
                     "did": {
                         "unittitle": {
                             "value": "Sam M. Hollander - Letter to Oscar Rose"
-                        },
-                        "unitid": {
-                            "value": "174288"
                         },
                         "unitdate": {
                             "value": "June 3, 1935"
@@ -1172,9 +938,6 @@
                         "unittitle": {
                             "value": "Deems Taylor - Letter to Oscar Rose"
                         },
-                        "unitid": {
-                            "value": "174289"
-                        },
                         "unitdate": {
                             "value": "October 16, 1935"
                         }
@@ -1185,45 +948,33 @@
         },
         "scopecontent": {
             "head": "Scope and Contents",
-            "p": {
-                "value": "This collection is comprised of correspondence and questionnaires collected by Oscar Rose\n        between 1935 and 1938 for a proposed biography of John \"\"the Cop\" Quigley. Quigley was a\n        senior patrolman and guardian of the University Heights campus. The correspondence and\n        questionnaires pertain to both John Quigley and life at the University Heights campus of New\n        York University."
-            }
+            "p": "This collection is comprised of correspondence and questionnaires collected by Oscar Rose between 1935 and 1938 for a proposed biography of John \"\"the Cop\" Quigley. Quigley was a senior patrolman and guardian of the University Heights campus. The correspondence and questionnaires pertain to both John Quigley and life at the University Heights campus of New York University."
         },
         "bioghist": {
             "head": "Historical note",
-            "p": {
-                "value": "The University Heights campus, located in the Bronx, was a male-only undergraduate campus.\n        It was opened in the late nineteenth-century and sold in 1973."
-            }
+            "p": "The University Heights campus, located in the Bronx, was a male-only undergraduate campus. It was opened in the late nineteenth-century and sold in 1973."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Materials are open without restrictions."
-            }
+            "p": "Materials are open without restrictions."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Any rights (including copyright and related rights to publicity and privacy) held by Oscar\n        Rose are maintained by New York University. Permission to publish or reproduce materials in\n        this collection must be secured from repository. Please contact the New York University\n        Archives at university-archives@nyu.edu."
-            }
+            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Oscar Rose are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact the New York University Archives at university-archives@nyu.edu."
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n    ",
-                "id": "aspace_dec159a2b9fad6b682711c5b6d747bda"
+                "head": "Preferred Citation",
+                "p": "Identification of item, date; John \"The Cop\" Quigley Collection; MC 100; box number; folder number or item identifier; New York University Archives, New York University."
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "Decisions regarding arrangement, description, and physical interventions for this\n        collection prior to 2019 have not yet been recorded."
-            }
+            "p": "Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": "Original order was preserved. The materials in this collection do not appear to be arranged\n        chronologically. Each respondent or correspondent has been given a folder."
-            }
+            "p": "Original order was preserved. The materials in this collection do not appear to be arranged chronologically. Each respondent or correspondent has been given a folder."
         },
         "controlaccess": {
             "genreform": [
@@ -1234,21 +985,6 @@
                 {
                     "value": "Questionnaires.",
                     "source": "aat"
-                }
-            ],
-            "persname": [
-                {
-                    "value": "John Quigley, 1872-1943",
-                    "audience": "internal",
-                    "source": "local"
-                }
-            ],
-            "corpname": [
-                {
-                    "value": "New York University. University\n        Heights",
-                    "source": "naf",
-                    "audience": "internal",
-                    "rules": "aacr"
                 }
             ]
         }

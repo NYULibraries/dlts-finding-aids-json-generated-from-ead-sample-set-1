@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -22,16 +18,14 @@
         "filedesc": {
             "titlestmt": {
                 "titleproper": {
-                    "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series\n            ",
+                    "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series ",
                     "num": "MSS.460"
                 },
                 "author": "Megan O'Shea and Bess Pittman"
             },
             "publicationstmt": {
                 "publisher": "Fales Library and Special Collections",
-                "p": {
-                    "date": "April 2017"
-                },
+                "p": "\u003cspan class=\"date\"\u003eApril 2017\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -71,7 +65,7 @@
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-01-14 13:51:09\n          -0500"
+                "date": "2020-04-27 15:46:52 -0400"
             },
             "langusage": "Finding aid written in English",
             "descrules": "Describing Archives: A Content Standard"
@@ -81,16 +75,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition",
-            "p": {
-                "value": "Donated by Adele Fournet, September 2016. The accession number associated with this gift is\n        2016.041."
-            }
+            "p": "Donated by Adele Fournet, September 2016.  The accession number associated with this gift is 2016.041."
         },
         "did": {
             "abstract": {
-                "value": "Bit Rosie is a web series about female\n        music producers directed, produced, and edited by Adele Fournet between 2015 and 2016. The\n        project sought to highlight the work of women creating electronic music and to disseminate\n        their work. The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings\n        created by Fournet and the website, bitrosie.com, on which the recordings were posted. The\n        recordings include full-length and edited interviews with and performances by 11 of the 12\n        female music producers and groups featured on bitrosie.com. The Bit Rosie website includes\n        the edited interviews and video recordings of performances. The interviews include\n        discussions of the type of music the women create and produce, their creative influences and\n        processes, and their feelings about being women in a male-dominated field."
+                "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by Adele Fournet between 2015 and 2016.  The project sought to highlight the work of women creating electronic music and to disseminate their work.  The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings created by Fournet and the website, bitrosie.com, on which the recordings were posted.  The recordings include full-length and edited interviews with and performances by 11 of the 12 female music producers and groups featured on bitrosie.com.  The Bit Rosie website includes the edited interviews and video recordings of performances.  The interviews include discussions of the type of music the women create and produce, their creative influences and processes, and their feelings about being women in a male-dominated field."
             },
             "langmaterial": {
-                "value": "Materials primarily in English,\n        with six video recordings in Spanish and nine video recordings in German."
+                "value": "Materials primarily in English, with six video recordings in Spanish and nine video recordings in German."
             },
             "origination": {
                 "persname": {
@@ -152,31 +144,6 @@
                                             }
                                         },
                                         "unittitle": {
-                                            "value": "Andersson, Klara -- Full-length interview"
-                                        },
-                                        "unitid": {
-                                            "value": "cuid5742"
-                                        },
-                                        "unitdate": {
-                                            "value": "2016"
-                                        }
-                                    },
-                                    "accessrestrict": {
-                                        "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
-                                    },
-                                    "level": "item"
-                                },
-                                {
-                                    "did": {
-                                        "physdesc": {
-                                            "extent": {
-                                                "value": "in 1 video file."
-                                            }
-                                        },
-                                        "unittitle": {
                                             "value": "Andersson, Klara -- Performance"
                                         },
                                         "unitid": {
@@ -199,9 +166,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Klara Andersson is a Swedish music composer and performer who utilizes traditional\n              instruments along with technological enhancements to produce her pieces, which seek to\n              explore the line between noise and music. She works under the stage name Fagelle."
-                                }
+                                "p": "Klara Andersson is a Swedish music composer and performer who utilizes traditional instruments along with technological enhancements to produce her pieces, which seek to explore the line between noise and music. She works under the stage name Fagelle."
                             },
                             "level": "file"
                         },
@@ -219,9 +184,7 @@
                             },
                             "processinfo": {
                                 "head": "Processing Information",
-                                "p": {
-                                    "value": "Date of capture reflects the first date on which the site was crawled. Dates of\n              subsequent crawls can be found in the Wayback Machine."
-                                }
+                                "p": "Date of capture reflects the first date on which the site was crawled. Dates of subsequent crawls can be found in the Wayback Machine."
                             },
                             "level": "file"
                         },
@@ -265,9 +228,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -301,9 +262,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Orieta Chrem is a member of Menores, an experimental hip-hop group based in Lima,\n              Peru. She is also the producer of the group's music."
-                                }
+                                "p": "Orieta Chrem is a member of Menores, an experimental hip-hop group based in Lima, Peru. She is also the producer of the group's music."
                             },
                             "level": "file"
                         },
@@ -347,9 +306,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -383,9 +340,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Julie Covello, working under her stage name \"DJ Shakey\", is the producer for a\n              freestyle musical duo based out of Brooklyn, NY, called Opal Crocus. She also has a\n              solo career as a composer and performer."
-                                }
+                                "p": "Julie Covello, working under her stage name \"DJ Shakey\", is the producer for a freestyle musical duo based out of Brooklyn, NY, called Opal Crocus. She also has a solo career as a composer and performer."
                             },
                             "level": "file"
                         },
@@ -448,9 +403,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -484,9 +437,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Friederike Jager is a composer and performer based in Berlin, Germany. She composes\n              musical works with strong visual components as well as producing music for\n              theater."
-                                }
+                                "p": "Friederike Jager is a composer and performer based in Berlin, Germany. She composes musical works with strong visual components as well as producing music for theater."
                             },
                             "level": "file"
                         },
@@ -530,9 +481,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -566,9 +515,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Julie Kathryn is a music composer, producer, and performer based in New York City.\n              She is also on of the lead producers of the group \"Female Frequency\", an organization\n              dedicated to encouraging women to make music. She has composed and performed under her\n              own name as well as the stage name \"I Am Snow Angel\", which designates her exploration\n              of a mre pop-electronic style of music."
-                                }
+                                "p": "Julie Kathryn is a music composer, producer, and performer based in New York City. She is also on of the lead producers of the group \"Female Frequency\", an organization dedicated to encouraging women to make music. She has composed and performed under her own name as well as the stage name \"I Am Snow Angel\", which designates her exploration of a mre pop-electronic style of music."
                             },
                             "level": "file"
                         },
@@ -612,9 +559,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -648,9 +593,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Minami Kato is a Japanese composer and producer based in Brooklyn, NY. Her love for\n              technology and music shape her creations, although she also plays several traditional\n              instruments."
-                                }
+                                "p": "Minami Kato is a Japanese composer and producer based in Brooklyn, NY. Her love for technology and music shape her creations, although she also plays several traditional instruments."
                             },
                             "level": "file"
                         },
@@ -694,9 +637,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -730,9 +671,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "K. Marie Kim, a member of the alt-pop duo Blank Paper and session musician, is a\n              composer and performer based in Brooklyn, NY. She has also performed with musical\n              groups in several other genres and created music for short films and pilots."
-                                }
+                                "p": "K. Marie Kim, a member of the alt-pop duo Blank Paper and session musician, is a composer and performer based in Brooklyn, NY. She has also performed with musical groups in several other genres and created music for short films and pilots."
                             },
                             "level": "file"
                         },
@@ -776,9 +715,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -812,9 +749,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Dion McKenzie is a Jamaican musician based in Brooklyn, NY. She is a producer and DJ\n              who also works as a curator for two queer clubs in New York City, where she showcases\n              her experimental club sound."
-                                }
+                                "p": "Dion McKenzie is a Jamaican musician based in Brooklyn, NY. She is a producer and DJ who also works as a curator for two queer clubs in New York City, where she showcases her experimental club sound."
                             },
                             "level": "file"
                         },
@@ -858,9 +793,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -894,9 +827,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Franziska Plückhan is a composer, producer, and performer based in Berlin, Germany.\n              She works in the alt-pop genre under the stage name \"Sissip\"."
-                                }
+                                "p": "Franziska Plückhan is a composer, producer, and performer based in Berlin, Germany. She works in the alt-pop genre under the stage name \"Sissip\"."
                             },
                             "level": "file"
                         },
@@ -940,9 +871,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -976,9 +905,7 @@
                             },
                             "bioghist": {
                                 "head": "Bibliographical",
-                                "p": {
-                                    "value": "Pauchi Sasaki is a Peruvian-Japanese composer who utilizes her knowledge of\n              programming to make music that combines technology with traditional instruments."
-                                }
+                                "p": "Pauchi Sasaki is a Peruvian-Japanese composer who utilizes her knowledge of programming to make music that combines technology with traditional instruments."
                             },
                             "level": "file"
                         },
@@ -1022,9 +949,7 @@
                                     },
                                     "accessrestrict": {
                                         "head": "Conditions Governing Access",
-                                        "p": {
-                                            "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
-                                        }
+                                        "p": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
                                     },
                                     "level": "item"
                                 },
@@ -1058,9 +983,7 @@
                             },
                             "bioghist": {
                                 "head": "Biographical",
-                                "p": {
-                                    "value": "Gisela Fullá Silvestre is a producer, composer, and sound designer based in Brooklyn,\n              NY. She is originally from Barcelona, Spain. She works under the stage name NOIA."
-                                }
+                                "p": "Gisela Fullá Silvestre is a producer, composer, and sound designer based in Brooklyn, NY. She is originally from Barcelona, Spain. She works under the stage name NOIA."
                             },
                             "level": "file"
                         }
@@ -1076,45 +999,33 @@
         },
         "scopecontent": {
             "head": "Scope and Contents",
-            "p": {
-                "value": "The Adele Fournet Papers on the Bit Rosie Web Series documents the work of Fournet in\n        creating her web series, Bit Rosie, about female music producers. The collection contains 33\n        video recordings recorded by Fournet; an archived copy of bitrosie.com, the website on which\n        the series was published; and two spreadsheets created by Fournet with information about\n        each producer. The video recordings include full-length and edited interviews with and\n        performances by 11 of the 12 female music producers featured on bitrosie.com. The producers\n        represented in the collection are Klara Andersson, Orieta Chrem, Julie Covello, Friederike\n        Jäger, Julie Kathryn, Minami Kato, K. Marie Kim, Dion McKenzie, Franziska Plückhan, Pauchi\n        Sasaki, and Gisela Fullá Silvestre. The interviews include discussions of the type of music\n        the women create and produce, their creative influences and processes, and their feelings\n        about being women in a male-dominated field. The interviews were conducted in New York,\n        Germany, and Peru. The website includes brief biographies, edited interviews, and video\n        recordings of performances for 12 female music producers. The spreadsheets include\n        information about the producers, including the type of music they create, the hardware and\n        software they use to create the music, and where they live and work."
-            }
+            "p": "The Adele Fournet Papers on the Bit Rosie Web Series documents the work of Fournet in creating her web series, Bit Rosie, about female music producers.  The collection contains 33 video recordings recorded by Fournet; an archived copy of bitrosie.com, the website on which the series was published; and two spreadsheets created by Fournet with information about each producer.  The video recordings include full-length and edited interviews with and performances by 11 of the 12 female music producers featured on bitrosie.com.  The producers represented in the collection are Klara Andersson, Orieta Chrem, Julie Covello, Friederike Jäger, Julie Kathryn, Minami Kato, K. Marie Kim, Dion McKenzie, Franziska Plückhan, Pauchi Sasaki, and Gisela Fullá Silvestre.  The interviews include discussions of the type of music the women create and produce, their creative influences and processes, and their feelings about being women in a male-dominated field.  The interviews were conducted in New York, Germany, and Peru.  The website includes brief biographies, edited interviews, and video recordings of performances for 12 female music producers.  The spreadsheets include information about the producers, including the type of music they create, the hardware and software they use to create the music, and where they live and work."
         },
         "bioghist": {
             "head": "Historical Note",
-            "p": {
-                "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by\n        Adele Fournet between 2015 and 2016. The project sought to highlight the work of women\n        creating electronic music and to disseminate their work. Fournet conducted 12 interviews\n        with women working with music technology as producers, DJs, and engineers, both individually\n        and in collaboration with other women. The interviews were conducted between 2015 and 2016\n        in New York, Germany, and Peru."
-            }
+            "p": "Bit Rosie is a web series about female music producers directed, produced, and edited by Adele Fournet between 2015 and 2016.  The project sought to highlight the work of women creating electronic music and to disseminate their work.  Fournet conducted 12 interviews with women working with music technology as producers, DJs, and engineers, both individually and in collaboration with other women.  The interviews were conducted between 2015 and 2016 in New York, Germany, and Peru."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Edited interviews and video recordings of performance videos are available for public\n        streaming from NYU Libraries' website. The full-length interviews are available for\n        streaming with password authentication from NYU Libraries for researchers with prior\n        approval from the NYU Libraries based on the 2016 agreement with the donor."
-            }
+            "p": "Edited interviews and video recordings of performance videos are available for public streaming from NYU Libraries' website. The full-length interviews are available for streaming with password authentication from NYU Libraries for researchers with prior approval from the NYU Libraries based on the 2016 agreement with the donor."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Copyright (or related rights to publicity and privacy) for materials in this collection was\n        not transferred to New York University. Permission to use materials must be secured from the\n        copyright holder. Please contact the Fales Library and Special Collections,\n        fales.library@nyu.edu, 212-998-2596."
-            }
+            "p": "Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n      \n    ",
-                "id": "aspace_0fac463a815d45650a80afaef22f8aa8"
+                "head": "Preferred Citation",
+                "p": "For archived website:  \"Page Title.\" Archived month/day/year. Adele Fournet Papers on the Bit Rosie Web Series, Fales Library \u0026 Special Collections, New York University. https://wayback.archive-it.org/7872/*/http://www.bitrosie.com. (Accessed month/day/year)"
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "New York University Libraries follows professional standards and best practices when\n        imaging, ingesting, and processing born-digital material in order to maintain the integrity\n        of the content."
-            }
+            "p": "New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": "The collection is arranged in alphabetical order by last name of the music producer or\n        format of material."
-            }
+            "p": "The collection is arranged in alphabetical order by last name of the music producer or format of material."
         },
         "controlaccess": {
             "genreform": [
@@ -1125,7 +1036,7 @@
             ],
             "subject": [
                 {
-                    "value": "Composition (Music) -- 21st century.",
+                    "value": "Composition (Music)          -- 21st century.",
                     "source": "lcsh"
                 },
                 {
