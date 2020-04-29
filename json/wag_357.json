@@ -18,182 +18,287 @@
             "titlestmt": {
                 "titleproper": {
                     "value": "Guide to the Noah Karvelis Papers on Arizona Teachers Organizing ",
-                    "num": "WAG.357"
+                    "num": [
+                        "WAG.357"
+                    ]
                 },
-                "author": "Rachel Searcy"
+                "author": [
+                    "Rachel Searcy"
+                ]
             },
             "publicationstmt": {
-                "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": "\u003cspan class=\"date\"\u003eSeptember 2019\u003c/span\u003e",
-                "address": {
-                    "addressline": [
-                        {
-                            "value": "Elmer Holmes Bobst Library",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "70 Washington Square South",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "2nd Floor",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "New York, NY 10012",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "special.collections@nyu.edu",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "URL: ",
-                            "extptr": {
-                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "show": "new",
-                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "type": "simple"
+                "publisher": [
+                    "Tamiment Library and Robert F. Wagner Labor Archives"
+                ],
+                "p": [
+                    "\u003cspan class=\"date\"\u003eSeptember 2019\u003c/span\u003e"
+                ],
+                "address": [
+                    {
+                        "addressline": [
+                            {
+                                "value": "Elmer Holmes Bobst Library",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "70 Washington Square South",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "2nd Floor",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "New York, NY 10012",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "special.collections@nyu.edu",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "URL: ",
+                                "extptr": {
+                                    "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "show": "new",
+                                    "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "type": "simple"
+                                }
                             }
-                        }
-                    ]
-                }
+                        ]
+                    }
+                ]
             },
             "editionstmt": {}
         },
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-04-27 16:11:52 -0400"
+                "date": [
+                    "2020-04-27 16:11:52 -0400"
+                ]
             },
-            "langusage": "Finding aid written in English",
-            "descrules": "Describing Archives: A Content Standard"
+            "langusage": [
+                "Finding aid written in English"
+            ],
+            "descrules": [
+                "Describing Archives: A Content Standard"
+            ]
         },
         "revisiondesc": {}
     },
-    "archdesc": {
-        "acqinfo": {
-            "head": "Immediate Source of Acquisition",
-            "p": "Donated by Noah Karvelis in May 2019; the accession number associated with this gift is 2019.108."
-        },
-        "did": {
-            "abstract": {
-                "value": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United. The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press releas, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
-            },
-            "langmaterial": {
-                "value": "Materials are in English."
-            },
-            "origination": {
-                "persname": {
-                    "value": "Karvelis, Noah",
-                    "source": "local",
-                    "rules": "dacs",
-                    "role": "dnr"
-                }
-            },
-            "physdesc": {
-                "extent": {
-                    "value": "in 6 documents"
-                }
-            },
-            "repository": {
-                "corpname": {
-                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                }
-            },
-            "unittitle": {
-                "value": "Noah Karvelis Papers on Arizona Teachers Organizing"
-            },
-            "unitid": {
-                "value": "WAG.357"
-            },
-            "unitdate": {
-                "value": "2018"
-            }
-        },
-        "dsc": {
-            "c": [
+    "archdesc": [
+        {
+            "acqinfo": [
                 {
-                    "did": {
-                        "unittitle": {
-                            "value": "PDF Files"
-                        },
-                        "unitdate": {
-                            "value": "2018-03-2018-04"
+                    "head": [
+                        "Immediate Source of Acquisition"
+                    ],
+                    "p": [
+                        "Donated by Noah Karvelis in May 2019; the accession number associated with this gift is 2019.108."
+                    ]
+                }
+            ],
+            "did": [
+                {
+                    "abstract": [
+                        {
+                            "value": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United. The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press releas, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
                         }
-                    },
-                    "level": "file"
-                }
-            ]
-        },
-        "scopecontent": {
-            "head": "Scope and Contents",
-            "p": "The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press release, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
-        },
-        "bioghist": {
-            "head": "Biographical Note",
-            "p": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United."
-        },
-        "accessrestrict": {
-            "head": "Conditions Governing Access",
-            "p": "Materials are open without restrictions."
-        },
-        "userestrict": {
-            "head": "Conditions Governing Use",
-            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Noah Karvelis, the creator of this collection, were relinquished and transferred to the public domain in 2019 by the donor. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/"
-        },
-        "prefercite": [
-            {
-                "head": "Preferred Citation",
-                "p": "Identification of item, date; Noah Karvelis Papers on Arizona Teachers Organizing; WAG 357; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
-            }
-        ],
-        "processinfo": {
-            "head": "Processing Information",
-            "p": "At the time of accessioning, files were described on the collection-level. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content."
-        },
-        "arrangement": {
-            "head": "Arrangement",
-            "p": "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
-        },
-        "controlaccess": {
-            "persname": [
-                {
-                    "value": "Karvelis, Noah",
-                    "source": "local",
-                    "rules": "dacs",
-                    "role": "dnr"
-                }
-            ],
-            "subject": [
-                {
-                    "value": "Teachers' contracts -- United States.",
-                    "source": "lcsh"
-                },
-                {
-                    "value": "Teachers -- Political activity",
-                    "source": "lcsh"
-                },
-                {
-                    "value": "Teachers' unions.",
-                    "source": "lcsh"
-                },
-                {
-                    "value": "Education and state -- Arizona",
-                    "source": "lcsh"
-                },
-                {
-                    "value": "Teachers' unions -- Arizona",
-                    "source": "lcsh"
+                    ],
+                    "langmaterial": [
+                        {
+                            "value": "Materials are in English."
+                        }
+                    ],
+                    "origination": [
+                        {
+                            "persname": [
+                                {
+                                    "value": "Karvelis, Noah",
+                                    "source": "local",
+                                    "rules": "dacs"
+                                }
+                            ]
+                        },
+                        {
+                            "persname": [
+                                {
+                                    "value": "Karvelis, Noah",
+                                    "source": "local",
+                                    "rules": "dacs",
+                                    "role": "dnr"
+                                }
+                            ]
+                        }
+                    ],
+                    "physdesc": [
+                        {
+                            "extent": {
+                                "value": "in 6 documents"
+                            }
+                        }
+                    ],
+                    "repository": [
+                        {
+                            "corpname": [
+                                {
+                                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                                }
+                            ]
+                        }
+                    ],
+                    "unittitle": [
+                        {
+                            "value": "Noah Karvelis Papers on Arizona Teachers Organizing"
+                        }
+                    ],
+                    "unitid": [
+                        {
+                            "value": "WAG.357"
+                        }
+                    ],
+                    "unitdate": [
+                        {
+                            "value": "2018"
+                        }
+                    ]
                 }
             ],
-            "corpname": [
+            "dsc": [
                 {
-                    "value": "Arizona Educators United",
-                    "source": "local",
-                    "rules": "dacs"
+                    "c": [
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "PDF Files"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "2018-03-2018-04"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        }
+                    ]
+                }
+            ],
+            "scopecontent": [
+                {
+                    "head": [
+                        "Scope and Contents"
+                    ],
+                    "p": [
+                        "The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press release, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
+                    ]
+                }
+            ],
+            "bioghist": [
+                {
+                    "head": [
+                        "Biographical Note"
+                    ],
+                    "p": [
+                        "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United."
+                    ]
+                }
+            ],
+            "accessrestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Access"
+                    ],
+                    "p": [
+                        "Materials are open without restrictions."
+                    ]
+                }
+            ],
+            "userestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Use"
+                    ],
+                    "p": [
+                        "Any rights (including copyright and related rights to publicity and privacy) held by Noah Karvelis, the creator of this collection, were relinquished and transferred to the public domain in 2019 by the donor. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/"
+                    ]
+                }
+            ],
+            "prefercite": [
+                {
+                    "head": [
+                        "Preferred Citation"
+                    ],
+                    "p": [
+                        "Identification of item, date; Noah Karvelis Papers on Arizona Teachers Organizing; WAG 357; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+                    ]
+                }
+            ],
+            "processinfo": [
+                {
+                    "head": [
+                        "Processing Information"
+                    ],
+                    "p": [
+                        "At the time of accessioning, files were described on the collection-level. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content."
+                    ]
+                }
+            ],
+            "arrangement": [
+                {
+                    "head": [
+                        "Arrangement"
+                    ],
+                    "p": [
+                        "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
+                    ]
+                }
+            ],
+            "controlaccess": [
+                {
+                    "persname": [
+                        {
+                            "value": "Karvelis, Noah",
+                            "source": "local",
+                            "rules": "dacs",
+                            "role": "dnr"
+                        }
+                    ],
+                    "subject": [
+                        {
+                            "value": "Teachers' contracts -- United States.",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Teachers -- Political activity",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Teachers' unions.",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Education and state -- Arizona",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Teachers' unions -- Arizona",
+                            "source": "lcsh"
+                        }
+                    ],
+                    "corpname": [
+                        {
+                            "value": "Arizona Educators United",
+                            "source": "local",
+                            "rules": "dacs"
+                        }
+                    ]
                 }
             ]
         }
-    }
+    ]
 }

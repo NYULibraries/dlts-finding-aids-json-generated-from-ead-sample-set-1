@@ -19,151 +19,242 @@
             "titlestmt": {
                 "titleproper": {
                     "value": "Guide to the David Havens Photographs on the Cuban Revolution ",
-                    "num": "TAM.691"
+                    "num": [
+                        "TAM.691"
+                    ]
                 },
-                "author": "Heather Mulliner"
+                "author": [
+                    "Heather Mulliner"
+                ]
             },
             "publicationstmt": {
-                "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": "\u003cspan class=\"date\"\u003e3/10/2016\u003c/span\u003e",
-                "address": {
-                    "addressline": [
-                        {
-                            "value": "Elmer Holmes Bobst Library",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "70 Washington Square South",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "2nd Floor",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "New York, NY 10012",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "special.collections@nyu.edu",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "URL: ",
-                            "extptr": {
-                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "show": "new",
-                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "type": "simple"
+                "publisher": [
+                    "Tamiment Library and Robert F. Wagner Labor Archives"
+                ],
+                "p": [
+                    "\u003cspan class=\"date\"\u003e3/10/2016\u003c/span\u003e"
+                ],
+                "address": [
+                    {
+                        "addressline": [
+                            {
+                                "value": "Elmer Holmes Bobst Library",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "70 Washington Square South",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "2nd Floor",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "New York, NY 10012",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "special.collections@nyu.edu",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "URL: ",
+                                "extptr": {
+                                    "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "show": "new",
+                                    "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "type": "simple"
+                                }
                             }
-                        }
-                    ]
-                }
+                        ]
+                    }
+                ]
             },
             "editionstmt": {}
         },
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-04-27 16:12:34 -0400"
+                "date": [
+                    "2020-04-27 16:12:34 -0400"
+                ]
             },
-            "langusage": "Finding aid written in English",
-            "descrules": "Describing Archives: A Content Standard"
+            "langusage": [
+                "Finding aid written in English"
+            ],
+            "descrules": [
+                "Describing Archives: A Content Standard"
+            ]
         },
         "revisiondesc": {}
     },
-    "archdesc": {
-        "acqinfo": {
-            "head": "Immediate Source of Acquisition",
-            "p": "Donated by David Havens in 2016. The accession number associated with this gift is 2017.008."
-        },
-        "did": {
-            "abstract": {
-                "value": "David Havens is a former minister who captured documentary photographs of the Cuban Revolution in 1959. The collection contains 51 black-and-white photographs Havens took during the Cuban Revolution. The photos in the collection were taken during the first week of the revolution between January 4 and Fidel Castro's arrival in Havana on January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers entering the city of Havana, and Cuban architecture."
-            },
-            "langmaterial": {
-                "value": "Materials are in English."
-            },
-            "origination": {
-                "persname": {
-                    "value": "Havens, David N.",
-                    "source": "local",
-                    "rules": "dacs",
-                    "role": "dnr"
-                }
-            },
-            "physdesc": {
-                "extent": {
-                    "value": "in 1 card box."
-                }
-            },
-            "repository": {
-                "corpname": {
-                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                }
-            },
-            "unittitle": {
-                "value": "David Havens Photographs on the Cuban Revolution"
-            },
-            "unitid": {
-                "value": "TAM.691"
-            },
-            "unitdate": {
-                "value": "1959-01-04-1959-01-08"
-            }
-        },
-        "dsc": {},
-        "scopecontent": {
-            "head": "Content Description",
-            "p": "This collection includes 51 black and white photographs of the Cuban Revolution taken by Minister David Havens. The photographs in the collection were taken during the first week of the Cuban Revolution in 1959 between January 4 and Fidel Castro's arrival in Havana on January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers entering the city of Havana, and Cuban architecture."
-        },
-        "bioghist": {
-            "head": "Biographical / Historical",
-            "p": "Havens later settled in Hollister, California where he became a minister at the town's First Christian Church."
-        },
-        "accessrestrict": {
-            "head": "Conditions Governing Access",
-            "p": "Materials are open without restrictions."
-        },
-        "userestrict": {
-            "head": "Conditions Governing Use",
-            "p": "Any rights (including copyright and related rights to publicity and privacy) held by David Havens, the creator of this collection, were relinquished and transferred to the public domain in 2016 by David Havens. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/."
-        },
-        "prefercite": [
-            {
-                "head": "Preferred Citation",
-                "p": "Identification of item, date; David Havens Photographs on the Cuban Revolution; TAM 691; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
-            }
-        ],
-        "processinfo": {
-            "head": "Processing Information",
-            "p": "Upon the receipt of the collection, damaged materials received conservation treatment to flatten curled photograps at which time photographs were moved into archival housing. At the time of accessioning a brief collection-level description was created to desribe the contents of this collection."
-        },
-        "arrangement": {
-            "head": "Arrangement",
-            "p": "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
-        },
-        "controlaccess": {
-            "genreform": [
+    "archdesc": [
+        {
+            "acqinfo": [
                 {
-                    "value": "Black-and-white photographs.",
-                    "source": "aat"
+                    "head": [
+                        "Immediate Source of Acquisition"
+                    ],
+                    "p": [
+                        "Donated by David Havens in 2016. The accession number associated with this gift is 2017.008."
+                    ]
                 }
             ],
-            "geogname": [
+            "did": [
                 {
-                    "value": "Cuba -- History --  Revolution, 1959.",
-                    "source": "lcsh"
-                },
+                    "abstract": [
+                        {
+                            "value": "David Havens is a former minister who captured documentary photographs of the Cuban Revolution in 1959. The collection contains 51 black-and-white photographs Havens took during the Cuban Revolution. The photos in the collection were taken during the first week of the revolution between January 4 and Fidel Castro's arrival in Havana on January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers entering the city of Havana, and Cuban architecture."
+                        }
+                    ],
+                    "langmaterial": [
+                        {
+                            "value": "Materials are in English."
+                        }
+                    ],
+                    "origination": [
+                        {
+                            "persname": [
+                                {
+                                    "value": "Havens, David N.",
+                                    "source": "local",
+                                    "rules": "dacs",
+                                    "role": "dnr"
+                                }
+                            ]
+                        }
+                    ],
+                    "physdesc": [
+                        {
+                            "extent": {
+                                "value": "in 1 card box."
+                            }
+                        }
+                    ],
+                    "repository": [
+                        {
+                            "corpname": [
+                                {
+                                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                                }
+                            ]
+                        }
+                    ],
+                    "unittitle": [
+                        {
+                            "value": "David Havens Photographs on the Cuban Revolution"
+                        }
+                    ],
+                    "unitid": [
+                        {
+                            "value": "TAM.691"
+                        }
+                    ],
+                    "unitdate": [
+                        {
+                            "value": "1959-01-04-1959-01-08"
+                        }
+                    ]
+                }
+            ],
+            "dsc": [
+                {}
+            ],
+            "scopecontent": [
                 {
-                    "value": "Cuba -- History.",
-                    "source": "lcsh"
-                },
+                    "head": [
+                        "Content Description"
+                    ],
+                    "p": [
+                        "This collection includes 51 black and white photographs of the Cuban Revolution taken by Minister David Havens. The photographs in the collection were taken during the first week of the Cuban Revolution in 1959 between January 4 and Fidel Castro's arrival in Havana on January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers entering the city of Havana, and Cuban architecture."
+                    ]
+                }
+            ],
+            "bioghist": [
                 {
-                    "value": "Havana (Cuba)",
-                    "source": "lcsh"
+                    "head": [
+                        "Biographical / Historical"
+                    ],
+                    "p": [
+                        "David Havens is a former minister who captured documentary photographs of the Cuban Revolution in 1959. Havens attended the Lexington Theological Seminary in Lexington, Kentucky in the late 1950s. On January 1, 1959, during his winter break at the seminary he read that Cuban President Fulgencio Batista had fled Cuba. Interested in witnessing the Cuban Revolution first hand, Havens posed as a freelance journalist and traveled to Cuba with no photography experience and a 35mm camera he had borrowed from his roommate. He arrived in Havana several days later. While in Havana he accompanied a small band of armed men keeping peace in the city and documenting the reaction of people in the streets. He later witnessed the arrival of Fidel Castro and his army in Havana on January 8. Havens left Cuba on January 8, shortly after Castro's arrival, and took hundreds of photos during his short trip. When he returned to Kentucky wrote about his experience in the Lexington Herald. Although he took hundreds of photos during his travels to Cuba only 51 have survived. ",
+                        "Havens later settled in Hollister, California where he became a minister at the town's First Christian Church."
+                    ]
+                }
+            ],
+            "accessrestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Access"
+                    ],
+                    "p": [
+                        "Materials are open without restrictions."
+                    ]
+                }
+            ],
+            "userestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Use"
+                    ],
+                    "p": [
+                        "Any rights (including copyright and related rights to publicity and privacy) held by David Havens, the creator of this collection, were relinquished and transferred to the public domain in 2016 by David Havens. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/."
+                    ]
+                }
+            ],
+            "prefercite": [
+                {
+                    "head": [
+                        "Preferred Citation"
+                    ],
+                    "p": [
+                        "Identification of item, date; David Havens Photographs on the Cuban Revolution; TAM 691; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+                    ]
+                }
+            ],
+            "processinfo": [
+                {
+                    "head": [
+                        "Processing Information"
+                    ],
+                    "p": [
+                        "Upon the receipt of the collection, damaged materials received conservation treatment to flatten curled photograps at which time photographs were moved into archival housing. At the time of accessioning a brief collection-level description was created to desribe the contents of this collection."
+                    ]
+                }
+            ],
+            "arrangement": [
+                {
+                    "head": [
+                        "Arrangement"
+                    ],
+                    "p": [
+                        "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
+                    ]
+                }
+            ],
+            "controlaccess": [
+                {
+                    "genreform": [
+                        {
+                            "value": "Black-and-white photographs.",
+                            "source": "aat"
+                        }
+                    ],
+                    "geogname": [
+                        {
+                            "value": "Cuba -- History --  Revolution, 1959.",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Cuba -- History.",
+                            "source": "lcsh"
+                        },
+                        {
+                            "value": "Havana (Cuba)",
+                            "source": "lcsh"
+                        }
+                    ]
                 }
             ]
         }
-    }
+    ]
 }
