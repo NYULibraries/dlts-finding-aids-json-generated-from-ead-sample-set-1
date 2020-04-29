@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -21,16 +17,14 @@
         "filedesc": {
             "titlestmt": {
                 "titleproper": {
-                    "value": "Guide to the Noah Karvelis Papers on Arizona Teachers Organizing\n            ",
+                    "value": "Guide to the Noah Karvelis Papers on Arizona Teachers Organizing ",
                     "num": "WAG.357"
                 },
                 "author": "Rachel Searcy"
             },
             "publicationstmt": {
                 "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": {
-                    "date": "September 2019"
-                },
+                "p": "\u003cspan class=\"date\"\u003eSeptember 2019\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -70,7 +64,7 @@
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-01-14 10:41:58\n          -0500"
+                "date": "2020-04-27 16:11:52 -0400"
             },
             "langusage": "Finding aid written in English",
             "descrules": "Describing Archives: A Content Standard"
@@ -80,16 +74,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition",
-            "p": {
-                "value": "Donated by Noah Karvelis in May 2019; the accession number associated with this gift is\n        2019.108."
-            }
+            "p": "Donated by Noah Karvelis in May 2019; the accession number associated with this gift is 2019.108."
         },
         "did": {
             "abstract": {
-                "value": "Noah Karvelis is a music teacher based\n        in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison\n        focusing on the intersections of education, power, and the political agency of teachers. He\n        is a member of the Arizona Education Association and a co-founder of Arizona Educators\n        United. The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files\n        from March and April 2018 documenting Karvelis' involvement in labor organizing by\n        rank-and-file educators in Arizona. Materials include a flyer, press releas, speech notes\n        and transcript, a campaign action timeline, and an agenda for a town hall documenting the\n        organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom\n        conditions, lack of teaching materials, and the larger state of education in Arizona. Many\n        of the documents in this collection focus on the #RedForEd Facebook event."
+                "value": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United. The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press releas, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
             },
             "langmaterial": {
-                "value": "Materials are in\n        English."
+                "value": "Materials are in English."
             },
             "origination": {
                 "persname": {
@@ -136,45 +128,33 @@
         },
         "scopecontent": {
             "head": "Scope and Contents",
-            "p": {
-                "value": "The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from\n        March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file\n        educators in Arizona. Materials include a flyer, press release, speech notes and transcript,\n        a campaign action timeline, and an agenda for a town hall documenting the organizing efforts\n        of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of\n        teaching materials, and the larger state of education in Arizona. Many of the documents in\n        this collection focus on the #RedForEd Facebook event."
-            }
+            "p": "The Noah Karvelis Papers on Arizona Teachers Organizing consists of six PDF files from March and April 2018 documenting Karvelis' involvement in labor organizing by rank-and-file educators in Arizona. Materials include a flyer, press release, speech notes and transcript, a campaign action timeline, and an agenda for a town hall documenting the organizing efforts of Arizona Educators United (AEU) concerning teachers' wages, classroom conditions, lack of teaching materials, and the larger state of education in Arizona. Many of the documents in this collection focus on the #RedForEd Facebook event."
         },
         "bioghist": {
             "head": "Biographical Note",
-            "p": {
-                "value": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at\n        the University of Wisconsin-Madison focusing on the intersections of education, power, and\n        the political agency of teachers. He is a member of the Arizona Education Association and a\n        co-founder of Arizona Educators United."
-            }
+            "p": "Noah Karvelis is a music teacher based in Phoenix, Arizona. Karvelis earned his Ph.D. at the University of Wisconsin-Madison focusing on the intersections of education, power, and the political agency of teachers. He is a member of the Arizona Education Association and a co-founder of Arizona Educators United."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Materials are open without restrictions."
-            }
+            "p": "Materials are open without restrictions."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Any rights (including copyright and related rights to publicity and privacy) held by Noah\n        Karvelis, the creator of this collection, were relinquished and transferred to the public\n        domain in 2019 by the donor. These materials are governed by a Creative Commons CC0 license,\n        which permits publication and reproduction of materials accompanied by full attribution.\n        See, https://creativecommons.org/licenses/"
-            }
+            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Noah Karvelis, the creator of this collection, were relinquished and transferred to the public domain in 2019 by the donor. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/"
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n    ",
-                "id": "aspace_47044775fce98e1dd1d49770fe33775b"
+                "head": "Preferred Citation",
+                "p": "Identification of item, date; Noah Karvelis Papers on Arizona Teachers Organizing; WAG 357; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "At the time of accessioning, files were described on the collection-level. New York\n        University Libraries follow professional standards and best practices when imaging,\n        ingesting, and processing born-digital material in order to maintain the integrity and\n        authenticity of the content."
-            }
+            "p": "At the time of accessioning, files were described on the collection-level. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": "This collection has not been arranged by an archivist. The materials are arranged in the\n        order in which they were received from the donor."
-            }
+            "p": "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
         },
         "controlaccess": {
             "persname": [

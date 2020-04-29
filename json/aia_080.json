@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -22,17 +18,14 @@
         "filedesc": {
             "titlestmt": {
                 "titleproper": {
-                    "value": " Guide to the Irish Repertory Theatre Records \n        ",
+                    "value": "Guide to the Irish Repertory Theatre Records ",
                     "num": "AIA.080"
                 },
                 "author": "Megan O'Shea and Kate Fisher"
             },
             "publicationstmt": {
                 "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": {
-                    "value": "\n          \n        ",
-                    "date": "April 2018"
-                },
+                "p": "\u003cspan class=\"date\"\u003eApril 2018\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -56,7 +49,7 @@
                             "extptr": {}
                         },
                         {
-                            "value": " URL: \n          ",
+                            "value": "URL: ",
                             "extptr": {
                                 "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
                                 "show": "new",
@@ -71,8 +64,8 @@
         },
         "profiledesc": {
             "creation": {
-                "value": " This finding aid was produced using ArchivesSpace on  . ",
-                "date": "2020-01-14 12:07:27\n          -0500"
+                "value": "This finding aid was produced using ArchivesSpace on .",
+                "date": "2020-04-24 11:37:56 -0400"
             },
             "langusage": "Finding aid written in English",
             "descrules": "Describing Archives: A Content Standard"
@@ -89,16 +82,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition",
-            "p": {
-                "value": "Donated by Ciarán O'Reilly in June 2016. The accession number associated with this gift is\n        2016.055."
-            }
+            "p": "Donated by Ciarán O'Reilly in June 2016.  The accession number associated with this gift is 2016.055."
         },
         "did": {
             "abstract": {
-                "value": " The Irish Repertory Theatre (IRT) was\n        founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly. The IRT\n        produces Irish and Irish-American plays and musicals year-round. The Irish Repertory Theatre\n        Records document 28 seasons of productions, from 1988 to 2016. Productions include  ,  , and  . The\n        records contain press and marketing materials, correspondence, scripts, legal documents,\n        financial documents, original artwork, video recordings, and posters. The material consists\n        of paper, born-digital, and audiovisual material. "
+                "value": "The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  The IRT produces Irish and Irish-American plays and musicals year-round.  The Irish Repertory Theatre Records document 28 seasons of productions, from 1988 to 2016.  Productions include , , and .  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, video recordings, and posters.  The material consists of paper, born-digital, and audiovisual material."
             },
             "langmaterial": {
-                "value": "Materials in\n        English."
+                "value": "Materials in English."
             },
             "origination": {
                 "persname": {
@@ -112,7 +103,7 @@
                 }
             },
             "physloc": {
-                "value": "Materials are stored offsite and advance\n        notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business\n        days prior to your research visit to coordinate access."
+                "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
             },
             "repository": {
                 "corpname": {
@@ -136,7 +127,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1988-1989 Season -- \n            "
+                                    "value": "1988-1989 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1981-1988"
@@ -147,7 +138,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1988-1989 Season -- \n            "
+                                    "value": "1988-1989 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1988"
@@ -158,7 +149,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1988-1989 Season -- \n            "
+                                    "value": "1988-1989 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1988-1989"
@@ -169,19 +160,21 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1988-1989 Season -- \n            "
+                                    "value": "1988-1989 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0011"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1989-1990 Season -- \n            "
+                                    "value": "1989-1990 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1989"
@@ -192,7 +185,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1989-1990 Season -- \n            "
+                                    "value": "1989-1990 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1989-1990"
@@ -203,7 +196,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1989-1990 Season -- \n            "
+                                    "value": "1989-1990 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1990"
@@ -214,7 +207,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1989-1990 Season -- \n            "
+                                    "value": "1989-1990 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1990"
@@ -225,7 +218,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1989-1990 Season -- \n            "
+                                    "value": "1989-1990 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1990"
@@ -236,7 +229,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1990-1991 Season -- \n            "
+                                    "value": "1990-1991 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1990-1991"
@@ -247,19 +240,21 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1990-1991 Season -- \n            "
+                                    "value": "1990-1991 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0015"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1990-1991 Season -- \n            "
+                                    "value": "1990-1991 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1991"
@@ -270,7 +265,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1990-1991 Season -- \n            "
+                                    "value": "1990-1991 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1991"
@@ -281,31 +276,35 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1990-1991 Season -- \n            "
+                                    "value": "1990-1991 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0010"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1991-1992 Season -- \n            "
+                                    "value": "1991-1992 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0009"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1992-1993 Season -- \n            "
+                                    "value": "1992-1993 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1992"
@@ -316,7 +315,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1992-1993 Season --  and \n            "
+                                    "value": "1992-1993 Season --  and "
                                 },
                                 "unitdate": {
                                     "value": "1992"
@@ -327,7 +326,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1992-1993 Season -- \n            "
+                                    "value": "1992-1993 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1992-1993"
@@ -338,7 +337,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1993-1994 Season -- \n            "
+                                    "value": "1993-1994 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1994"
@@ -349,19 +348,21 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1993-1994 Season -- \n            "
+                                    "value": "1993-1994 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0008"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1994-1995 Season -- \n            "
+                                    "value": "1994-1995 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1994"
@@ -372,7 +373,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1994-1995 Season -- \n            "
+                                    "value": "1994-1995 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1994"
@@ -383,7 +384,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995"
@@ -394,7 +395,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995"
@@ -405,7 +406,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995"
@@ -416,7 +417,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995"
@@ -427,7 +428,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995-1996"
@@ -438,7 +439,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1996"
@@ -449,7 +450,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- \n            "
+                                    "value": "1995-1996 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1995"
@@ -460,7 +461,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1995-1996 Season -- 1996 Benefit -- \n            "
+                                    "value": "1995-1996 Season -- 1996 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "1996"
@@ -471,7 +472,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1996"
@@ -482,7 +483,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1996"
@@ -493,7 +494,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1996"
@@ -504,7 +505,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -515,7 +516,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -526,7 +527,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1996-1997"
@@ -537,7 +538,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -548,7 +549,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season -- \n            "
+                                    "value": "1996-1997 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -559,7 +560,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1996-1997 Season --  and \n            "
+                                    "value": "1996-1997 Season --  and "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -581,19 +582,21 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1997-1998 Season -- \n            "
+                                    "value": "1997-1998 Season -- "
                                 },
                                 "unitid": {
                                     "value": "080.0041"
                                 },
-                                "unitdate": {}
+                                "unitdate": {
+                                    "value": " "
+                                }
                             },
                             "level": "file"
                         },
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1997-1998 Season -- \n            "
+                                    "value": "1997-1998 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -604,7 +607,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1997-1998 Season -- \n            "
+                                    "value": "1997-1998 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997"
@@ -615,7 +618,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1997-1998 Season -- \n            "
+                                    "value": "1997-1998 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997-1998"
@@ -626,7 +629,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1997-1998 Season -- \n            "
+                                    "value": "1997-1998 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1997-2000"
@@ -648,7 +651,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999"
@@ -659,7 +662,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1998"
@@ -670,7 +673,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1998"
@@ -681,7 +684,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1998-1999"
@@ -692,7 +695,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999"
@@ -703,7 +706,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- \n            "
+                                    "value": "1998-1999 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999"
@@ -714,7 +717,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1998-1999 Season -- 1999 Benefit -- \n            "
+                                    "value": "1998-1999 Season -- 1999 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "1997-1999"
@@ -725,7 +728,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999"
@@ -736,7 +739,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999-2000"
@@ -747,7 +750,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1999-2000"
@@ -758,7 +761,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -769,7 +772,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -780,7 +783,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- \n            "
+                                    "value": "1999-2000 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -791,7 +794,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 1999-2000 Season -- 2000 Benefit -- \n            "
+                                    "value": "1999-2000 Season -- 2000 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -802,7 +805,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -813,7 +816,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -824,7 +827,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -835,7 +838,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2000"
@@ -846,7 +849,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -857,7 +860,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2000-2001 Season -- \n            "
+                                    "value": "2000-2001 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001-2002"
@@ -868,7 +871,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -879,7 +882,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -890,7 +893,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "1998-2001"
@@ -901,7 +904,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -912,7 +915,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001"
@@ -923,7 +926,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -934,7 +937,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -945,7 +948,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- \n            "
+                                    "value": "2001-2002 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -956,7 +959,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2001-2002 Season -- 2002 Benefit -- \n            "
+                                    "value": "2001-2002 Season -- 2002 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -967,7 +970,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -978,7 +981,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2002"
@@ -989,7 +992,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1000,7 +1003,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1011,7 +1014,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1022,7 +1025,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- \n            "
+                                    "value": "2002-2003 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1033,7 +1036,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2002-2003 Season -- 2003 Benefit -- \n            "
+                                    "value": "2002-2003 Season -- 2003 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1044,7 +1047,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1055,7 +1058,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1066,7 +1069,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2004"
@@ -1077,7 +1080,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1088,7 +1091,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2001-2005"
@@ -1099,7 +1102,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- 2004 Benefit -- \n            "
+                                    "value": "2003-2004 Season -- 2004 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2004"
@@ -1110,7 +1113,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2003-2004 Season -- \n            "
+                                    "value": "2003-2004 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2003"
@@ -1121,7 +1124,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- \n            "
+                                    "value": "2004-2005 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2004"
@@ -1132,7 +1135,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- \n            "
+                                    "value": "2004-2005 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2004"
@@ -1143,7 +1146,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- \n            "
+                                    "value": "2004-2005 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2004-2005"
@@ -1154,7 +1157,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- \n            "
+                                    "value": "2004-2005 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2004-2005"
@@ -1165,7 +1168,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- \n            "
+                                    "value": "2004-2005 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1176,7 +1179,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2004-2005 Season -- 2005 Benefit -- \n            "
+                                    "value": "2004-2005 Season -- 2005 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1187,7 +1190,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1198,7 +1201,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1209,7 +1212,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1220,7 +1223,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005-2008"
@@ -1231,7 +1234,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1242,7 +1245,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1253,7 +1256,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2005"
@@ -1264,7 +1267,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- \n            "
+                                    "value": "2005-2006 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1275,7 +1278,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2005-2006 Season -- 2006 Benefit -- \n            "
+                                    "value": "2005-2006 Season -- 2006 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1286,7 +1289,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n            "
+                                    "value": "2006-2007 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1297,7 +1300,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n            "
+                                    "value": "2006-2007 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1308,7 +1311,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n              and \n            "
+                                    "value": "2006-2007 Season --  and "
                                 },
                                 "unitdate": {
                                     "value": "2006"
@@ -1319,7 +1322,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n            "
+                                    "value": "2006-2007 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2006-2007"
@@ -1330,7 +1333,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n            "
+                                    "value": "2006-2007 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2007"
@@ -1341,7 +1344,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2006-2007 Season -- \n            "
+                                    "value": "2006-2007 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2007"
@@ -1363,7 +1366,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2007-2008 Season -- \n            "
+                                    "value": "2007-2008 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2007"
@@ -1374,7 +1377,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2007-2008 Season -- \n            "
+                                    "value": "2007-2008 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2007"
@@ -1385,7 +1388,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2007-2008 Season -- \n            "
+                                    "value": "2007-2008 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1396,7 +1399,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2007-2008 Season -- \n            "
+                                    "value": "2007-2008 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1407,7 +1410,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2007-2008 Season -- \n            "
+                                    "value": "2007-2008 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1429,7 +1432,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1440,7 +1443,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1451,7 +1454,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008"
@@ -1462,7 +1465,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008-2009"
@@ -1473,7 +1476,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2009"
@@ -1484,7 +1487,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2009"
@@ -1495,7 +1498,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season --  and \n            "
+                                    "value": "2008-2009 Season --  and "
                                 },
                                 "unitdate": {
                                     "value": "2009"
@@ -1506,7 +1509,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2008-2009 Season -- \n            "
+                                    "value": "2008-2009 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2008-2009"
@@ -1528,7 +1531,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2009"
@@ -1539,7 +1542,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1550,7 +1553,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1561,7 +1564,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1572,7 +1575,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1583,7 +1586,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- 2010 Benefit -- \n            "
+                                    "value": "2009-2010 Season -- 2010 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1594,7 +1597,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2009-2010 Season -- \n            "
+                                    "value": "2009-2010 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2009-2010"
@@ -1605,7 +1608,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- 2011 Benefit -- \n            "
+                                    "value": "2010-2011 Season -- 2011 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1616,7 +1619,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1627,7 +1630,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1638,7 +1641,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010-2011"
@@ -1649,7 +1652,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2010"
@@ -1660,7 +1663,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1671,7 +1674,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1682,7 +1685,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2010-2011 Season -- \n            "
+                                    "value": "2010-2011 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1693,7 +1696,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1704,7 +1707,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1715,7 +1718,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011"
@@ -1726,7 +1729,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1737,7 +1740,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1748,7 +1751,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1759,7 +1762,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1770,7 +1773,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- \n            "
+                                    "value": "2011-2012 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2011-2012"
@@ -1781,7 +1784,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2011-2012 Season -- 2012 Benefit -- \n            "
+                                    "value": "2011-2012 Season -- 2012 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1792,7 +1795,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1803,7 +1806,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1814,7 +1817,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1825,7 +1828,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1836,7 +1839,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1847,7 +1850,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1858,7 +1861,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1869,7 +1872,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1880,7 +1883,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1891,7 +1894,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- 25th Anniversary Gala -- \n            "
+                                    "value": "2012-2013 Season -- 25th Anniversary Gala -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1902,7 +1905,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2012-2013 Season -- \n            "
+                                    "value": "2012-2013 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2012"
@@ -1913,7 +1916,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1924,7 +1927,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1935,7 +1938,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1946,7 +1949,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2013"
@@ -1957,7 +1960,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- 2014 Benefit -- \n            "
+                                    "value": "2013-2014 Season -- 2014 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -1968,7 +1971,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -1979,7 +1982,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2013-2014 Season -- \n            "
+                                    "value": "2013-2014 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -1990,7 +1993,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -2001,7 +2004,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -2012,7 +2015,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- 2015 Benefit -- \n            "
+                                    "value": "2014-2015 Season -- 2015 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2015"
@@ -2023,7 +2026,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2015"
@@ -2034,7 +2037,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2015"
@@ -2045,7 +2048,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014-2015"
@@ -2056,7 +2059,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2014-2015 Season -- \n            "
+                                    "value": "2014-2015 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2014"
@@ -2067,7 +2070,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- \n            "
+                                    "value": "2015-2016 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2015"
@@ -2078,7 +2081,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- \n            "
+                                    "value": "2015-2016 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2016"
@@ -2089,7 +2092,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- \n            "
+                                    "value": "2015-2016 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2016"
@@ -2100,7 +2103,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- \n            "
+                                    "value": "2015-2016 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2016"
@@ -2111,7 +2114,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- 2016 Benefit -- \n            "
+                                    "value": "2015-2016 Season -- 2016 Benefit -- "
                                 },
                                 "unitdate": {
                                     "value": "2016"
@@ -2122,7 +2125,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " 2015-2016 Season -- \n            "
+                                    "value": "2015-2016 Season -- "
                                 },
                                 "unitdate": {
                                     "value": "2016"
@@ -2168,15 +2171,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Contents",
-                        "p": {
-                            "value": " This series documents 28 seasons of the Irish Repertory Theatre's productions and\n            annual benefits, from 1989 to 2016. Material in this series consists of paper,\n            born-digital, and audiovisual formats and includes promotional material, photographs,\n            artwork, and material pertaining to legal and creative issues from early productions.\n            The promotional material includes programs, postcards, posters, and press releases for\n            individual productions; tickets, invitations, and programs for annual benefits; and\n            issues of  , the IRT's newsletter. The audiovisual\n            material consists of video and digital audio and video recordings of select productions,\n            including  ,  ,  ,\n            and annual benefits. Most productions are well documented through digital and print\n            photographs and slides. Artwork includes drawings for set designs and posters. "
-                        }
+                        "p": "This series documents 28 seasons of the Irish Repertory Theatre's productions and annual benefits, from 1989 to 2016.  Material in this series consists of paper, born-digital, and audiovisual formats and includes promotional material, photographs, artwork, and material pertaining to legal and creative issues from early productions.  The promotional material includes programs, postcards, posters, and press releases for individual productions; tickets, invitations, and programs for annual benefits; and issues of \u003cspan class=\"emph emph-italic\"\u003ePrologue\u003c/span\u003e, the IRT's newsletter.  The audiovisual material consists of video and digital audio and video recordings of select productions, including \u003cspan class=\"emph emph-italic\"\u003eGeorge M. Cohan Tonight!\u003c/span\u003e, \u003cspan class=\"emph emph-italic\"\u003eNoctu\u003c/span\u003e, \u003cspan class=\"emph emph-italic\"\u003eThe Irish...And How They Got That Way\u003c/span\u003e, and annual benefits.  Most productions are well documented through digital and print photographs and slides.  Artwork includes drawings for set designs and posters."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in chronological order by season, with no arrangement within\n            each season."
-                        }
+                        "p": "This series is arranged in chronological order by season, with no arrangement within each season."
                     },
                     "level": "series"
                 },
@@ -2299,15 +2298,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": " This subseries includes scripts chosen as part of the  . "
-                                }
+                                "p": "This subseries includes scripts chosen as part of the \u003cspan class=\"emph emph-italic\"\u003eNew Works Readings Series\u003c/span\u003e."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged in chronological order by year and month in which the\n              plays were performed by the IRT."
-                                }
+                                "p": "This subseries is arranged in chronological order by year and month in which the plays were performed by the IRT."
                             },
                             "level": "subseries"
                         },
@@ -2395,15 +2390,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": " This subseries consists of script files submitted for the  that were rejected by the IRT. The files include\n              scripts, cover letters, curricula vitae, correspondence with authors, and reader\n              reports. "
-                                }
+                                "p": "This subseries consists of script files submitted for the \u003cspan class=\"emph emph-italic\"\u003eNew Works Readings Series\u003c/span\u003e that were rejected by the IRT.  The files include scripts, cover letters, curricula vitae, correspondence with authors, and reader reports."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "The files in this subseries are loosely arranged in numerical order according to\n              numbers assigned to each script as it was received by the Literary Department."
-                                }
+                                "p": "The files in this subseries are loosely arranged in numerical order according to numbers assigned to each script as it was received by the Literary Department."
                             },
                             "level": "subseries"
                         }
@@ -2423,15 +2414,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Contents",
-                        "p": {
-                            "value": " This series documents the work of the Literary Department in evaluating submitted\n            scripts and choosing works for the \n            . Material in this series consists entirely of paper. "
-                        }
+                        "p": "This series documents the work of the Literary Department in evaluating submitted scripts and choosing works for the \u003cspan class=\"emph emph-italic\"\u003eNew Works Reading Series\u003c/span\u003e.  Material in this series consists entirely of paper."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in two subseries, Subseries II. A. Selected Plays and Subseries\n            II.B. Rejected Script Files."
-                        }
+                        "p": "This series is arranged in two subseries, Subseries II. A. Selected Plays and Subseries II.B. Rejected Script Files."
                     },
                     "level": "series"
                 },
@@ -2496,9 +2483,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1997-2009"
                                         }
@@ -2552,7 +2537,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 -- Westport County Playhouse "
+                                            "value": " -- Westport County Playhouse"
                                         },
                                         "unitdate": {
                                             "value": "2003"
@@ -2598,15 +2583,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": "This subseries documents the IRT's cooperation with labor unions representing\n              performers in New York City and the work of the IRT's Board of Directors. This\n              subseries includes correspondence and contracts. Labor unions include the Actors'\n              Equity Association, the United Scenic Artists, Local 802 Associated Musicians of\n              Greater New York, and the Stage Directors and Choreographers Society. Material\n              documenting the work of the Board includes correspondence and meeting agenda and\n              minutes."
-                                }
+                                "p": "This subseries documents the IRT's cooperation with labor unions representing performers in New York City and the work of  the IRT's Board of Directors.  This subseries includes correspondence and contracts.  Labor unions include the Actors' Equity Association, the United Scenic Artists, Local 802 Associated Musicians of Greater New York, and the Stage Directors and Choreographers Society.  Material documenting the work of the Board includes correspondence and meeting agenda and minutes."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged alphabetically by format or topic."
-                                }
+                                "p": "This subseries is arranged alphabetically by format or topic."
                             },
                             "level": "subseries"
                         },
@@ -2614,9 +2595,7 @@
                             "c": [
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1991"
                                         }
@@ -2625,9 +2604,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992"
                                         }
@@ -2636,9 +2613,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2647,9 +2622,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2691,9 +2664,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2713,9 +2684,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1995-1997"
                                         }
@@ -2724,9 +2693,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1999"
                                         }
@@ -2746,9 +2713,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1990"
                                         }
@@ -2757,9 +2722,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1989"
                                         }
@@ -2801,9 +2764,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1991-1995"
                                         }
@@ -2812,9 +2773,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1988-1989"
                                         }
@@ -2823,9 +2782,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1981-1988"
                                         }
@@ -2834,9 +2791,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1995"
                                         }
@@ -2845,9 +2800,16 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
+                                        "unitdate": {
+                                            "value": "2003"
+                                        }
+                                    },
+                                    "level": "file"
+                                },
+                                {
+                                    "did": {
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2857,18 +2819,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
-                                        "unitdate": {
-                                            "value": "2003"
-                                        }
-                                    },
-                                    "level": "file"
-                                },
-                                {
-                                    "did": {
-                                        "unittitle": {
-                                            "value": "\n                 and \n              "
+                                            "value": " and "
                                         },
                                         "unitdate": {
                                             "value": "1992"
@@ -2878,9 +2829,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2889,9 +2838,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992"
                                         }
@@ -2901,7 +2848,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                \n              "
+                                            "value": " "
                                         },
                                         "unitdate": {
                                             "value": "1981-2016"
@@ -2911,9 +2858,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2922,9 +2867,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1990"
                                         }
@@ -2933,9 +2876,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992-1994"
                                         }
@@ -2955,9 +2896,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1988-1990"
                                         }
@@ -2966,9 +2905,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2977,9 +2914,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2988,9 +2923,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -2999,9 +2932,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1988"
                                         }
@@ -3010,9 +2941,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3021,9 +2950,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1989-1990"
                                         }
@@ -3032,9 +2959,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992"
                                         }
@@ -3043,9 +2968,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1991"
                                         }
@@ -3070,9 +2993,7 @@
                                                 "value": "in 36 documents."
                                             }
                                         },
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3081,9 +3002,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3092,9 +3011,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992"
                                         }
@@ -3103,9 +3020,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1990-1991"
                                         }
@@ -3125,9 +3040,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1999"
                                         }
@@ -3136,9 +3049,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1989-1990"
                                         }
@@ -3147,9 +3058,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1989"
                                         }
@@ -3183,15 +3092,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": " This subseries documents the work of Ciarán O'Reilly, co-founder and Producing\n              Director of the IRT. Materials consists of paper and born-digital material and\n              includes correspondence, budgets, notes, box office reports, and scripts.\n              Correspondence includes negotiations with the Actors' Equity Association, requests for\n              and acknowledgements of financial support for productions and the IRT, and licensing\n              for scripts. This subseries contains material regarding the production of  , a production adapted from Sean\n              O'Casey's autobiographies, directed by Harold Prince. This subseries also includes\n              letters from O'Reilly to IRT members and sponsors, labor unions, and directors of\n              productions at the IRT, including Tony Walton and Frank McCourt. "
-                                }
+                                "p": "This subseries documents the work of Ciarán O'Reilly, co-founder and Producing Director of the IRT.  Materials consists of paper and born-digital material and includes correspondence, budgets, notes, box office reports, and scripts.  Correspondence includes negotiations with the Actors' Equity Association, requests for and acknowledgements of financial support for productions and the IRT, and licensing for scripts.  This subseries contains material regarding the production of \u003cspan class=\"emph emph-italic\"\u003eGrandchild of Kings\u003c/span\u003e, a production adapted from Sean O'Casey's autobiographies, directed by Harold Prince.  This subseries also includes letters from O'Reilly to IRT members and sponsors, labor unions, and directors of productions at the IRT, including Tony Walton and Frank McCourt."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged alphabetically by production title, topic, or format of\n              material."
-                                }
+                                "p": "This subseries is arranged alphabetically by production title, topic, or format of material."
                             },
                             "level": "subseries"
                         },
@@ -3243,9 +3148,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2002"
                                         }
@@ -3298,9 +3201,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2002"
                                         }
@@ -3309,9 +3210,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3342,9 +3241,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1998-1999"
                                         }
@@ -3364,9 +3261,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003-2004"
                                         }
@@ -3375,9 +3270,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003-2004"
                                         }
@@ -3386,9 +3279,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3419,9 +3310,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2001-2003"
                                         }
@@ -3441,9 +3330,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2002-2003"
                                         }
@@ -3474,9 +3361,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2004"
                                         }
@@ -3540,9 +3425,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2003"
                                         }
@@ -3563,7 +3446,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                \n              "
+                                            "value": " "
                                         },
                                         "unitdate": {
                                             "value": "2002"
@@ -3574,7 +3457,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 -- Program "
+                                            "value": " -- Program "
                                         },
                                         "unitdate": {
                                             "value": "2002"
@@ -3655,9 +3538,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "Undated"
                                         }
@@ -3688,9 +3569,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2004"
                                         }
@@ -3768,15 +3647,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": "This subseries documents the work of two of the General Managers of the IRT, Shelley\n              A. Troupe and Meridith Sommers. Responsibilities of this role documented in this\n              subseries include managing day-to-day activities of the IRT, organizing the IRT's\n              annual benefit, participating in advertising and development campaigns, managing the\n              box office, and tracking compliance with the Actor's Equity Association (AEA)\n              contracts. Material in this subseries consists of paper and born-digital material and\n              includes correspondence, budgets, audits, contracts, photographs, box office reports,\n              meeting agenda and minutes, and promotional material. This subseries includes Board of\n              Directors meeting agenda and minutes and correspondence with the AEA, IRT members and\n              sponsors, vendors, and insurance providers."
-                                }
+                                "p": "This subseries documents the work of two of the General Managers of the IRT, Shelley A. Troupe and Meridith Sommers.  Responsibilities of this role documented in this subseries include managing day-to-day activities of the IRT, organizing the IRT's annual benefit, participating in advertising and development campaigns, managing the box office, and tracking compliance with the Actor's Equity Association (AEA) contracts.  Material in this subseries consists of paper and born-digital material and includes correspondence, budgets, audits, contracts, photographs, box office reports, meeting agenda and minutes, and promotional material.  This subseries includes Board of Directors meeting agenda and minutes and correspondence with the AEA, IRT members and sponsors, vendors, and insurance providers."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged alphabetically by production title, topic, format, or by\n              the name of file's creator."
-                                }
+                                "p": "This subseries is arranged alphabetically by production title, topic, format, or by the name of file's creator."
                             },
                             "level": "subseries"
                         },
@@ -3842,15 +3717,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": "This subseries documents the work of two of Membership Managers of the IRT, Heather\n              Kray and Eric Scott. Responsibilities of this role documented in this subseries\n              include maintaining relationships with current theatre members as well as with\n              advertisers. This subseries consists entirely of born-digital material and includes\n              correspondence, spreadsheets, and promotional material."
-                                }
+                                "p": "This subseries documents the work of two of Membership Managers of the IRT, Heather Kray and Eric Scott.  Responsibilities of this role documented in this subseries include maintaining relationships with current theatre members as well as with advertisers.  This subseries consists entirely of born-digital material and includes correspondence, spreadsheets, and promotional material."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged alphabetically by topic."
-                                }
+                                "p": "This subseries is arranged alphabetically by topic."
                             },
                             "level": "subseries"
                         },
@@ -3858,9 +3729,7 @@
                             "c": [
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2004"
                                         }
@@ -3957,9 +3826,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1998"
                                         }
@@ -3969,7 +3836,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                \n              "
+                                            "value": " "
                                         },
                                         "unitdate": {
                                             "value": "1997"
@@ -4232,9 +4099,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "2002"
                                         }
@@ -4288,7 +4153,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                \n              "
+                                            "value": " "
                                         },
                                         "unitdate": {
                                             "value": "2001-2003"
@@ -4309,9 +4174,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1988-2005"
                                         }
@@ -4331,9 +4194,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1999"
                                         }
@@ -4389,15 +4250,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": "This subseries documents the work of the Marketing Department, including branding,\n              promotion of the IRT and its productions, development of the capital campaign to\n              renovate the theatre from 2014 to 2016, and the creation of a new website in 2012. The\n              material in this subseries consists of paper and born-digital material and includes\n              correspondence, promotional material, spreadsheets, photographs, blueprints, floor\n              plans, and artwork. This subseries contains the Marketing Department's archive of\n              promotional material for individual productions for seasons 2003-2004 to 2016-2017,\n              material detailing the creation of the IRT's new website in 2012, guidelines for IRT\n              branding standards, and artwork used in the creation of promotional material. Material\n              detailing the development of the capital campaign includes a brochure and statement\n              regarding the campaign, photographs and videos used to promote the campaign, and\n              photographs of the theatre before, during, and after the renovation."
-                                }
+                                "p": "This subseries documents the work of the Marketing Department, including branding, promotion of the IRT and its productions, development of the capital campaign to renovate the theatre from 2014 to 2016, and the creation of a new website in 2012.  The material in this subseries consists of paper and born-digital material and includes correspondence, promotional material, spreadsheets, photographs, blueprints, floor plans, and artwork.  This subseries contains the Marketing Department's archive of promotional material for individual productions for seasons 2003-2004 to 2016-2017, material detailing the creation of the IRT's new website in 2012, guidelines for IRT branding standards, and artwork used in the creation of promotional material.  Material detailing the development of the capital campaign includes a brochure and statement regarding the campaign, photographs and videos used to promote the campaign, and photographs of the theatre before, during, and after the renovation."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged alphabetically by production title, format, or topic."
-                                }
+                                "p": "This subseries is arranged alphabetically by production title, format, or topic."
                             },
                             "level": "subseries"
                         }
@@ -4417,15 +4274,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Contents",
-                        "p": {
-                            "value": "This series documents various administrative offices and activities of the IRT,\n            including the Producing Director, the General Manager, the Membership Manager, and the\n            Marketing Department. Material in this series consists of both paper and born-digital\n            material and includes correspondence, reports, budgets, photographs, and blueprints and\n            floor plans."
-                        }
+                        "p": "This series documents various administrative offices and activities of the IRT, including the Producing Director, the General Manager, the Membership Manager, and the Marketing Department.  Material in this series consists of both paper and born-digital material and includes correspondence, reports, budgets, photographs, and blueprints and floor plans."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in five subseries: Subseries III. A. General Administrative\n            Records, Subseries III. B. Producing Director Records, Subseries III. C. General Manager\n            Records, Subseries III. D. Membership Manager Records, and Subseries III.E. Marketing\n            Department Records."
-                        }
+                        "p": "This series is arranged in five subseries:  Subseries III. A. General Administrative Records, Subseries III. B. Producing Director Records, Subseries III. C. General Manager Records, Subseries III. D. Membership Manager Records, and Subseries III.E. Marketing Department Records."
                     },
                     "level": "series"
                 },
@@ -4455,9 +4308,7 @@
                         },
                         {
                             "did": {
-                                "unittitle": {
-                                    "value": "\n              \n            "
-                                },
+                                "unittitle": {},
                                 "unitdate": {
                                     "value": "1999-2000"
                                 }
@@ -4488,9 +4339,7 @@
                         },
                         {
                             "did": {
-                                "unittitle": {
-                                    "value": "\n              \n            "
-                                },
+                                "unittitle": {},
                                 "unitdate": {
                                     "value": "1999-2000"
                                 }
@@ -4508,9 +4357,7 @@
                             },
                             "accessrestrict": {
                                 "head": "Conditions Governing Access",
-                                "p": {
-                                    "value": "Material in box 42 is restricted."
-                                }
+                                "p": "Material in box 42 is restricted."
                             },
                             "level": "file"
                         },
@@ -4528,7 +4375,7 @@
                         {
                             "did": {
                                 "unittitle": {
-                                    "value": " Reilly, Charles Nelson -- \n            "
+                                    "value": "Reilly, Charles Nelson -- "
                                 },
                                 "unitdate": {
                                     "value": "2000-2002"
@@ -4563,75 +4410,49 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Contents",
-                        "p": {
-                            "value": " This series documents legal proceedings in which the IRT was involved, financial\n            audits, and renovation of the IRT in 1995. This series consists of paper material and\n            includes correspondence, contracts, court documents, audits, blueprints, and the IRT's\n            by-laws and certificate of incorporation. Legal proceedings documented in this series\n            include suits brought by the IRT against producer Robert Macken regarding his production\n            of video recordings of  and  , and a suit brought\n            by Charles Nelson Reilly against producer Michael Alden regarding  . The financial materials document\n            the production of  and\n            its 1997-1998 tour in New York City and Boston, Massachusetts; production budgets and\n            box office totals for other IRT productions; and annual IRT audits. Material regarding\n            the IRT's renovation include correspondence with the architect and blueprints detailing\n            the renovation. "
-                        }
+                        "p": "This series documents legal proceedings in which the IRT was involved, financial audits, and renovation of the IRT in 1995.  This series consists of paper material and includes correspondence, contracts, court documents, audits, blueprints, and the IRT's by-laws and certificate of incorporation.  Legal proceedings documented in this series include suits brought by the IRT against producer Robert Macken regarding his production of video recordings of \u003cspan class=\"emph emph-italic\"\u003eThe Irish...and How They Got That Way\u003c/span\u003e and \u003cspan class=\"emph emph-italic\"\u003eFathers to Daughters\u003c/span\u003e, and a suit brought by Charles Nelson Reilly against producer Michael Alden regarding \u003cspan class=\"emph emph-italic\"\u003eSave It for the Stage: The Life of Reilly\u003c/span\u003e.  The financial materials document the production of \u003cspan class=\"emph emph-italic\"\u003eThe Irish...and How They Got That Way\u003c/span\u003e and its 1997-1998 tour in New York City and Boston, Massachusetts; production budgets and box office totals for other IRT productions; and annual IRT audits.  Material regarding the IRT's renovation include correspondence with the architect and blueprints detailing the renovation."
                     },
                     "accessrestrict": {
                         "head": "Conditions Governing Access",
-                        "p": {
-                            "value": "Two folders in this series are protected under the attorney work-product doctrine. They\n            was separated from the collection in March 2018 pending a decision regarding its\n            inclusion in the collection."
-                        }
+                        "p": "Two folders in this series are protected under the attorney work-product doctrine.  They was separated from the collection in March 2018 pending a decision regarding its inclusion in the collection."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged alphabetically by format or topic."
-                        }
+                        "p": "This series is arranged alphabetically by format or topic."
                     },
                     "level": "series"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Physical digital media"
-                        }
-                    },
-                    "level": "file"
                 }
             ]
         },
         "scopecontent": {
             "head": "Scope and Contents",
-            "p": {
-                "value": " The Irish Repertory Theatre (IRT) Records document 28 seasons of productions staged by the\n        Theatre, from 1988 to 2016. Productions include  ,  , and\n           . The records document the work of various\n        members and departments of the IRT, including Ciaran O'Reilly, the Producing Director; the\n        Marketing Department; the General Manager; the Literary Department; and the Membership\n        Manager. The records contain press and marketing materials, correspondence, scripts, legal\n        documents, financial documents, original artwork, videos, and posters. The material consists\n        of paper, born-digital, and audiovisual recordings. The press and marketing materials\n        constitute the bulk of the collection and include programs, press releases, photographs,\n        slides, and video recordings of productions and the IRT's annual benefits. The\n        correspondence includes rejection letters; negotiations for rights, licensing, and\n        productions; and communications with actors, producers, directors, and IRT members. The\n        collection includes scripts used in productions and those submitted for the  . The legal documents include contracts as\n        well as court documents from legal proceedings in which the IRT was involved. The financial\n        records include season and production budgets, and box office receipts and statements. The\n        original artwork includes paintings and drawings for set designs and posters. "
-            }
+            "p": "The Irish Repertory Theatre (IRT) Records document 28 seasons of productions staged by the Theatre, from 1988 to 2016.  Productions include \u003cspan class=\"emph emph-italic\"\u003eThe Plough and the Stars\u003c/span\u003e, \u003cspan class=\"emph emph-italic\"\u003eThe Irish...And How They Got That Way\u003c/span\u003e, and \u003cspan class=\"emph emph-italic\"\u003eFinian's Rainbow\u003c/span\u003e.  The records document the work of various members and departments of the IRT, including Ciaran O'Reilly, the Producing Director; the Marketing Department; the General Manager; the Literary Department; and the Membership Manager.  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, videos, and posters.  The material consists of paper, born-digital, and audiovisual recordings.  The press and marketing materials constitute the bulk of the collection and include programs, press releases, photographs, slides, and video recordings of productions and the IRT's annual benefits.  The correspondence includes rejection letters; negotiations for rights, licensing, and productions; and communications with actors, producers, directors, and IRT members.  The collection includes scripts used in productions and those submitted for the \u003cspan class=\"emph emph-italic\"\u003eNew Works Reading Series\u003c/span\u003e.  The legal documents include contracts as well as court documents from legal proceedings in which the IRT was involved.  The financial records include season and production budgets,  and box office receipts and statements.  The original artwork includes paintings and drawings for set designs and posters."
         },
         "bioghist": {
             "head": "Historical Note",
-            "p": {
-                "value": " The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte\n        Moore and Ciarán O'Reilly. As of 2018, Moore is the Artistic Director and O'Reilly is the\n        Managing Director. The two met in the late 1980s in a Hudson Guild Theater production of\n        Hugh Leonard's  , and decided to collaborate on a\n        production of Sean O'Casey's  in\n        September 1988. Their profits from that production were enough to stage another show, and in\n        this way the IRT was founded. The IRT produces Irish and Irish-American plays and musicals\n        year-round, both classics of Irish theater as well as new works by emerging Irish and\n        Irish-American writers. The Theatre moved to its current location, as of 2018, in the\n        Chelsea neighborhood of Manhattan in 1995. The IRT, its staff, and their productions have\n        garnered critical acclaim and industry awards for their work. "
-            }
+            "p": "The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  As of 2018, Moore is the Artistic Director and O'Reilly is the Managing Director.  The two met in the late 1980s in a Hudson Guild Theater production of Hugh Leonard's \u003cspan class=\"emph emph-italic\"\u003eSummer\u003c/span\u003e, and decided to collaborate on a production of Sean O'Casey's \u003cspan class=\"emph emph-italic\"\u003eThe Plough and the Stars\u003c/span\u003e in September 1988.  Their profits from that production were enough to stage another show, and in this way the IRT was founded.  The IRT produces Irish and Irish-American plays and musicals year-round, both classics of Irish theater as well as new works by emerging Irish and Irish-American writers.  The Theatre moved to its current location, as of 2018, in the Chelsea neighborhood of Manhattan in 1995.  The IRT, its staff, and their productions have garnered critical acclaim and industry awards for their work."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Materials are open without restrictions, with the exception of certain files pertaining to\n        legal proceedings in Series IV."
-            }
+            "p": "Materials are open without restrictions, with the exception of certain files pertaining to legal proceedings in Series IV."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Any rights (including copyright and related rights to publicity and privacy) held by the\n        Irish Repertory Theatre, the creator of this collection, were transferred to New York\n        University in June 2016 by Ciarán O'Reilly. Permission to publish or reproduce materials in\n        this collection must be secured from the Tamiment Library."
-            }
+            "p": "Any rights (including copyright and related rights to publicity and privacy) held by the Irish Repertory Theatre, the creator of this collection, were transferred to New York University in June 2016 by Ciarán O'Reilly. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library."
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n    ",
-                "id": "aspace_4637dee7e2aa62ddb286cdcf00360b86"
+                "head": "Preferred Citation",
+                "p": "Identification of item, date; Irish Repertory Theatre Records; AIA 080; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "New York University Libraries follows professional standards and best practices when\n        imaging, ingesting, and processing born-digital material in order to maintain the integrity\n        of the content."
-            }
+            "p": "New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": " Series IV. Financial and Legal Records, 1989-2010"
-            }
+            "p": "\nSeries IV. Financial and Legal Records, 1989-2010"
         },
         "controlaccess": {
             "genreform": [
@@ -4661,7 +4482,7 @@
                     "source": "lcsh"
                 },
                 {
-                    "value": "Repertory theater -- New York (State) -- New York -- 20th\n        century.",
+                    "value": "Repertory theater -- New York (State) -- New York -- 20th century.",
                     "source": "lcsh"
                 },
                 {
@@ -4673,7 +4494,7 @@
                     "source": "lcsh"
                 },
                 {
-                    "value": "Repertory theater -- New York (State) -- New York -- 21st\n        century.",
+                    "value": "Repertory theater -- New York (State) -- New York -- 21st century.",
                     "source": "lcsh"
                 },
                 {

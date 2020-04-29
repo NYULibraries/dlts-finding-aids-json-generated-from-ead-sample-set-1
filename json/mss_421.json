@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -22,17 +18,14 @@
         "filedesc": {
             "titlestmt": {
                 "titleproper": {
-                    "value": " Guide to the Richard Berkowitz Papers \n        ",
+                    "value": "Guide to the Richard Berkowitz Papers ",
                     "num": "MSS.421"
                 },
                 "author": "Megan O'Shea"
             },
             "publicationstmt": {
                 "publisher": "Fales Library and Special Collections",
-                "p": {
-                    "value": "\n          \n        ",
-                    "date": "August 2016"
-                },
+                "p": "\u003cspan class=\"date\"\u003eAugust 2016\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -56,7 +49,7 @@
                             "extptr": {}
                         },
                         {
-                            "value": " URL: \n          ",
+                            "value": "URL: ",
                             "extptr": {
                                 "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
                                 "show": "new",
@@ -71,8 +64,8 @@
         },
         "profiledesc": {
             "creation": {
-                "value": " This finding aid was produced using ArchivesSpace on  . ",
-                "date": "2020-01-14 13:53:01\n          -0500"
+                "value": "This finding aid was produced using ArchivesSpace on .",
+                "date": "2020-04-27 11:52:18\n          -0400"
             },
             "langusage": "Finding aid written in English",
             "descrules": "Describing Archives: A Content Standard"
@@ -93,23 +86,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition note",
-            "p": {
-                "value": "Purchased from Richard Berkowitz in 2014. The accession numbers associated with this\n        collection are 2014.421, 2015.421.001, 2015.421.002, 2015.421.003, 2015.421.004, and\n        2016.007."
-            }
+            "p": "Purchased from Richard Berkowitz in 2014. The accession numbers associated with this\n        collection are 2014.421, 2015.421.001, 2015.421.002, 2015.421.003, 2015.421.004, and\n        2016.007."
         },
         "did": {
             "abstract": {
-                "value": " Richard Berkowitz (b. 1955) is a gay\n        American author, AIDS activist, and a former sex worker. In 1983, Berkowitz and Michael\n        Callen wrote the first safe sex guide,  . Berkowitz continued to write about and advocate for safe sex through\n        the 1980s into the 2000s. The Richard Berkowitz Papers date from 1944 to 2015, with the bulk\n        being between 1982-2015, and document his work as a writer, AIDS activist, and sex worker,\n        as well as his family, his education, his medical history, and Daryl Wein's documentary\n        about Berkowitz's life,  . The papers contain\n        correspondence, manuscripts, published material, clippings, programs, photographs, a\n        scrapbook, audiovisual material, and a website. "
+                "value": "Richard Berkowitz (b. 1955) is a gay\n        American author, AIDS activist, and a former sex worker. In 1983, Berkowitz and Michael\n        Callen wrote the first safe sex guide, . Berkowitz continued to write about and advocate for safe sex through\n        the 1980s into the 2000s. The Richard Berkowitz Papers date from 1944 to 2015, with the bulk\n        being between 1982-2015, and document his work as a writer, AIDS activist, and sex worker,\n        as well as his family, his education, his medical history, and Daryl Wein's documentary\n        about Berkowitz's life, . The papers contain\n        correspondence, manuscripts, published material, clippings, programs, photographs, a\n        scrapbook, audiovisual material, and a website."
             },
             "langmaterial": {
                 "value": "Materials are in\n        English."
-            },
-            "origination": {
-                "persname": {
-                    "value": "Berkowitz, Richard, 1955-",
-                    "source": "naf",
-                    "rules": "aacr"
-                }
             },
             "physdesc": {
                 "extent": {
@@ -128,7 +112,7 @@
                 "value": "Richard Berkowitz Papers"
             },
             "unitid": {
-                "value": "400"
+                "value": "MSS.421"
             },
             "unitdate": {
                 "value": "1982-2015"
@@ -161,23 +145,12 @@
                                         }
                                     },
                                     "level": "file"
-                                },
-                                {
-                                    "did": {
-                                        "unittitle": {
-                                            "value": "Restricted letter"
-                                        },
-                                        "unitdate": {
-                                            "value": "2001"
-                                        }
-                                    },
-                                    "level": "file"
                                 }
                             ],
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 12,082 messages in three email archives, and 19\n                computer files."
+                                        "value": "in 12,082 messages in three email\n                archives, and 19 computer files."
                                     }
                                 },
                                 "unittitle": {
@@ -189,15 +162,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries includes correspondence relating to Berkowitz's speaking engagements\n              and writings on AIDS and safe sex; requests to interview Berkowitz for documentaries,\n              biographies, and museum and library exhibits; personal reflections from friends,\n              family, and strangers upon seeing  ; personal\n              experiences from individuals living with HIV/AIDS; and personal correspondence with\n              friends and family. The bulk of the correspondence is email and includes attachments\n              of word processing documents and photographs as well as voice messages from Abby\n              Tallmer and others. Frequent correspondents include Berkowitz's brothers,\n              sister-in-law, nephews, and niece; Michelle Cochrane; Norma C. Connolly; Greg Ellis;\n              Alex Fialho; David France; Paula Frew; Kevin Kushel; Sherri Lewis; Ardele Lister;\n              Patrick Merla; Spencer Schilly; Jeffrey Schwarz; Stephen Simon; Sean Strub; Abby\n              Tallmer; Enrique Torre Molina; Daryl Wein; and Sharon Wood. There is a small amount of\n              correspondence with Joseph Sonnabend. "
-                                }
+                                "p": "This subseries includes correspondence relating to Berkowitz's speaking engagements\n              and writings on AIDS and safe sex; requests to interview Berkowitz for documentaries,\n              biographies, and museum and library exhibits; personal reflections from friends,\n              family, and strangers upon seeing \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e; personal\n              experiences from individuals living with HIV/AIDS; and personal correspondence with\n              friends and family. The bulk of the correspondence is email and includes attachments\n              of word processing documents and photographs as well as voice messages from Abby\n              Tallmer and others. Frequent correspondents include Berkowitz's brothers,\n              sister-in-law, nephews, and niece; Michelle Cochrane; Norma C. Connolly; Greg Ellis;\n              Alex Fialho; David France; Paula Frew; Kevin Kushel; Sherri Lewis; Ardele Lister;\n              Patrick Merla; Spencer Schilly; Jeffrey Schwarz; Stephen Simon; Sean Strub; Abby\n              Tallmer; Enrique Torre Molina; Daryl Wein; and Sharon Wood. There is a small amount of\n              correspondence with Joseph Sonnabend."
                             },
                             "accessrestrict": {
                                 "head": "Conditions Governing Access",
-                                "p": {
-                                    "value": "The email in this subseries is closed until two years after the death of Richard\n              Berkowitz."
-                                }
+                                "p": "The email in this subseries is closed until two years after the death of Richard\n              Berkowitz."
                             },
                             "level": "subseries"
                         },
@@ -218,7 +187,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 276 computer files."
+                                        "value": "in 276 computer\n              files."
                                     }
                                 },
                                 "unittitle": {
@@ -230,9 +199,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": "This subseries contains email correspondence regarding telephone interviews conducted\n              by Berkowitz on behalf of Paula Frew, an investigator at Emory University's Center for\n              AIDS Research. He interviewed HIV/AIDS organizations in the southern United States\n              that were grantees of a project funded by the National AIDS Fund to increase HIV/AIDS\n              policy and advocacy outcomes in their regions. Correspondents include Frew and Carla\n              Rotole, who transcribed the interviews."
-                                }
+                                "p": "This subseries contains email correspondence regarding telephone interviews conducted\n              by Berkowitz on behalf of Paula Frew, an investigator at Emory University's Center for\n              AIDS Research. He interviewed HIV/AIDS organizations in the southern United States\n              that were grantees of a project funded by the National AIDS Fund to increase HIV/AIDS\n              policy and advocacy outcomes in their regions. Correspondents include Frew and Carla\n              Rotole, who transcribed the interviews."
                             },
                             "level": "subseries"
                         },
@@ -253,7 +220,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 72 computer files."
+                                        "value": "in 72 computer\n              files."
                                     }
                                 },
                                 "unittitle": {
@@ -265,9 +232,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries includes email correspondence regarding projects based on Michael\n              Callen's life. The bulk of the correspondence is between Berkowitz and Jim Bredeson\n              regarding the development of  , a\n              musical based on the life and work of Callen. The remaining correspondence is between\n              Berkowitz and Martin Duberman regarding his book  and correspondence between Berkowitz and Richard Dworkin regarding\n              Callen's life and legacy. "
-                                }
+                                "p": "This subseries includes email correspondence regarding projects based on Michael\n              Callen's life. The bulk of the correspondence is between Berkowitz and Jim Bredeson\n              regarding the development of \u003cspan class=\"emph emph-italic\"\u003eEven for One Night\u003c/span\u003e, a\n              musical based on the life and work of Callen. The remaining correspondence is between\n              Berkowitz and Martin Duberman regarding his book \u003cspan class=\"emph emph-italic\"\u003eHold Tight\n                Gently: A Biography of Michael Callen, Essex Hemphill, and the Battlefield of\n                AIDS\u003c/span\u003e and correspondence between Berkowitz and Richard Dworkin regarding\n              Callen's life and legacy."
                             },
                             "level": "subseries"
                         },
@@ -288,7 +253,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 390 computer files."
+                                        "value": "in 390 computer\n              files."
                                     }
                                 },
                                 "unittitle": {
@@ -300,9 +265,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries contains email correspondence between Berkowitz and Joseph Sonnabend\n              regarding various topics, including day-to-day life, AIDS advocacy and policy work,\n              the early history of AIDS, and the documentary  . Discussion related to \n              includes some reconciliation between Berkowitz, Sonnabend, and some of their opponents\n              from the beginning of the AIDS crisis, including Larry Kramer and Rodger McFarlane, as\n              well as continued friction with others, including Larry Mass. There is also\n              correspondence between Berkowitz, Sean Strub, and Stephen Simon, some of which relates\n              to Sonnabend, and voice messages from Sonnabend, mainly regarding day-to-day life.\n            "
-                                }
+                                "p": "This subseries contains email correspondence between Berkowitz and Joseph Sonnabend\n              regarding various topics, including day-to-day life, AIDS advocacy and policy work,\n              the early history of AIDS, and the documentary \u003cspan class=\"emph emph-italic\"\u003eSex\n                Positive\u003c/span\u003e. Discussion related to \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e\n              includes some reconciliation between Berkowitz, Sonnabend, and some of their opponents\n              from the beginning of the AIDS crisis, including Larry Kramer and Rodger McFarlane, as\n              well as continued friction with others, including Larry Mass. There is also\n              correspondence between Berkowitz, Sean Strub, and Stephen Simon, some of which relates\n              to Sonnabend, and voice messages from Sonnabend, mainly regarding day-to-day life."
                             },
                             "level": "subseries"
                         }
@@ -310,7 +273,7 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in 12,839 computer files."
+                                "value": "in 12,839 computer\n            files."
                             }
                         },
                         "unittitle": {
@@ -322,15 +285,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": "This series includes correspondence relating to Berkowitz's writings, post-AIDS crisis\n            activism, interviews he conducted for an evaluation of National AIDS Fund grantees, gay\n            rights, and personal correspondence with friends and family. Frequent correspondents\n            include Jim Bredeson, Alex Fialho, David France, Sherri Lewis, Patrick Merla, Joseph\n            Sonnabend, Sean Strub, Daryl Wein, Todd Wiggins, and Sharon Wood. The bulk of the\n            correspondence is email with a small amount of paper correspondence."
-                        }
+                        "p": "This series includes correspondence relating to Berkowitz's writings, post-AIDS crisis\n            activism, interviews he conducted for an evaluation of National AIDS Fund grantees, gay\n            rights, and personal correspondence with friends and family. Frequent correspondents\n            include Jim Bredeson, Alex Fialho, David France, Sherri Lewis, Patrick Merla, Joseph\n            Sonnabend, Sean Strub, Daryl Wein, Todd Wiggins, and Sharon Wood. The bulk of the\n            correspondence is email with a small amount of paper correspondence."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "Subseries I.D. Joseph Sonnabend, 2008-2015"
-                        }
+                        "p": "Subseries I.D. Joseph Sonnabend, 2008-2015"
                     },
                     "level": "series"
                 },
@@ -387,9 +346,7 @@
                                             },
                                             "scopecontent": {
                                                 "head": "Scope and Contents",
-                                                "p": {
-                                                    "value": "A student film directed by Richard Berkowitz."
-                                                }
+                                                "p": "A student film directed by Richard Berkowitz."
                                             },
                                             "level": "file"
                                         },
@@ -407,9 +364,7 @@
                                             },
                                             "scopecontent": {
                                                 "head": "Scope and Contents",
-                                                "p": {
-                                                    "value": "Outtakes from Surburban Showdown, a student film directed by Richard\n                  Berkowitz."
-                                                }
+                                                "p": "Outtakes from \u003cspan class=\"emph emph-italic\"\u003eSurburban Showdown\u003c/span\u003e, a student film\n                  directed by Richard Berkowitz."
                                             },
                                             "level": "file"
                                         },
@@ -427,9 +382,7 @@
                                             },
                                             "scopecontent": {
                                                 "head": "Scope and Contents",
-                                                "p": {
-                                                    "value": "Contains footage from the 1977 Gay Pride Parade in New York City. Rollerena Fairy\n                  Godmother and Felipe Rose of The Village People make brief appearances."
-                                                }
+                                                "p": "Contains footage from the 1977 Gay Pride Parade in New York City. Rollerena Fairy\n                  Godmother and Felipe Rose of The Village People make brief appearances."
                                             },
                                             "level": "file"
                                         },
@@ -447,9 +400,7 @@
                                             },
                                             "scopecontent": {
                                                 "head": "Scope and Contents",
-                                                "p": {
-                                                    "value": "Contains Double-exposed footage of a family vacationing near a lake."
-                                                }
+                                                "p": "Contains Double-exposed footage of a family vacationing near a lake."
                                             },
                                             "level": "file"
                                         },
@@ -467,9 +418,7 @@
                                             },
                                             "scopecontent": {
                                                 "head": "Scope and Contents",
-                                                "p": {
-                                                    "value": "Contains footage of street scenes and scenery taken in the areas around Rutgers\n                  University."
-                                                }
+                                                "p": "Contains footage of street scenes and scenery taken in the areas around Rutgers\n                  University."
                                             },
                                             "level": "file"
                                         }
@@ -497,9 +446,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1974-1977, undated"
                                         }
@@ -510,7 +457,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "1 videoreels (1/2 inch)"
+                                        "value": "1 videoreels\n                (1/2 inch)"
                                     }
                                 },
                                 "unittitle": {
@@ -522,9 +469,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries includes articles written by Berkowitz for Rutgers' campus newspaper,\n                 ; student films he produced; financial\n              aid documents; and a poster for a film panel in which he participated. "
-                                }
+                                "p": "This subseries includes articles written by Berkowitz for Rutgers' campus newspaper,\n                \u003cspan class=\"emph emph-italic\"\u003eThe Daily Targum\u003c/span\u003e; student films he produced; financial\n              aid documents; and a poster for a film panel in which he participated."
                             },
                             "level": "subseries"
                         },
@@ -576,9 +521,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "Undated"
                                         }
@@ -589,7 +532,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "1 audiocassette"
+                                        "value": "1\n                audiocassette"
                                     }
                                 },
                                 "unittitle": {
@@ -601,9 +544,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries contains Berkowitz's notes, script, and films for his student film,\n                 ; report cards; resumes; class notes; and\n              correspondence with NYU administrators. "
-                                }
+                                "p": "This subseries contains Berkowitz's notes, script, and films for his student film,\n                \u003cspan class=\"emph emph-italic\"\u003eSelling It\u003c/span\u003e; report cards; resumes; class notes; and\n              correspondence with NYU administrators."
                             },
                             "level": "subseries"
                         }
@@ -611,7 +552,7 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "1 videoreels (1/2 inch)"
+                                "value": "1 videoreels\n              (1/2 inch)"
                             }
                         },
                         "unittitle": {
@@ -623,15 +564,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": "This series documents Berkowitz's undergraduate and graduate education at Rutgers\n            University and New York University (NYU), respectively. The series includes articles\n            written by Berkowitz, student films he produced, financial records, and correspondence\n            documenting Berkowitz's time at Rutgers and NYU."
-                        }
+                        "p": "This series documents Berkowitz's undergraduate and graduate education at Rutgers\n            University and New York University (NYU), respectively. The series includes articles\n            written by Berkowitz, student films he produced, financial records, and correspondence\n            documenting Berkowitz's time at Rutgers and NYU."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "Material within the subseries is arranged in alphabetical order by type or topic of the\n            material."
-                        }
+                        "p": "Material within the subseries is arranged in alphabetical order by type or topic of the\n            material."
                     },
                     "level": "series"
                 },
@@ -730,15 +667,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": "This series documents Berkowitz's family, particularly his father, Milton Berkowitz.\n            The series contains a small amount of correspondence between Richard Berkowitz and\n            various family members and between other members of the family; home movies from the\n            1950s; and photographs of Berkowitz, his parents, his brothers, and their families.\n            Materials related to Milton Berkowitz include his scrapbook created during his tour of\n            duty in the United Kingdom and Germany with the United States Army in World War II; his\n            collection of stag films; and his dues books from the Bricklayers, Masons and\n            Plasterers' International Union of America."
-                        }
+                        "p": "This series documents Berkowitz's family, particularly his father, Milton Berkowitz.\n            The series contains a small amount of correspondence between Richard Berkowitz and\n            various family members and between other members of the family; home movies from the\n            1950s; and photographs of Berkowitz, his parents, his brothers, and their families.\n            Materials related to Milton Berkowitz include his scrapbook created during his tour of\n            duty in the United Kingdom and Germany with the United States Army in World War II; his\n            collection of stag films; and his dues books from the Bricklayers, Masons and\n            Plasterers' International Union of America."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in alphabetical order by type of material."
-                        }
+                        "p": "This series is arranged in alphabetical order by type of material."
                     },
                     "level": "series"
                 },
@@ -790,9 +723,7 @@
                         },
                         {
                             "did": {
-                                "unittitle": {
-                                    "value": "\n              \n            "
-                                },
+                                "unittitle": {},
                                 "unitdate": {
                                     "value": "1997-1998"
                                 }
@@ -801,9 +732,7 @@
                         },
                         {
                             "did": {
-                                "unittitle": {
-                                    "value": "\n              \n            "
-                                },
+                                "unittitle": {},
                                 "unitdate": {
                                     "value": "1996"
                                 }
@@ -825,7 +754,7 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in half of a record carton."
+                                "value": "in half of a record\n            carton."
                             }
                         },
                         "unittitle": {
@@ -837,15 +766,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": " This series documents Berkowitz's finances, including his income and issues he faced\n            in maintaining his residence. Materials in this series include pay stubs from\n            Berkowitz's work as a driver for the American Red Cross in Greater New York, and for his\n            work for  and \n            magazines; correspondence, legal documents, and receipts detailing issues Berkowitz had\n            with his landlords and apartment management companies; and correspondence regarding\n            grants he received, including one from the PEN American Center which allowed him to\n            purchase AIDS medications. "
-                        }
+                        "p": "This series documents Berkowitz's finances, including his income and issues he faced in\n            maintaining his residence. Materials in this series include pay stubs from Berkowitz's\n            work as a driver for the American Red Cross in Greater New York, and for his work for\n              \u003cspan class=\"emph emph-italic\"\u003ePOZ\u003c/span\u003e and \u003cspan class=\"emph emph-italic\"\u003eSPIN\u003c/span\u003e magazines;\n            correspondence, legal documents, and receipts detailing issues Berkowitz had with his\n            landlords and apartment management companies; and correspondence regarding grants he\n            received, including one from the PEN American Center which allowed him to purchase AIDS\n            medications."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in alphabetical order by organization or topic."
-                        }
+                        "p": "This series is arranged in alphabetical order by organization or topic."
                     },
                     "level": "series"
                 },
@@ -943,7 +868,7 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in half of a record carton."
+                                "value": "in half of a record\n            carton."
                             }
                         },
                         "unittitle": {
@@ -955,15 +880,11 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": "This series documents Berkowitz's medical history before and after his AIDS diagnosis.\n            Included in this series are Berkowitz's blood and other medical test results,\n            prescription receipts, information on AIDS drugs, and correspondence and reports\n            regarding a Crixivan drug trial in which he participated."
-                        }
+                        "p": "This series documents Berkowitz's medical history before and after his AIDS diagnosis.\n            Included in this series are Berkowitz's blood and other medical test results,\n            prescription receipts, information on AIDS drugs, and correspondence and reports\n            regarding a Crixivan drug trial in which he participated."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in alphabetical order by type or topic of the material."
-                        }
+                        "p": "This series is arranged in alphabetical order by type or topic of the material."
                     },
                     "level": "series"
                 },
@@ -1127,11 +1048,11 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in 718 computer files."
+                                "value": "in 718 computer\n            files."
                             }
                         },
                         "unittitle": {
-                            "value": " Series VI. \n          "
+                            "value": "Series VI. "
                         },
                         "unitdate": {
                             "value": "2008-2009"
@@ -1139,69 +1060,19 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": " This series documents Berkowitz's role in the creation, distribution, and reception of\n            Daryl Wein's documentary,  , focusing on\n            Berkowitz's life and safe sex advocacy. The series includes correspondence, clippings of\n            reviews of and advertisements for the film, film festival programs, travel documents,\n            and ephemera relating to the documentary. The bulk of the series documents Berkowitz's\n            attendance at multiple film festivals around the United States at which the film was\n            screened. The correspondence contains correspondence between Berkowitz and Joseph\n            Sonnabend, as well as letters from Berkowitz to others, regarding a disagreement\n            Berkowitz and Sonnabend had following the release of the film. "
-                        }
+                        "p": "This series documents Berkowitz's role in the creation, distribution, and reception of\n            Daryl Wein's documentary, \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e, focusing on\n            Berkowitz's life and safe sex advocacy. The series includes correspondence, clippings of\n            reviews of and advertisements for the film, film festival programs, travel documents,\n            and ephemera relating to the documentary. The bulk of the series documents Berkowitz's\n            attendance at multiple film festivals around the United States at which the film was\n            screened. The correspondence contains correspondence between Berkowitz and Joseph\n            Sonnabend, as well as letters from Berkowitz to others, regarding a disagreement\n            Berkowitz and Sonnabend had following the release of the film."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in alphabetical order by type or topic of the material."
-                        }
+                        "p": "This series is arranged in alphabetical order by type or topic of the material."
                     },
                     "level": "series"
                 },
                 {
-                    "c": [
-                        {
-                            "did": {
-                                "unittitle": {
-                                    "value": "analorgasm.net"
-                                },
-                                "unitdate": {
-                                    "value": "1997-2001"
-                                }
-                            },
-                            "level": "file"
-                        },
-                        {
-                            "did": {
-                                "unittitle": {
-                                    "value": "Classified advertisements"
-                                },
-                                "unitdate": {
-                                    "value": "1985-1994"
-                                }
-                            },
-                            "level": "file"
-                        },
-                        {
-                            "did": {
-                                "unittitle": {
-                                    "value": "Clients"
-                                },
-                                "unitdate": {
-                                    "value": "1995-1996, undated"
-                                }
-                            },
-                            "level": "file"
-                        },
-                        {
-                            "did": {
-                                "unittitle": {
-                                    "value": "Correspondence"
-                                },
-                                "unitdate": {
-                                    "value": "1978-1992, undated"
-                                }
-                            },
-                            "level": "file"
-                        }
-                    ],
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in 28 computer files."
+                                "value": "in 28 computer\n            files."
                             }
                         },
                         "unittitle": {
@@ -1213,21 +1084,15 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Content",
-                        "p": {
-                            "value": " This series documents Berkowitz's work as an S\u0026M top or dominant. The series\n            contains writings and photographs of clients used on his website, analorgasm.net; lists\n            of clients, including their physical descriptions and preferences; lists of services he\n            provided; correspondence with and photographs of clients; and correspondence regarding\n            and copies of Berkowitz's classified advertisement he placed in  and the  . "
-                        }
+                        "p": "This series documents Berkowitz's work as an S\u0026M top or dominant. The series\n            contains writings and photographs of clients used on his website, analorgasm.net; lists\n            of clients, including their physical descriptions and preferences; lists of services he\n            provided; correspondence with and photographs of clients; and correspondence regarding\n            and copies of Berkowitz's classified advertisement he placed in \u003cspan class=\"emph emph-italic\"\u003eThe Advocate\u003c/span\u003e and the \u003cspan class=\"emph emph-italic\"\u003eNew York Native\u003c/span\u003e."
                     },
                     "accessrestrict": {
                         "head": "Conditions Governing Access",
-                        "p": {
-                            "value": "This series is closed until two years after the death of Richard Berkowitz."
-                        }
+                        "p": "This series is closed until two years after the death of Richard Berkowitz."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "This series is arranged in alphabetical order by topic or type of material."
-                        }
+                        "p": "This series is arranged in alphabetical order by topic or type of material."
                     },
                     "level": "series"
                 },
@@ -1283,7 +1148,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "2 videodiscs (dvd)"
+                                        "value": "2 videodiscs\n                (dvd)"
                                     }
                                 },
                                 "unittitle": {
@@ -1295,21 +1160,15 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": "This subseries contains audio recordings of Berkowitz's conversations with Callen,\n              Sonnabend, Gabriel Rotello, Michelle Cochrane, and others, and recordings of\n              television and radio interviews with Arthur Bell, Callen, Larry Kramer, Vito Russo,\n              and others. This subseries also includes Berkowitz's notes on the content of the\n              audiocassettes. This subseries also contains video recordings of television\n              appearances by Berkowitz, Callen, Sonnabend, and others, as well as off-air recordings\n              of television programs and movies."
-                                }
+                                "p": "This subseries contains audio recordings of Berkowitz's conversations with Callen,\n              Sonnabend, Gabriel Rotello, Michelle Cochrane, and others, and recordings of\n              television and radio interviews with Arthur Bell, Callen, Larry Kramer, Vito Russo,\n              and others. This subseries also includes Berkowitz's notes on the content of the\n              audiocassettes. This subseries also contains video recordings of television\n              appearances by Berkowitz, Callen, Sonnabend, and others, as well as off-air recordings\n              of television programs and movies."
                             },
                             "accessrestrict": {
                                 "head": "Conditions Governing Access",
-                                "p": {
-                                    "value": "Two audio cassettes in this subseries are restricted until two years after the death\n              of Richard Berkowitz."
-                                }
+                                "p": "Two audio cassettes in this subseries are restricted until two years after the death\n              of Richard Berkowitz."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries has not been arranged. Audio recordings that could be intellectually\n              arranged within a series or subseries have been removed from this subseries and\n              physically arranged and described with those materials. Audio recordings in this\n              series contain conversations with multiple people and/or off-air recordings of\n              interviews or programs. Any extra documentation attached to the cassettes (apart from\n              the sleeves in the cases) have been removed and housed separately. All video\n              recordings have been kept in this series."
-                                }
+                                "p": "This subseries has not been arranged. Audio recordings that could be intellectually\n              arranged within a series or subseries have been removed from this subseries and\n              physically arranged and described with those materials. Audio recordings in this\n              series contain conversations with multiple people and/or off-air recordings of\n              interviews or programs. Any extra documentation attached to the cassettes (apart from\n              the sleeves in the cases) have been removed and housed separately. All video\n              recordings have been kept in this series."
                             },
                             "level": "subseries"
                         },
@@ -1352,7 +1211,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 68 computer files."
+                                        "value": "in 68 computer\n              files."
                                     }
                                 },
                                 "unittitle": {
@@ -1364,15 +1223,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": " This subseries contains correspondence regarding Berkowitz's writing. The bulk of\n              the subseries includes email correspondence regarding articles by Berkowitz, including\n              a response to  , written\n              by an anonymous collective of Canadian artists with HIV. "
-                                }
+                                "p": "This subseries contains correspondence regarding Berkowitz's writing. The bulk of the\n              subseries includes email correspondence regarding articles by Berkowitz, including a\n              response to \u003cspan class=\"emph emph-italic\"\u003eHow to Have Sex in a Police State\u003c/span\u003e, written by\n              an anonymous collective of Canadian artists with HIV."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "The paper correspondence is in Berkowitz's original order."
-                                }
+                                "p": "The paper correspondence is in Berkowitz's original order."
                             },
                             "level": "subseries"
                         },
@@ -1381,7 +1236,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 by Samuel R. Delany "
+                                            "value": " by Samuel R. Delany"
                                         },
                                         "unitdate": {
                                             "value": "2000"
@@ -1601,7 +1456,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 by C. A. Tripp "
+                                            "value": " by C. A.\n                Tripp"
                                         },
                                         "unitdate": {
                                             "value": "1975"
@@ -1866,7 +1721,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "22 audiocassettes"
+                                        "value": "22\n                audiocassettes"
                                     }
                                 },
                                 "unittitle": {
@@ -1878,15 +1733,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Content",
-                                "p": {
-                                    "value": "This subseries contains research files on HIV/AIDS, safe sex advocacy, gay rights\n              issues; and other topics of interest to Berkowitz, most of which was used in his\n              writings. The files contain paper and born-digital materials, including newspaper and\n              magazine clippings, books, pamphlets, fliers, audio recordings, correspondence, and\n              notes. Berkowitz's collaborations with Michael Callen, Michelle Cochrane, Celia\n              Farber, and Joseph Sonnabend are documented in audio recordings of their\n              conversations, notes on the conversations, drafts of articles by Cochrane and Farber,\n              and email and internet chats between Berkowitz and Farber."
-                                }
+                                "p": "This subseries contains research files on HIV/AIDS, safe sex advocacy, gay rights\n              issues; and other topics of interest to Berkowitz, most of which was used in his\n              writings. The files contain paper and born-digital materials, including newspaper and\n              magazine clippings, books, pamphlets, fliers, audio recordings, correspondence, and\n              notes. Berkowitz's collaborations with Michael Callen, Michelle Cochrane, Celia\n              Farber, and Joseph Sonnabend are documented in audio recordings of their\n              conversations, notes on the conversations, drafts of articles by Cochrane and Farber,\n              and email and internet chats between Berkowitz and Farber."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged in alphabetical order by topic."
-                                }
+                                "p": "This subseries is arranged in alphabetical order by topic."
                             },
                             "level": "subseries"
                         },
@@ -2004,9 +1855,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1983-2002, undated"
                                         }
@@ -2037,9 +1886,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1995"
                                         }
@@ -2104,7 +1951,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 biography "
+                                            "value": " biography"
                                         },
                                         "unitdate": {
                                             "value": "2000"
@@ -2126,7 +1973,7 @@
                                 {
                                     "did": {
                                         "unittitle": {
-                                            "value": "\n                 articles "
+                                            "value": " articles"
                                         },
                                         "unitdate": {
                                             "value": "1992"
@@ -2202,9 +2049,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1992-2003"
                                         }
@@ -2213,9 +2058,7 @@
                                 },
                                 {
                                     "did": {
-                                        "unittitle": {
-                                            "value": "\n                \n              "
-                                        },
+                                        "unittitle": {},
                                         "unitdate": {
                                             "value": "1988"
                                         }
@@ -2336,7 +2179,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "in 98 computer files."
+                                        "value": "in 98 computer\n              files."
                                     }
                                 },
                                 "unittitle": {
@@ -2348,15 +2191,11 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and content",
-                                "p": {
-                                    "value": " This subseries contains Berkowitz's drafts, notes, and published versions of his\n              writings, including his collaborations with Michael Callen \"We Know Who We Are\" and\n                 , and his\n              autobiography,  . It features research\n              material used by Berkowitz in his writing and correspondence regarding his work. "
-                                }
+                                "p": "This subseries contains Berkowitz's drafts, notes, and published versions of his\n              writings, including his collaborations with Michael Callen \"We Know Who We Are\" and\n                \u003cspan class=\"emph emph-italic\"\u003eHow to Have Sex in an Epidemic: One Approach\u003c/span\u003e, and his\n              autobiography, \u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e. It features research\n              material used by Berkowitz in his writing and correspondence regarding his work."
                             },
                             "arrangement": {
                                 "head": "Arrangement",
-                                "p": {
-                                    "value": "This subseries is arranged in alphabetical order by title of work or type of\n              material."
-                                }
+                                "p": "This subseries is arranged in alphabetical order by title of work or type of\n              material."
                             },
                             "level": "subseries"
                         },
@@ -2364,7 +2203,7 @@
                             "did": {
                                 "physdesc": {
                                     "extent": {
-                                        "value": "1 websites"
+                                        "value": "1\n                websites"
                                     }
                                 },
                                 "unittitle": {
@@ -2376,9 +2215,7 @@
                             },
                             "scopecontent": {
                                 "head": "Scope and Contents",
-                                "p": {
-                                    "value": " Berkowitz's website documents his writings on safe sex, AIDS, and gay rights from\n              the 1970s through the 2000s. The website includes published and unpublished writings,\n              including journal entries from 2010 and 2013, which include interviews with Berkowitz\n              and Callen in 1983; scans of his writings published in periodicals; and information\n              about his biography,  , and the documentary\n              based on his life,  . "
-                                }
+                                "p": "Berkowitz's website documents his writings on safe sex, AIDS, and gay rights from the\n              1970s through the 2000s. The website includes published and unpublished writings,\n              including journal entries from 2010 and 2013, which include interviews with Berkowitz\n              and Callen in 1983; scans of his writings published in periodicals; and information\n              about his biography, \u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e, and the documentary\n              based on his life, \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e."
                             },
                             "level": "subseries"
                         }
@@ -2386,7 +2223,7 @@
                     "did": {
                         "physdesc": {
                             "extent": {
-                                "value": "in 179 computer files."
+                                "value": "in 179 computer\n            files."
                             }
                         },
                         "unittitle": {
@@ -2398,30 +2235,19 @@
                     },
                     "scopecontent": {
                         "head": "Scope and content",
-                        "p": {
-                            "value": " This series documents Berkowitz's work as a writer on issues related to AIDS, safe\n            sex, and gay rights. The series contains Berkowitz's drafts, notes, and published\n            versions of and research materials and correspondence regarding his writings, including\n            his collaborations with Michael Callen \"We Know Who We Are\" and  , and his autobiography,  . The series also includes Berkowitz's research\n            files which include notes, correspondence, newspaper and magazine clippings; audio and\n            video recordings of Berkowitz, Callen, Joseph Sonnabend, and others; and Berkowitz's\n            website,  . Topics in the research files\n            include HIV/AIDS; safe sex advocacy; gay rights issues; and other topics of interest to\n            Berkowitz. "
-                        }
+                        "p": "This series documents Berkowitz's work as a writer on issues related to AIDS, safe sex,\n            and gay rights. The series contains Berkowitz's drafts, notes, and published versions of\n            and research materials and correspondence regarding his writings, including his\n            collaborations with Michael Callen \"We Know Who We Are\" and \u003cspan class=\"emph emph-italic\"\u003eHow to\n              Have Sex in an Epidemic: One Approach\u003c/span\u003e, and his autobiography, \u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e. The series also includes Berkowitz's research\n            files which include notes, correspondence, newspaper and magazine clippings; audio and\n            video recordings of Berkowitz, Callen, Joseph Sonnabend, and others; and Berkowitz's\n            website, \u003cspan class=\"emph emph-italic\"\u003eSafer Sex Positive\u003c/span\u003e. Topics in the research files\n            include HIV/AIDS; safe sex advocacy; gay rights issues; and other topics of interest to\n            Berkowitz."
                     },
                     "arrangement": {
                         "head": "Arrangement",
-                        "p": {
-                            "value": "Subseries VIII.E. Archived Website, 2016"
-                        }
+                        "p": "Subseries VIII.E. Archived Website, 2016"
                     },
                     "level": "series"
                 },
                 {
                     "did": {
-                        "origination": {
-                            "persname": {
-                                "value": "Berkowitz, Richard, 1955-",
-                                "source": "naf",
-                                "rules": "aacr"
-                            }
-                        },
                         "physdesc": {
                             "extent": {
-                                "value": "in 1 archived website."
+                                "value": "in 1 archived\n            website."
                             }
                         },
                         "unittitle": {
@@ -2433,63 +2259,41 @@
                     },
                     "scopecontent": {
                         "head": "Scope and Contents",
-                        "p": {
-                            "value": "The website contains the writings of Richard Berkowitz relating to safe sex, issues\n            surrounding gay life, and sex positivity."
-                        }
+                        "p": "The website contains the writings of Richard Berkowitz relating to safe sex, issues\n            surrounding gay life, and sex positivity."
                     },
                     "level": "otherlevel"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Physical digital media"
-                        }
-                    },
-                    "level": "file"
                 }
             ]
         },
         "scopecontent": {
             "head": "Scope and Content",
-            "p": {
-                "value": " The Richard Berkowitz Papers document the life and career of AIDS activist, writer, and\n        safe-sex advocate Richard Berkowitz, particularly his writings on AIDS, safe sex, and gay\n        rights issues; the documentary  , about his life\n        and work; his family; his education; his medical history; and his time as a sex worker. The\n        papers date from 1944 to 2015, with the bulk being between 1982-2015. The bulk of the\n        collection contains Berkowitz's work files, including drafts, notes, and published versions\n        of his writings, including \"We Know Who We Are\",  , and  ; audio\n        recordings of and correspondence with Michael Callen, Joseph Sonnabend, and others; video\n        recordings of interviews with Callen, Larry Kramer, and others, and off-air recordings of\n        AIDS-related programs; research files on different aspects of AIDS, safe sex, gay rights\n        issues, and topics of interest to Berkowitz; and his website documenting his career,  . Material related to Berkowitz's undergraduate\n        and graduate education includes his student films from Rutgers University and New York\n        University. Material related to Berkowitz's medical history include his blood test results\n        from the mid-1980s to the 2000s. Material related to  includes correspondence with Daryl Wein, Sonnabend, and others;\n        correspondence, programs, and other material related to film festivals Berkowitz attended in\n        conjunction with the film; and newspaper and magazine clippings about the film. Material\n        from Berkowitz's time as a sex worker includes correspondence with and photographs of\n        clients; writings and photographs of clients used on his escort website, analorgasm.net; and\n        some lists of clients and services he provided for them. His family records include a\n        scrapbook compiled by his father, Milton Berkowitz, during his tour of duty with the United\n        States Army in World War II; Milton Berkowitz's stag films; family home movies from the\n        1950s; and photographs of both parents, Berkowitz, his brothers, and their families. "
-            }
+            "p": "The Richard Berkowitz Papers document the life and career of AIDS activist, writer, and\n        safe-sex advocate Richard Berkowitz, particularly his writings on AIDS, safe sex, and gay\n        rights issues; the documentary \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e, about his life and\n        work; his family; his education; his medical history; and his time as a sex worker. The\n        papers date from 1944 to 2015, with the bulk being between 1982-2015. The bulk of the\n        collection contains Berkowitz's work files, including drafts, notes, and published versions\n        of his writings, including \"We Know Who We Are\", \u003cspan class=\"emph emph-italic\"\u003eHow to Have Sex in an\n          Epidemic: One Approach\u003c/span\u003e, and \u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e; audio\n        recordings of and correspondence with Michael Callen, Joseph Sonnabend, and others; video\n        recordings of interviews with Callen, Larry Kramer, and others, and off-air recordings of\n        AIDS-related programs; research files on different aspects of AIDS, safe sex, gay rights\n        issues, and topics of interest to Berkowitz; and his website documenting his career, \u003cspan class=\"emph emph-italic\"\u003eSafer Sex Positive\u003c/span\u003e. Material related to Berkowitz's undergraduate\n        and graduate education includes his student films from Rutgers University and New York\n        University. Material related to Berkowitz's medical history include his blood test results\n        from the mid-1980s to the 2000s. Material related to \u003cspan class=\"emph emph-italic\"\u003eSex\n          Positive\u003c/span\u003e includes correspondence with Daryl Wein, Sonnabend, and others;\n        correspondence, programs, and other material related to film festivals Berkowitz attended in\n        conjunction with the film; and newspaper and magazine clippings about the film. Material\n        from Berkowitz's time as a sex worker includes correspondence with and photographs of\n        clients; writings and photographs of clients used on his escort website, analorgasm.net; and\n        some lists of clients and services he provided for them. His family records include a\n        scrapbook compiled by his father, Milton Berkowitz, during his tour of duty with the United\n        States Army in World War II; Milton Berkowitz's stag films; family home movies from the\n        1950s; and photographs of both parents, Berkowitz, his brothers, and their families."
         },
         "bioghist": {
             "head": "Biographical Note",
-            "p": {
-                "value": " Callen died in 1993 from AIDS-related complications. Sonnabend co-founded the AIDS Medical\n        Foundation in 1983, and continued writing about AIDS issues and serving in private practice\n        until his retirement in 2005. Berkowitz continued to write about AIDS, safe sex, and gay\n        rights issues throughout the 1980s and into the 2000s. He returned to sex work in the late\n        1980s, promoting himself as a safe sex S\u0026M dominant in Florida and New York. In 2003 he\n        published his autobiography,  , and in 2008 was\n        the subject of  , a documentary written and\n        directed by Daryl Wein. "
-            }
+            "p": "Callen died in 1993 from AIDS-related complications. Sonnabend co-founded the AIDS Medical\n        Foundation in 1983, and continued writing about AIDS issues and serving in private practice\n        until his retirement in 2005. Berkowitz continued to write about AIDS, safe sex, and gay\n        rights issues throughout the 1980s and into the 2000s. He returned to sex work in the late\n        1980s, promoting himself as a safe sex S\u0026M dominant in Florida and New York. In 2003 he\n        published his autobiography, \u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e, and in 2008 was the\n        subject of \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e, a documentary written and directed by\n        Daryl Wein."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Donor permission is required for access. Please contact the Fales Library and Special\n        Collections, fales.library@nyu.edu, 212-998-2596."
-            }
+            "p": "Donor permission is required for access. Please contact the Fales Library and Special\n        Collections, fales.library@nyu.edu, 212-998-2596."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Copyright (or related rights to publicity and privacy) for materials in this collection,\n        which was created by Richard Berkowitz, was not transferred to New York University.\n        Permission to use materials must be secured from the copyright holder. Please contact the\n        Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
-            }
+            "p": "Copyright (or related rights to publicity and privacy) for materials in this collection,\n        which was created by Richard Berkowitz, was not transferred to New York University.\n        Permission to use materials must be secured from the copyright holder. Please contact the\n        Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n      \n    ",
-                "id": "aspace_c5e917b1b8fade5a7641468fc9f5b095"
+                "head": "Preferred Citation",
+                "p": "For archived website: \"Page Title.\" Archived month/day/year. Richard Berkowitz Papers,\n        Fales Library \u0026 Special Collections, New York University. Archived site URL. (Accessed\n        month/day/year)"
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "Paper materials were housed in archival folders and boxes. Audiovisual material with\n        damaged or no housing was housed; all audiovisual material was placed in archival boxes and\n        labeled with unique identifiers. Floppy disks were forensically imaged, analyzed, and\n        arranged in Forensic Toolkit. Email was ingested into and arranged in Forensic Toolkit.\n        Berkowitz's website was archived to the Internet Archive using the Archive-It service.\n        Material that belonged together intellectually was brought together physically and duplicate\n        publications were removed. Items of a sexually explicit nature were identified and will be\n        restricted until two years after Berkowitz's death."
-            }
+            "p": "Paper materials were housed in archival folders and boxes. Audiovisual material with\n        damaged or no housing was housed; all audiovisual material was placed in archival boxes and\n        labeled with unique identifiers. Floppy disks were forensically imaged, analyzed, and\n        arranged in Forensic Toolkit. Email was ingested into and arranged in Forensic Toolkit.\n        Berkowitz's website was archived to the Internet Archive using the Archive-It service.\n        Material that belonged together intellectually was brought together physically and duplicate\n        publications were removed. Items of a sexually explicit nature were identified and will be\n        restricted until two years after Berkowitz's death."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": "Subseries VIII.E. Archived Website, 2016"
-            }
+            "p": "Subseries VIII.E. Archived Website, 2016"
         },
         "controlaccess": {
             "genreform": [
