@@ -1,8 +1,4 @@
 {
-    "ead": {
-        "Space": "urn:isbn:1-931666-22-9",
-        "Local": "ead"
-    },
     "xmlns": "urn:isbn:1-931666-22-9",
     "xlink": "http://www.w3.org/1999/xlink",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
@@ -29,9 +25,7 @@
             },
             "publicationstmt": {
                 "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": {
-                    "date": "6/8/2017"
-                },
+                "p": "\u003cspan class=\"date\"\u003e6/8/2017\u003c/span\u003e",
                 "address": {
                     "addressline": [
                         {
@@ -71,7 +65,7 @@
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-01-14 10:44:40\n          -0500"
+                "date": "2020-04-27 16:11:32 -0400"
             },
             "descrules": "Describing Archives: A Content Standard"
         },
@@ -80,16 +74,14 @@
     "archdesc": {
         "acqinfo": {
             "head": "Immediate Source of Acquisition",
-            "p": {
-                "value": "Donated by Ellen Bitkower in 2017. The accession number associated with this gift is\n        2017.030."
-            }
+            "p": "Donated by Ellen Bitkower in 2017. The accession number associated with this gift is 2017.030."
         },
         "did": {
             "abstract": {
-                "value": "The Abraham Levine Papers (dated\n        1938-1948) consist of correspondence and drafts related to Abraham Levine's political\n        activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide\n        a window into the ways in which everyday members of the movement interpreted current affairs\n        in the 1940s. His papers include correspondence with fellow members of the Trotskyist\n        movement, and several drafts of essays reflecting on current events, international politics,\n        and American trade and commerce from a leftist perspective."
+                "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
             },
             "langmaterial": {
-                "value": "Materials are in\n        English."
+                "value": "Materials are in English."
             },
             "origination": {
                 "persname": {
@@ -105,7 +97,7 @@
                 }
             },
             "physloc": {
-                "value": "Materials are stored offsite and advance\n        notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business\n        days prior to your research visit to coordinate access."
+                "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
             },
             "repository": {
                 "corpname": {
@@ -125,45 +117,33 @@
         "dsc": {},
         "scopecontent": {
             "head": "Content Description",
-            "p": {
-                "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to\n        Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist\n        movement, and his papers provide a window into the ways in which everyday members of the\n        movement interpreted current affairs in the 1940s. His papers include correspondence with\n        fellow members of the Trotskyist movement, and several drafts of essays reflecting on\n        current events, international politics, and American trade and commerce from a leftist\n        perspective."
-            }
+            "p": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
         },
         "bioghist": {
             "head": "Biographical Note",
-            "p": {
-                "value": "Abraham Levine was a rank-and-file member of Trotskyist movement. Although Levine did not\n        hold a leadership position in any political organization, he was an active member in New\n        York City area Trotskyist groups including the Communist Workers' Group."
-            }
+            "p": "Abraham Levine was a rank-and-file member of Trotskyist movement. Although Levine did not hold a leadership position in any political organization, he was an active member in New York City area Trotskyist groups including the Communist Workers' Group."
         },
         "accessrestrict": {
             "head": "Conditions Governing Access",
-            "p": {
-                "value": "Materials are open without restrictions."
-            }
+            "p": "Materials are open without restrictions."
         },
         "userestrict": {
             "head": "Conditions Governing Use",
-            "p": {
-                "value": "Any rights (including copyright and related rights to publicity and privacy) held by\n        Abraham Levine, the creator of this collection, were relinquished and transferred to the\n        public domain in 2016 by Ellen Bitkower. These materials are governed by a Creative Commons\n        CC0 license, which permits publication and reproduction of materials accompanied by full\n        attribution. See, https://creativecommons.org/licenses/."
-            }
+            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Abraham Levine, the creator of this collection, were relinquished and transferred to the public domain in 2016 by Ellen Bitkower. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/."
         },
         "prefercite": [
             {
-                "value": "\n      \n      \n    ",
-                "id": "aspace_74daf2e0e4aa4db90196eb20674ea1c3"
+                "head": "Preferred Citation",
+                "p": "Identification of item, date; Abraham Levine Papers; TAM 693; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University"
             }
         ],
         "processinfo": {
             "head": "Processing Information",
-            "p": {
-                "value": "At the time of accessioning materials in this collection were moved into archvial housing\n        and described in a collection-level finding aid. The collection has not been arranged by an\n        archivist. Materials are in the order in which they were receive by the donor."
-            }
+            "p": "At the time of accessioning materials in this collection were moved into archvial housing and described in a collection-level finding aid. The collection has not been arranged by an archivist. Materials are in the order in which they were receive by the donor."
         },
         "arrangement": {
             "head": "Arrangement",
-            "p": {
-                "value": "This collection has not been arranged by an archivist. The materials are arranged in the\n        order in which they were received from the donor."
-            }
+            "p": "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
         },
         "controlaccess": {
             "genreform": [
