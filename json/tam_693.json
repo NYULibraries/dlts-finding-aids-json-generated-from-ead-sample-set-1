@@ -19,157 +19,256 @@
             "titlestmt": {
                 "titleproper": {
                     "value": "Guide to the Abraham Levine Papers ",
-                    "num": "TAM.693"
+                    "num": [
+                        "TAM.693"
+                    ]
                 },
-                "author": "Heather Mulliner"
+                "author": [
+                    "Heather Mulliner"
+                ]
             },
             "publicationstmt": {
-                "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
-                "p": "\u003cspan class=\"date\"\u003e6/8/2017\u003c/span\u003e",
-                "address": {
-                    "addressline": [
-                        {
-                            "value": "Elmer Holmes Bobst Library",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "70 Washington Square South",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "2nd Floor",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "New York, NY 10012",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "special.collections@nyu.edu",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "URL: ",
-                            "extptr": {
-                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "show": "new",
-                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "type": "simple"
+                "publisher": [
+                    "Tamiment Library and Robert F. Wagner Labor Archives"
+                ],
+                "p": [
+                    "\u003cspan class=\"date\"\u003e6/8/2017\u003c/span\u003e"
+                ],
+                "address": [
+                    {
+                        "addressline": [
+                            {
+                                "value": "Elmer Holmes Bobst Library",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "70 Washington Square South",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "2nd Floor",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "New York, NY 10012",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "special.collections@nyu.edu",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "URL: ",
+                                "extptr": {
+                                    "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "show": "new",
+                                    "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "type": "simple"
+                                }
                             }
-                        }
-                    ]
-                }
+                        ]
+                    }
+                ]
             },
             "editionstmt": {}
         },
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-04-27 16:11:32 -0400"
+                "date": [
+                    "2020-04-27 16:11:32 -0400"
+                ]
             },
-            "descrules": "Describing Archives: A Content Standard"
+            "descrules": [
+                "Describing Archives: A Content Standard"
+            ]
         },
         "revisiondesc": {}
     },
-    "archdesc": {
-        "acqinfo": {
-            "head": "Immediate Source of Acquisition",
-            "p": "Donated by Ellen Bitkower in 2017. The accession number associated with this gift is 2017.030."
-        },
-        "did": {
-            "abstract": {
-                "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
-            },
-            "langmaterial": {
-                "value": "Materials are in English."
-            },
-            "origination": {
-                "persname": {
-                    "value": "Bitkower, Ellen",
-                    "source": "local",
-                    "rules": "dacs",
-                    "role": "dnr"
-                }
-            },
-            "physdesc": {
-                "extent": {
-                    "value": "in 1 manuscript box and 1 half manuscript box"
-                }
-            },
-            "physloc": {
-                "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
-            },
-            "repository": {
-                "corpname": {
-                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                }
-            },
-            "unittitle": {
-                "value": "Abraham Levine Papers"
-            },
-            "unitid": {
-                "value": "TAM.693"
-            },
-            "unitdate": {
-                "value": "1938-1948"
-            }
-        },
-        "dsc": {},
-        "scopecontent": {
-            "head": "Content Description",
-            "p": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
-        },
-        "bioghist": {
-            "head": "Biographical Note",
-            "p": "Abraham Levine was a rank-and-file member of Trotskyist movement. Although Levine did not hold a leadership position in any political organization, he was an active member in New York City area Trotskyist groups including the Communist Workers' Group."
-        },
-        "accessrestrict": {
-            "head": "Conditions Governing Access",
-            "p": "Materials are open without restrictions."
-        },
-        "userestrict": {
-            "head": "Conditions Governing Use",
-            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Abraham Levine, the creator of this collection, were relinquished and transferred to the public domain in 2016 by Ellen Bitkower. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/."
-        },
-        "prefercite": [
-            {
-                "head": "Preferred Citation",
-                "p": "Identification of item, date; Abraham Levine Papers; TAM 693; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University"
-            }
-        ],
-        "processinfo": {
-            "head": "Processing Information",
-            "p": "At the time of accessioning materials in this collection were moved into archvial housing and described in a collection-level finding aid. The collection has not been arranged by an archivist. Materials are in the order in which they were receive by the donor."
-        },
-        "arrangement": {
-            "head": "Arrangement",
-            "p": "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
-        },
-        "controlaccess": {
-            "genreform": [
+    "archdesc": [
+        {
+            "acqinfo": [
                 {
-                    "value": "Correspondence.",
-                    "source": "aat"
-                },
-                {
-                    "value": "Typescripts.",
-                    "source": "aat"
+                    "head": [
+                        "Immediate Source of Acquisition"
+                    ],
+                    "p": [
+                        "Donated by Ellen Bitkower in 2017. The accession number associated with this gift is 2017.030."
+                    ]
                 }
             ],
-            "persname": [
+            "did": [
                 {
-                    "value": "Bitkower, Ellen",
-                    "source": "local",
-                    "rules": "dacs",
-                    "role": "dnr"
+                    "abstract": [
+                        {
+                            "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
+                        }
+                    ],
+                    "langmaterial": [
+                        {
+                            "value": "Materials are in English."
+                        }
+                    ],
+                    "origination": [
+                        {
+                            "persname": [
+                                {
+                                    "value": "Levine, Abraham",
+                                    "source": "local",
+                                    "rules": "dacs"
+                                }
+                            ]
+                        },
+                        {
+                            "persname": [
+                                {
+                                    "value": "Bitkower, Ellen",
+                                    "source": "local",
+                                    "rules": "dacs",
+                                    "role": "dnr"
+                                }
+                            ]
+                        }
+                    ],
+                    "physdesc": [
+                        {
+                            "extent": {
+                                "value": "in 1 manuscript box and 1 half manuscript box"
+                            }
+                        }
+                    ],
+                    "physloc": [
+                        {
+                            "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
+                        }
+                    ],
+                    "repository": [
+                        {
+                            "corpname": [
+                                {
+                                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                                }
+                            ]
+                        }
+                    ],
+                    "unittitle": [
+                        {
+                            "value": "Abraham Levine Papers"
+                        }
+                    ],
+                    "unitid": [
+                        {
+                            "value": "TAM.693"
+                        }
+                    ],
+                    "unitdate": [
+                        {
+                            "value": "1938-1948"
+                        }
+                    ]
                 }
             ],
-            "subject": [
+            "dsc": [
+                {}
+            ],
+            "scopecontent": [
                 {
-                    "value": "Communism -- United States -- 20th century",
-                    "source": "lcsh"
+                    "head": [
+                        "Content Description"
+                    ],
+                    "p": [
+                        "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
+                    ]
+                }
+            ],
+            "bioghist": [
+                {
+                    "head": [
+                        "Biographical Note"
+                    ],
+                    "p": [
+                        "Abraham Levine was a rank-and-file member of Trotskyist movement. Although Levine did not hold a leadership position in any political organization, he was an active member in New York City area Trotskyist groups including the Communist Workers' Group."
+                    ]
+                }
+            ],
+            "accessrestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Access"
+                    ],
+                    "p": [
+                        "Materials are open without restrictions."
+                    ]
+                }
+            ],
+            "userestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Use"
+                    ],
+                    "p": [
+                        "Any rights (including copyright and related rights to publicity and privacy) held by Abraham Levine, the creator of this collection, were relinquished and transferred to the public domain in 2016 by Ellen Bitkower. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/."
+                    ]
+                }
+            ],
+            "prefercite": [
+                {
+                    "head": [
+                        "Preferred Citation"
+                    ],
+                    "p": [
+                        "Identification of item, date; Abraham Levine Papers; TAM 693; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University"
+                    ]
+                }
+            ],
+            "processinfo": [
+                {
+                    "head": [
+                        "Processing Information"
+                    ],
+                    "p": [
+                        "At the time of accessioning materials in this collection were moved into archvial housing and described in a collection-level finding aid. The collection has not been arranged by an archivist. Materials are in the order in which they were receive by the donor."
+                    ]
+                }
+            ],
+            "arrangement": [
+                {
+                    "head": [
+                        "Arrangement"
+                    ],
+                    "p": [
+                        "This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor."
+                    ]
+                }
+            ],
+            "controlaccess": [
+                {
+                    "genreform": [
+                        {
+                            "value": "Correspondence.",
+                            "source": "aat"
+                        },
+                        {
+                            "value": "Typescripts.",
+                            "source": "aat"
+                        }
+                    ],
+                    "persname": [
+                        {
+                            "value": "Bitkower, Ellen",
+                            "source": "local",
+                            "rules": "dacs",
+                            "role": "dnr"
+                        }
+                    ],
+                    "subject": [
+                        {
+                            "value": "Communism -- United States -- 20th century",
+                            "source": "lcsh"
+                        }
+                    ]
                 }
             ]
         }
-    }
+    ]
 }

@@ -18,975 +18,1523 @@
             "titlestmt": {
                 "titleproper": {
                     "value": "Guide to the John \"The Cop\" Quigley Collection ",
-                    "num": "MC.100"
+                    "num": [
+                        "MC.100"
+                    ]
                 },
-                "author": "Leslie Barnes."
+                "author": [
+                    "Leslie Barnes."
+                ]
             },
             "publicationstmt": {
-                "publisher": "New York University Archives",
-                "p": "\u003cspan class=\"date\"\u003en.d.\u003c/span\u003e",
-                "address": {
-                    "addressline": [
-                        {
-                            "value": "Elmer Holmes Bobst Library",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "70 Washington Square South",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "2nd Floor",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "New York, NY 10012",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "special.collections@nyu.edu",
-                            "extptr": {}
-                        },
-                        {
-                            "value": "URL: ",
-                            "extptr": {
-                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "show": "new",
-                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
-                                "type": "simple"
+                "publisher": [
+                    "New York University Archives"
+                ],
+                "p": [
+                    "\u003cspan class=\"date\"\u003en.d.\u003c/span\u003e"
+                ],
+                "address": [
+                    {
+                        "addressline": [
+                            {
+                                "value": "Elmer Holmes Bobst Library",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "70 Washington Square South",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "2nd Floor",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "New York, NY 10012",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "special.collections@nyu.edu",
+                                "extptr": {}
+                            },
+                            {
+                                "value": "URL: ",
+                                "extptr": {
+                                    "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "show": "new",
+                                    "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                    "type": "simple"
+                                }
                             }
-                        }
-                    ]
-                }
+                        ]
+                    }
+                ]
             },
             "editionstmt": {}
         },
         "profiledesc": {
             "creation": {
                 "value": "This finding aid was produced using ArchivesSpace on .",
-                "date": "2020-04-27 15:48:05 -0400"
+                "date": [
+                    "2020-04-27 15:48:05 -0400"
+                ]
             },
-            "langusage": "English",
-            "descrules": "Describing Archives: A Content Standard"
+            "langusage": [
+                "English"
+            ],
+            "descrules": [
+                "Describing Archives: A Content Standard"
+            ]
         },
         "revisiondesc": {
             "change": [
                 {
-                    "date": "July 2019",
-                    "item": "Edited by Makoroba Sow for compliance with DACS and ACM Required Elements for Archival Description"
+                    "date": [
+                        "July 2019"
+                    ],
+                    "item": [
+                        "Edited by Makoroba Sow for compliance with DACS and ACM Required Elements for Archival Description"
+                    ]
                 }
             ]
         }
     },
-    "archdesc": {
-        "acqinfo": {
-            "head": "Immediate Source of Acquisition",
-            "p": "Donated by Daniel Quilty, Director of Athletics. The accession number associated with this collection is 82.022."
-        },
-        "did": {
-            "abstract": {
-                "value": "This collection contains correspondence and questionnaires regarding life at the University Heights campus of New York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a popular figure at the school. John Quigley was an officer at the University Heights campus for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes, stories, and photographs from alumnus about Quigley in preparation for , a book that celebrated Quigley's fortieth anniversary at the University Heights campus."
-            },
-            "langmaterial": {
-                "value": "Materials are in English."
-            },
-            "physdesc": {
-                "extent": {
-                    "value": "in 1 manuscript box"
+    "archdesc": [
+        {
+            "acqinfo": [
+                {
+                    "head": [
+                        "Immediate Source of Acquisition"
+                    ],
+                    "p": [
+                        "Donated by Daniel Quilty, Director of Athletics. The accession number associated with this collection is 82.022."
+                    ]
                 }
-            },
-            "physloc": {
-                "value": "Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access."
-            },
-            "repository": {
-                "corpname": {
-                    "value": "New York University Archives"
+            ],
+            "did": [
+                {
+                    "abstract": [
+                        {
+                            "value": "This collection contains correspondence and questionnaires regarding life at the University Heights campus of New York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a popular figure at the school. John Quigley was an officer at the University Heights campus for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes, stories, and photographs from alumnus about Quigley in preparation for , a book that celebrated Quigley's fortieth anniversary at the University Heights campus."
+                        }
+                    ],
+                    "langmaterial": [
+                        {
+                            "value": "Materials are in English."
+                        }
+                    ],
+                    "physdesc": [
+                        {
+                            "extent": {
+                                "value": "in 1 manuscript box"
+                            }
+                        }
+                    ],
+                    "physloc": [
+                        {
+                            "value": "Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access."
+                        }
+                    ],
+                    "repository": [
+                        {
+                            "corpname": [
+                                {
+                                    "value": "New York University Archives"
+                                }
+                            ]
+                        }
+                    ],
+                    "unittitle": [
+                        {
+                            "value": "John \"The Cop\" Quigley Collection"
+                        }
+                    ],
+                    "unitid": [
+                        {
+                            "value": "MC.100"
+                        }
+                    ],
+                    "unitdate": [
+                        {
+                            "value": "1935-1937"
+                        }
+                    ]
                 }
-            },
-            "unittitle": {
-                "value": "John \"The Cop\" Quigley Collection"
-            },
-            "unitid": {
-                "value": "MC.100"
-            },
-            "unitdate": {
-                "value": "1935-1937"
-            }
-        },
-        "dsc": {
-            "c": [
-                {
-                    "did": {
-                        "langmaterial": {
-                            "value": "."
-                        },
-                        "unittitle": {
-                            "value": "James Dalton - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "NYU Bureau of Public Information - Announcement of John Quigley's death"
-                        },
-                        "unitdate": {
-                            "value": "July 20, 1943"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Edward B. Willing - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "E. H. Hamilton - Letter and Anecdotes about John Quigley"
-                        },
-                        "unitdate": {
-                            "value": "July 16, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Leonard Eckman - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 12, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "W. O. Partisch - Letter and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 26, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "H. F. Watson - Excerpts from an N.Y.U. Diary and Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "October 4, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Irving E. Mansback - Anecdotes related to John Quigley and Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "April 22, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "John E. Longua - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 7, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Irving E. Mansback - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Sidney Feildrey - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 7, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "langmaterial": {
-                            "value": "."
-                        },
-                        "unittitle": {
-                            "value": "Freeman Woodbridge - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 7, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "langmaterial": {
-                            "value": "."
-                        },
-                        "unittitle": {
-                            "value": "E. H. Hamilton - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "July 10. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Bill Luasha - Questionnaire and Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 6, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "W. Elstad - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Chas D. Humphey - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Charles A. Tonsor - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "January 21, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Joe Hickey - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "July 30, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Richard A. Lynch Jr.  - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "July 30, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Rudolph Macy - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "A. W. Odgen - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "T. Jiel - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Benjamin A. Ross - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "May 5, 1936"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Anon. - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Edward J. McKary - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Anon. - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "John M. Laughran - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Robert S. Whightman - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Lindorf - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Theodore A. Distler - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 21, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Hoyt Hostutter - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Arthur J. O'dea - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "July 11, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "langmaterial": {
-                            "value": "."
-                        },
-                        "unittitle": {
-                            "value": "Richard D. Pilieasteru - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Harold Lenz - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 11, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Dr. Frank J. Goff - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "langmaterial": {
-                            "value": "."
-                        },
-                        "unittitle": {
-                            "value": "Seymour Male - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Charles P. Murphy - Letter to Lawrence Lang"
-                        },
-                        "unitdate": {
-                            "value": "July 10, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Oscar Rose - Letter to Alumnus"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "C. A. Bill - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "H. F. Watson - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 15, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Munro G. Rieser - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Donald F. Brown - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "J. F. Rockwatt - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Julian N. Henriques - Questionaire and Letter"
-                        },
-                        "unitdate": {
-                            "value": "June 17, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Dr. S. Bernard Wortis - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Dr. George A. Simons - Questionnaire and Pamphlets"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Erwin H. Hamilton - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Charles P. Murphy - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Stanley Kenward - Questionnaire and Photographs"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Erwin H. Hamilton - Letter to Oscar Rose and Anecdotes"
-                        },
-                        "unitdate": {
-                            "value": "August 21, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Jules W. Goldschmidt - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Anon. - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Harold H. Ball - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Philip Finkelstein - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "D. H. Elineweisch - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "M. L. Bettcher - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Ernest Larson - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 11, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Richard A. Lynch, Jr. - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Joseph W. Roe - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 6, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "John P. Phillips - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 18, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Walter S. L. Cleverdon - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "George J. Viertel - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "C. Raymond Kramer - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 11, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "A. L. Borton - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Sam M. Hollander - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "July 10, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Cayuga Press - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "February 15, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Ben Ross - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "January 11, 1938"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Sam M. Hollander - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "August 27, 1937"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Eugene R. Canudo - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "January 6, 1933"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Ben Ross - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "March 28, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Arthur H. Nason - Letter to Oscar Rose and Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "June 6, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Stanley Harte - Questionnaire"
-                        },
-                        "unitdate": {
-                            "value": "c. 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Sam M. Hollander - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "June 3, 1935"
-                        }
-                    },
-                    "level": "file"
-                },
-                {
-                    "did": {
-                        "unittitle": {
-                            "value": "Deems Taylor - Letter to Oscar Rose"
-                        },
-                        "unitdate": {
-                            "value": "October 16, 1935"
-                        }
-                    },
-                    "level": "file"
+            ],
+            "dsc": [
+                {
+                    "c": [
+                        {
+                            "did": [
+                                {
+                                    "langmaterial": [
+                                        {
+                                            "value": "."
+                                        }
+                                    ],
+                                    "unittitle": [
+                                        {
+                                            "value": "James Dalton - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "NYU Bureau of Public Information - Announcement of John Quigley's death"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 20, 1943"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Edward B. Willing - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "E. H. Hamilton - Letter and Anecdotes about John Quigley"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 16, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Leonard Eckman - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 12, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "W. O. Partisch - Letter and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 26, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "H. F. Watson - Excerpts from an N.Y.U. Diary and Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "October 4, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Irving E. Mansback - Anecdotes related to John Quigley and Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "April 22, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "John E. Longua - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 7, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Irving E. Mansback - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Sidney Feildrey - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 7, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "langmaterial": [
+                                        {
+                                            "value": "."
+                                        }
+                                    ],
+                                    "unittitle": [
+                                        {
+                                            "value": "Freeman Woodbridge - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 7, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "langmaterial": [
+                                        {
+                                            "value": "."
+                                        }
+                                    ],
+                                    "unittitle": [
+                                        {
+                                            "value": "E. H. Hamilton - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 10. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Bill Luasha - Questionnaire and Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 6, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "W. Elstad - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Chas D. Humphey - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Charles A. Tonsor - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "January 21, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Joe Hickey - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 30, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Richard A. Lynch Jr.  - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 30, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Rudolph Macy - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "A. W. Odgen - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "T. Jiel - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Benjamin A. Ross - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "May 5, 1936"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Anon. - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Edward J. McKary - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Anon. - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "John M. Laughran - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Robert S. Whightman - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Lindorf - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Theodore A. Distler - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 21, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Hoyt Hostutter - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Arthur J. O'dea - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 11, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "langmaterial": [
+                                        {
+                                            "value": "."
+                                        }
+                                    ],
+                                    "unittitle": [
+                                        {
+                                            "value": "Richard D. Pilieasteru - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Harold Lenz - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 11, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Dr. Frank J. Goff - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "langmaterial": [
+                                        {
+                                            "value": "."
+                                        }
+                                    ],
+                                    "unittitle": [
+                                        {
+                                            "value": "Seymour Male - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Charles P. Murphy - Letter to Lawrence Lang"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 10, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Oscar Rose - Letter to Alumnus"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "C. A. Bill - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "H. F. Watson - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 15, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Munro G. Rieser - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Donald F. Brown - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "J. F. Rockwatt - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Julian N. Henriques - Questionaire and Letter"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 17, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Dr. S. Bernard Wortis - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Dr. George A. Simons - Questionnaire and Pamphlets"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Erwin H. Hamilton - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Charles P. Murphy - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Stanley Kenward - Questionnaire and Photographs"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Erwin H. Hamilton - Letter to Oscar Rose and Anecdotes"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "August 21, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Jules W. Goldschmidt - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Anon. - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Harold H. Ball - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Philip Finkelstein - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "D. H. Elineweisch - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "M. L. Bettcher - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Ernest Larson - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 11, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Richard A. Lynch, Jr. - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Joseph W. Roe - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 6, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "John P. Phillips - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 18, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Walter S. L. Cleverdon - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "George J. Viertel - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "C. Raymond Kramer - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 11, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "A. L. Borton - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Sam M. Hollander - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "July 10, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Cayuga Press - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "February 15, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Ben Ross - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "January 11, 1938"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Sam M. Hollander - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "August 27, 1937"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Eugene R. Canudo - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "January 6, 1933"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Ben Ross - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "March 28, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Arthur H. Nason - Letter to Oscar Rose and Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 6, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Stanley Harte - Questionnaire"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "c. 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Sam M. Hollander - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "June 3, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        },
+                        {
+                            "did": [
+                                {
+                                    "unittitle": [
+                                        {
+                                            "value": "Deems Taylor - Letter to Oscar Rose"
+                                        }
+                                    ],
+                                    "unitdate": [
+                                        {
+                                            "value": "October 16, 1935"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "level": "file"
+                        }
+                    ]
                 }
-            ]
-        },
-        "scopecontent": {
-            "head": "Scope and Contents",
-            "p": "This collection is comprised of correspondence and questionnaires collected by Oscar Rose between 1935 and 1938 for a proposed biography of John \"\"the Cop\" Quigley. Quigley was a senior patrolman and guardian of the University Heights campus. The correspondence and questionnaires pertain to both John Quigley and life at the University Heights campus of New York University."
-        },
-        "bioghist": {
-            "head": "Historical note",
-            "p": "The University Heights campus, located in the Bronx, was a male-only undergraduate campus. It was opened in the late nineteenth-century and sold in 1973."
-        },
-        "accessrestrict": {
-            "head": "Conditions Governing Access",
-            "p": "Materials are open without restrictions."
-        },
-        "userestrict": {
-            "head": "Conditions Governing Use",
-            "p": "Any rights (including copyright and related rights to publicity and privacy) held by Oscar Rose are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact the New York University Archives at university-archives@nyu.edu."
-        },
-        "prefercite": [
-            {
-                "head": "Preferred Citation",
-                "p": "Identification of item, date; John \"The Cop\" Quigley Collection; MC 100; box number; folder number or item identifier; New York University Archives, New York University."
-            }
-        ],
-        "processinfo": {
-            "head": "Processing Information",
-            "p": "Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded."
-        },
-        "arrangement": {
-            "head": "Arrangement",
-            "p": "Original order was preserved. The materials in this collection do not appear to be arranged chronologically. Each respondent or correspondent has been given a folder."
-        },
-        "controlaccess": {
-            "genreform": [
+            ],
+            "scopecontent": [
                 {
-                    "value": "Correspondence.",
-                    "source": "aat"
-                },
+                    "head": [
+                        "Scope and Contents"
+                    ],
+                    "p": [
+                        "This collection is comprised of correspondence and questionnaires collected by Oscar Rose between 1935 and 1938 for a proposed biography of John \"\"the Cop\" Quigley. Quigley was a senior patrolman and guardian of the University Heights campus. The correspondence and questionnaires pertain to both John Quigley and life at the University Heights campus of New York University."
+                    ]
+                }
+            ],
+            "bioghist": [
                 {
-                    "value": "Questionnaires.",
-                    "source": "aat"
+                    "head": [
+                        "Historical note"
+                    ],
+                    "p": [
+                        "John Quigley (1872-1943), also known as \"John the Cop,\" was the senior patrolman of the University Heights campus of New York University. Quigley immigrated to the United States from Tipperary, Ireland in 1892. He began working at NYU's University Heights campus in 1896 and served as the senior patrolman of the campus for 47 years. Quigley was a popular and memorable figure on campus. ",
+                        "In 1935, Oscar Rose, the Secretary of the Committee on Publication and a member of the New York University Arts and Engineering Alumni Association, began compiling information for John Quigley's biography, \u003cspan class=\"emph emph-italic\"\u003eForty Years of John the Cop\u003c/span\u003e. Rose's general letter to University Heights alumni is included in the collection. ",
+                        "The University Heights campus, located in the Bronx, was a male-only undergraduate campus. It was opened in the late nineteenth-century and sold in 1973."
+                    ]
+                }
+            ],
+            "accessrestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Access"
+                    ],
+                    "p": [
+                        "Materials are open without restrictions."
+                    ]
+                }
+            ],
+            "userestrict": [
+                {
+                    "head": [
+                        "Conditions Governing Use"
+                    ],
+                    "p": [
+                        "Any rights (including copyright and related rights to publicity and privacy) held by Oscar Rose are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact the New York University Archives at university-archives@nyu.edu."
+                    ]
+                }
+            ],
+            "prefercite": [
+                {
+                    "head": [
+                        "Preferred Citation"
+                    ],
+                    "p": [
+                        "Identification of item, date; John \"The Cop\" Quigley Collection; MC 100; box number; folder number or item identifier; New York University Archives, New York University."
+                    ]
+                }
+            ],
+            "processinfo": [
+                {
+                    "head": [
+                        "Processing Information"
+                    ],
+                    "p": [
+                        "Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded."
+                    ]
+                }
+            ],
+            "arrangement": [
+                {
+                    "head": [
+                        "Arrangement"
+                    ],
+                    "p": [
+                        "Original order was preserved. The materials in this collection do not appear to be arranged chronologically. Each respondent or correspondent has been given a folder."
+                    ]
+                }
+            ],
+            "controlaccess": [
+                {
+                    "genreform": [
+                        {
+                            "value": "Correspondence.",
+                            "source": "aat"
+                        },
+                        {
+                            "value": "Questionnaires.",
+                            "source": "aat"
+                        }
+                    ]
                 }
             ]
         }
-    }
+    ]
 }
