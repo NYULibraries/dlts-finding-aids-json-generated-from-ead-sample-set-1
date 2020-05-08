@@ -168,8 +168,8 @@
             {
                 "abstract": [
                     {
-                        "id": "aspace_0e1938bf4e4ce60afa81b7989141c6fc",
-                        "value": "The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  The IRT produces Irish and Irish-American plays and musicals year-round.  The Irish Repertory Theatre Records document 28 seasons of productions, from 1988 to 2016.  Productions include \u003cemph render='italic'\u003eThe Plough and the Stars\u003c/emph\u003e, \u003cemph render='italic'\u003eThe Irish...And How They Got That Way\u003c/emph\u003e, and \u003cemph render='italic'\u003eFinian's Rainbow\u003c/emph\u003e.  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, video recordings, and posters.  The material consists of paper, born-digital, and audiovisual material."
+                        "value": "The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  The IRT produces Irish and Irish-American plays and musicals year-round.  The Irish Repertory Theatre Records document 28 seasons of productions, from 1988 to 2016.  Productions include \u003cspan class=\"emph emph-italic\"\u003eThe Plough and the Stars\u003c/span\u003e, \u003cspan class=\"emph emph-italic\"\u003eThe Irish...And How They Got That Way\u003c/span\u003e, and \u003cspan class=\"emph emph-italic\"\u003eFinian's Rainbow\u003c/span\u003e.  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, video recordings, and posters.  The material consists of paper, born-digital, and audiovisual material.",
+                        "id": "aspace_0e1938bf4e4ce60afa81b7989141c6fc"
                     }
                 ],
                 "langmaterial": [
