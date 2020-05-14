@@ -1170,7 +1170,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Daily Targum\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -1337,7 +1339,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eSelling It\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -1806,7 +1810,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003ePOZ\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -1823,7 +1829,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eSPIN\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -2457,7 +2465,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series VI. "
+                                        "value": "Series VI. \u003cspan class=\"emph emph-italic\"\u003eSex Positive\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -2940,7 +2948,7 @@
                                                 ],
                                                 "unittitle": [
                                                     {
-                                                        "value": " by Samuel R. Delany"
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003e1984\u003c/span\u003e by Samuel R. Delany"
                                                     }
                                                 ]
                                             }
@@ -3334,7 +3342,7 @@
                                                 ],
                                                 "unittitle": [
                                                     {
-                                                        "value": " by C. A.\n                Tripp"
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Homosexual Matrix\u003c/span\u003e by C. A.\n                Tripp"
                                                     }
                                                 ]
                                             }
@@ -4083,7 +4091,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eHow to Have Sex in an Epidemic: One\n                Approach\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -4140,7 +4150,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eLittle Sissy\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -4255,7 +4267,7 @@
                                                 ],
                                                 "unittitle": [
                                                     {
-                                                        "value": " biography"
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003ePOZ\u003c/span\u003e biography"
                                                     }
                                                 ]
                                             }
@@ -4293,7 +4305,7 @@
                                                 ],
                                                 "unittitle": [
                                                     {
-                                                        "value": " articles"
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eQW\u003c/span\u003e articles"
                                                     }
                                                 ]
                                             }
@@ -4432,7 +4444,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eStayin' Alive\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -4449,7 +4463,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eSurviving and Thriving with AIDS: Collected Wisdom,\n                  Volume Two\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ]
