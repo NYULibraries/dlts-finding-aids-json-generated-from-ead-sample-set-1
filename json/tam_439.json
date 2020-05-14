@@ -2668,7 +2668,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eYackle Journal\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -9594,7 +9596,7 @@
                                                 ],
                                                 "unittitle": [
                                                     {
-                                                        "value": ", Parts 1-4"
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eCamp Spruce Hill Hi-Lights\u003c/span\u003e, Parts 1-4"
                                                     }
                                                 ]
                                             }
@@ -9631,7 +9633,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eYiddish Lessons\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ],
@@ -9668,7 +9672,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eNigendl: A Jewish Family Portrait\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ],
@@ -9705,7 +9711,9 @@
                                                     }
                                                 ],
                                                 "unittitle": [
-                                                    {}
+                                                    {
+                                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eNigendl: A Jewish Family Portrait\u003c/span\u003e"
+                                                    }
                                                 ]
                                             }
                                         ],
