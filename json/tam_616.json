@@ -3219,7 +3219,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series I: "
+                                        "value": "Series I: \u003cspan class=\"emph emph-italic\"\u003eAmericans in Cuba, Those Who Came\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -3262,7 +3262,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCamp Kinderland in Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3349,7 +3351,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series II: "
+                                        "value": "Series II: \u003cspan class=\"emph emph-italic\"\u003eCamp Kinderland in Havana\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -3392,7 +3394,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eNiños Deudores\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3451,7 +3455,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3513,7 +3519,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -3536,7 +3544,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -3559,7 +3569,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -3583,7 +3595,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\", Old Version, Spanish (Master)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e, Old Version, Spanish (Master)\""
                                             }
                                         ]
                                     }
@@ -3608,7 +3620,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\", Spanish (Master)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e, Spanish (Master)\""
                                             }
                                         ]
                                     }
@@ -3633,7 +3645,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\" (Master)\" "
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt \u003c/span\u003e (Master)\" "
                                             }
                                         ]
                                     }
@@ -3657,7 +3669,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -3681,7 +3695,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\", with English subtitles (Master)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e, with English subtitles (Master)\""
                                             }
                                         ]
                                     }
@@ -3706,7 +3720,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\", with English subtitles (Master)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e, with English subtitles (Master)\""
                                             }
                                         ]
                                     }
@@ -4350,7 +4364,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"Muestra de Niños Deudores in escuela cubana\" (Piece/sample of  in Cuban school)"
+                                                "value": "\"Muestra de Niños Deudores in escuela cubana\" (Piece/sample of \u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e in Cuban school)"
                                             }
                                         ]
                                     }
@@ -5022,7 +5036,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series III: "
+                                        "value": "Series III: \u003cspan class=\"emph emph-italic\"\u003eChildren in Debt\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -5065,7 +5079,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eA Conversation with García Márquez about his Friend Fidel\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -5137,7 +5153,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series IV: "
+                                        "value": "Series IV: \u003cspan class=\"emph emph-italic\"\u003eA Conversation with García Márquez about his Friend Fidel\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -5181,7 +5197,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " "
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCuba y Sudáfrica: Después de la Batalla\u003c/span\u003e "
                                             }
                                         ]
                                     }
@@ -5244,7 +5260,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCuba/South Africa: After the Battle\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -5292,7 +5310,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " "
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCuba/South Africa: After the Battle\u003c/span\u003e "
                                             }
                                         ]
                                     }
@@ -5325,7 +5343,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCuba/South Africa: After the Battle\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -5354,7 +5374,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCuba/South Africa: After the Battle\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -5408,7 +5430,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"(English) 1st Cut\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eAfter the Battle \u003c/span\u003e(English) 1st Cut\""
                                             }
                                         ]
                                     }
@@ -5433,7 +5455,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\" (2nd Version)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eAfter the Battle\u003c/span\u003e (2nd Version)\""
                                             }
                                         ]
                                     }
@@ -5458,7 +5480,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"2nd Version  R12\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eAfter the Battle \u003c/span\u003e2nd Version  R12\""
                                             }
                                         ]
                                     }
@@ -6229,7 +6251,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series V: "
+                                        "value": "Series V: \u003cspan class=\"emph emph-italic\"\u003eCuba/South Africa: After the Battle\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -6290,7 +6312,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6328,7 +6352,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6382,7 +6408,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "  (from BFI)"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e  (from BFI)"
                                             }
                                         ]
                                     }
@@ -6407,7 +6433,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "  (jca tv facilities)  (from BFI)"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e  (jca tv facilities)  (from BFI)"
                                             }
                                         ]
                                     }
@@ -6432,7 +6458,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", with Spanish subtitles"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e, with Spanish subtitles"
                                             }
                                         ]
                                     }
@@ -6457,7 +6483,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", Spanish"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e, Spanish"
                                             }
                                         ]
                                     }
@@ -7699,7 +7725,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "McLain, Denny: Interview (part 1) / "
+                                                "value": "McLain, Denny: Interview (part 1) / \u003cspan class=\"emph emph-italic\"\u003eAyer in Miami\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -10599,7 +10625,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series VI: "
+                                        "value": "Series VI: \u003cspan class=\"emph emph-italic\"\u003eThe Cuban Excludables\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -10646,7 +10672,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\" DV#3\" "
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eCubans in Peru \u003c/span\u003e DV#3\" "
                                             }
                                         ]
                                     }
@@ -10909,7 +10935,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "University of San Marcos: Presentation on "
+                                                "value": "University of San Marcos: Presentation on \u003cspan class=\"emph emph-italic\"\u003eEmbajador En Cuba\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -10957,7 +10983,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series VII: "
+                                        "value": "Series VII: \u003cspan class=\"emph emph-italic\"\u003eCubans in Peru\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -11018,7 +11044,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eFidel: The Untold Story\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -11057,7 +11085,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\" Trailer\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eFidel\u003c/span\u003e Trailer\""
                                             }
                                         ]
                                     }
@@ -11082,7 +11110,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "  at the Paley Center for Media, New York City\n\n"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eAn Evening with Estela Bravo: Filmmaker of \"Fidel: The Untold Story\" and \"Anecdotes about Fidel\"\u003c/span\u003e  at the Paley Center for Media, New York City\n\n"
                                             }
                                         ]
                                     }
@@ -23736,7 +23764,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "CBS News Archives  with Ed Murrow - \"Fidel Castro\""
+                                                "value": "CBS News Archives \u003cspan class=\"emph emph-italic\"\u003ePerson to Person\u003c/span\u003e with Ed Murrow - \"Fidel Castro\""
                                             }
                                         ]
                                     }
@@ -29099,7 +29127,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series VIII:  and "
+                                        "value": "Series VIII: \u003cspan class=\"emph emph-italic\"\u003eFidel: The Untold Story\u003c/span\u003e and \u003cspan class=\"emph emph-italic\"\u003eAnecdotes about Fidel\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -29157,7 +29185,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003e Flotilla to Cuba\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -29211,7 +29241,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "Footage:   "
+                                                "value": "Footage: \u003cspan class=\"emph emph-italic\"\u003eFlotilla to Cuba\u003c/span\u003e  "
                                             }
                                         ]
                                     }
@@ -29564,7 +29594,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series IX: "
+                                        "value": "Series IX: \u003cspan class=\"emph emph-italic\"\u003eFlotilla to Cuba\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -29607,7 +29637,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eFree to Fly: The US-Cuba Link\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -29653,7 +29685,9 @@
                                     }
                                 ],
                                 "unittitle": [
-                                    {}
+                                    {
+                                        "value": "\u003cspan class=\"emph emph-italic\"\u003eSeries X: Free to Fly: The US-Cuba Link\u003c/span\u003e"
+                                    }
                                 ]
                             }
                         ],
@@ -29713,7 +29747,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eEl Santo Padre y la Gloria\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -29800,7 +29836,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -29829,7 +29867,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -29883,7 +29923,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", Spanish "
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria\u003c/span\u003e, Spanish "
                                             }
                                         ]
                                     }
@@ -29908,7 +29948,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " \"Version 1 First Edit\""
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria \u003c/span\u003e \"Version 1 First Edit\""
                                             }
                                         ]
                                     }
@@ -29933,7 +29973,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\" 42 minutes (Español)\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eEl Santo Padre y La Gloria \u003c/span\u003e 42 minutes (Español)\""
                                             }
                                         ]
                                     }
@@ -31068,7 +31108,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"Film festival - Homage to Estela Bravo for \"(about Bravo)"
+                                                "value": "\"Film festival - Homage to Estela Bravo for \u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria\u003c/span\u003e\"(about Bravo)"
                                             }
                                         ]
                                     }
@@ -31233,7 +31273,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XI: "
+                                        "value": "Series XI: \u003cspan class=\"emph emph-italic\"\u003eHoly Father and Gloria\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -31283,7 +31323,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " (Master)"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLa Hora del Pueblo\u003c/span\u003e (Master)"
                                             }
                                         ]
                                     }
@@ -31343,7 +31383,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLa Hora del Pueblo\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -31402,7 +31444,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThe Hour of the People\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -31525,7 +31569,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XII: "
+                                        "value": "Series XII: \u003cspan class=\"emph emph-italic\"\u003eThe Hour of the People\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -31568,7 +31612,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela and Fidel\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -31615,7 +31661,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XIII: "
+                                        "value": "Series XIII: \u003cspan class=\"emph emph-italic\"\u003eMandela and Fidel\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -31676,7 +31722,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela in Cuba\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -31729,7 +31777,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela in Cuba\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -32316,7 +32366,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XIV: "
+                                        "value": "Series XIV: \u003cspan class=\"emph emph-italic\"\u003eMandela in Cuba\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -32359,7 +32409,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela in Jamaica\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -32412,7 +32464,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela Visits Jamaica\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -32436,7 +32490,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " /"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMandela Visits Jamaica\u003c/span\u003e /\u003cspan class=\"emph emph-italic\"\u003eMandela in Cuba\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -32594,7 +32648,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XV: "
+                                        "value": "Series XV: \u003cspan class=\"emph emph-italic\"\u003eMandela Visits Jamaica\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -32661,7 +32715,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Marielitos\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -32714,7 +32770,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Marielitos\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -32738,7 +32796,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", \"Spanish, Cassette #24\"  - Possible full-length feature"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Marielitos\u003c/span\u003e, \"Spanish, Cassette #24\"  - Possible full-length feature"
                                             }
                                         ]
                                     }
@@ -32763,7 +32821,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", \"English, Cassette #23  DV #5\" Possible full-length feature"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Marielitos\u003c/span\u003e, \"English, Cassette #23  DV #5\" Possible full-length feature"
                                             }
                                         ]
                                     }
@@ -32788,7 +32846,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", \"Spanish, no subtitles\" Possible full-length feature"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Marielitos\u003c/span\u003e, \"Spanish, no subtitles\" Possible full-length feature"
                                             }
                                         ]
                                     }
@@ -32957,7 +33015,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XVI: "
+                                        "value": "Series XVI: \u003cspan class=\"emph emph-italic\"\u003eThe Marielitos\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -33000,7 +33058,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMaurice Bishop\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -33038,7 +33098,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMaurice\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -33061,7 +33123,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMaurice\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -33085,7 +33149,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"  Master  Spanish\" "
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eMaurice\u003c/span\u003e  Master  Spanish\" "
                                             }
                                         ]
                                     }
@@ -33135,7 +33199,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " premiere: Footage from premiere of the film in Matanzas"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMaurice Bishop\u003c/span\u003e premiere: Footage from premiere of the film in Matanzas"
                                             }
                                         ]
                                     }
@@ -33183,7 +33247,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XVII: "
+                                        "value": "Series XVII: \u003cspan class=\"emph emph-italic\"\u003eMaurice Bishop\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -33226,7 +33290,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -33288,7 +33354,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -33311,7 +33379,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -33334,7 +33404,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -33387,7 +33459,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -33441,7 +33515,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", Spanish"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e, Spanish"
                                             }
                                         ]
                                     }
@@ -34164,7 +34238,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "  2nd Cut  English and Spanish"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e  2nd Cut  English and Spanish"
                                             }
                                         ]
                                     }
@@ -34297,7 +34371,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XVIII: "
+                                        "value": "Series XVIII: \u003cspan class=\"emph emph-italic\"\u003eMiami-Havana\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -34368,7 +34442,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ": Two Versions"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMissing Children\u003c/span\u003e: Two Versions"
                                             }
                                         ]
                                     }
@@ -34429,7 +34503,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " / "
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMissing Children (Niños Desaparecidos)\u003c/span\u003e / \u003cspan class=\"emph emph-italic\"\u003eReturning to Chile (Retornado a Chile)\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -34484,7 +34558,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", Spanish (has a few notes in Spanish)"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMissing Children\u003c/span\u003e, Spanish (has a few notes in Spanish)"
                                             }
                                         ]
                                     }
@@ -34517,7 +34591,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eNiños Desaparecidos\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -34540,7 +34616,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMissing Children\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -34563,7 +34641,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eMissing Children\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -34580,7 +34660,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XIX: "
+                                        "value": "Series XIX: \u003cspan class=\"emph emph-italic\"\u003eMissing Children\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -34638,7 +34718,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eNamibia: The Last Colony\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -35302,7 +35384,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XX: "
+                                        "value": "Series XX: \u003cspan class=\"emph emph-italic\"\u003eNamibia: The Last Colony\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -35364,7 +35446,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXI: "
+                                        "value": "Series XXI: \u003cspan class=\"emph emph-italic\"\u003eThe National Ballet of Cuba in Argentina\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -35426,7 +35508,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ": Book Based on the Documentary by Estela Bravo"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eOperación Peter Pan\u003c/span\u003e: Book Based on the Documentary by Estela Bravo"
                                             }
                                         ]
                                     }
@@ -35817,7 +35899,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXII: "
+                                        "value": "Series XXII: \u003cspan class=\"emph emph-italic\"\u003eOperation Peter Pan: Flying Back to Cuba\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -35890,7 +35972,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -35913,7 +35997,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -35942,7 +36028,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -35995,7 +36083,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -36034,7 +36124,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", \"Cassette #24  DV #9 Final Viejo, Spanish\""
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e, \"Cassette #24  DV #9 Final Viejo, Spanish\""
                                             }
                                         ]
                                     }
@@ -36065,7 +36155,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " \"English subtitles\""
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile \u003c/span\u003e \"English subtitles\""
                                             }
                                         ]
                                     }
@@ -36120,7 +36210,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ", English"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e, English"
                                             }
                                         ]
                                     }
@@ -36905,7 +36995,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " \"Festivales\""
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e \"Festivales\""
                                             }
                                         ]
                                     }
@@ -37072,7 +37162,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXIII: "
+                                        "value": "Series XXIII: \u003cspan class=\"emph emph-italic\"\u003eReturning to Chile\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -37199,7 +37289,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " footage"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eSilvio and Pablo\u003c/span\u003e footage"
                                             }
                                         ]
                                     }
@@ -37411,7 +37501,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXIV: "
+                                        "value": "Series XXIV: \u003cspan class=\"emph emph-italic\"\u003eSilvio and Pablo in Argentina\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -37452,7 +37542,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
@@ -37750,7 +37842,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eCubans in New York: One Year Later\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -37829,7 +37923,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"  Early Version of Those Who Left\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eEl Dialogo\u003c/span\u003e  Early Version of Those Who Left\""
                                             }
                                         ]
                                     }
@@ -38310,7 +38404,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " ()"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e (\u003cspan class=\"emph emph-italic\"\u003eLos Que Se Fueron\u003c/span\u003e)"
                                             }
                                         ]
                                     }
@@ -38365,7 +38459,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " 1st Part"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eLos Que Se Fueron\u003c/span\u003e 1st Part"
                                             }
                                         ]
                                     }
@@ -38390,7 +38484,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"\"  "
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eLos Que Se Fueron\u003c/span\u003e\"  "
                                             }
                                         ]
                                     }
@@ -38440,7 +38534,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"  #1\""
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e  #1\""
                                             }
                                         ]
                                     }
@@ -38471,7 +38565,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ": Second Part"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e: Second Part"
                                             }
                                         ]
                                     }
@@ -38526,7 +38620,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "\"\" "
+                                                "value": "\"\u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e\" "
                                             }
                                         ]
                                     }
@@ -38569,7 +38663,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXV: "
+                                        "value": "Series XXV: \u003cspan class=\"emph emph-italic\"\u003eThose Who Left\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -38772,7 +38866,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXVI: "
+                                        "value": "Series XXVI: \u003cspan class=\"emph emph-italic\"\u003eThe Three Rafters\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -38830,7 +38924,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eWho Am I: The Found Children of Argentina\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ],
@@ -38884,7 +38980,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " \"Work in Progress\""
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eWho Am I: The Found Children of Argentina\u003c/span\u003e \"Work in Progress\""
                                             }
                                         ]
                                     }
@@ -39449,7 +39545,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXVII: "
+                                        "value": "Series XXVII: \u003cspan class=\"emph emph-italic\"\u003eWho Am I: The Found Children of Argentina\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -39511,7 +39607,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " ()"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eWho's Running the Show?\u003c/span\u003e (\u003cspan class=\"emph emph-italic\"\u003eQuien Dirige la Batuta\u003c/span\u003e)"
                                             }
                                         ]
                                     }
@@ -39572,7 +39668,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": " ()"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eWho's Running the Show?\u003c/span\u003e (\u003cspan class=\"emph emph-italic\"\u003eQuien Dirige la Batuta\u003c/span\u003e)"
                                             }
                                         ]
                                     }
@@ -39645,7 +39741,7 @@
                                 ],
                                 "unittitle": [
                                     {
-                                        "value": "Series XXVIII: "
+                                        "value": "Series XXVIII: \u003cspan class=\"emph emph-italic\"\u003eWho's Running the Show\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -40284,7 +40380,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "Fajardo, Panchita: footage;  film"
+                                                "value": "Fajardo, Panchita: footage; \u003cspan class=\"emph emph-italic\"\u003eCreate the Future\u003c/span\u003e film"
                                             }
                                         ]
                                     }
@@ -41497,7 +41593,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": ": Orlando Bosch Sells Lemons, and Crowd Destroys Veronica Castro's Star"
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eNoticias 23\u003c/span\u003e: Orlando Bosch Sells Lemons, and Crowd Destroys Veronica Castro's Star"
                                             }
                                         ]
                                     }
@@ -41637,7 +41733,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "Documentary: "
+                                                "value": "Documentary: \u003cspan class=\"emph emph-italic\"\u003eManos a la Obra\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -41660,7 +41756,7 @@
                                         ],
                                         "unittitle": [
                                             {
-                                                "value": "Documentary: "
+                                                "value": "Documentary: \u003cspan class=\"emph emph-italic\"\u003ePorque Moncada?\u003c/span\u003e"
                                             }
                                         ]
                                     }
@@ -41684,7 +41780,9 @@
                                             }
                                         ],
                                         "unittitle": [
-                                            {}
+                                            {
+                                                "value": "\u003cspan class=\"emph emph-italic\"\u003eEstela Bravo: Tal Como Es/The Way She Is\u003c/span\u003e"
+                                            }
                                         ]
                                     }
                                 ]
