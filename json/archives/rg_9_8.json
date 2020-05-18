@@ -4,68 +4,28 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Correspondence."
-                    },
-                    {
-                        "value": "Administrative records."
-                    },
-                    {
-                        "value": "Clippings (information artifacts)"
-                    },
-                    {
-                        "value": "Audiovisual materials."
-                    },
-                    {
-                        "value": "Reports."
-                    },
-                    {
-                        "value": "Audiocassettes."
-                    },
-                    {
-                        "value": "Pamphlets."
-                    },
-                    {
-                        "value": "Lectures."
-                    },
-                    {
-                        "value": "VHS"
-                    },
-                    {
-                        "value": "Press releases."
-                    }
+                    "Correspondence.",
+                    "Administrative records.",
+                    "Clippings (information artifacts)",
+                    "Audiovisual materials.",
+                    "Reports.",
+                    "Audiocassettes.",
+                    "Pamphlets.",
+                    "Lectures.",
+                    "VHS",
+                    "Press releases."
                 ],
                 "subject": [
-                    {
-                        "value": "American literature -- African American authors."
-                    },
-                    {
-                        "value": "African American theater"
-                    },
-                    {
-                        "value": "African American athletes"
-                    },
-                    {
-                        "value": "African Americans |x Mental health"
-                    },
-                    {
-                        "value": "American literature |x Puerto Rican authors"
-                    },
-                    {
-                        "value": "African Americans -- Economic conditions."
-                    },
-                    {
-                        "value": "Puerto Rican families -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "African Americans -- Politics and government."
-                    },
-                    {
-                        "value": "African American art."
-                    },
-                    {
-                        "value": "African American college students."
-                    }
+                    "American literature -- African American authors.",
+                    "African American theater",
+                    "African American athletes",
+                    "African Americans |x Mental health",
+                    "American literature |x Puerto Rican authors",
+                    "African Americans -- Economic conditions.",
+                    "Puerto Rican families -- New York (State) -- New York.",
+                    "African Americans -- Politics and government.",
+                    "African American art.",
+                    "African American college students."
                 ]
             }
         ],
@@ -169,9 +129,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "New York University Archives"
-                            }
+                            "New York University Archives"
                         ]
                     }
                 ],
@@ -41622,16 +41580,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "University Archives staff"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Records of the Institute of African American Affairs "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "University Archives staff"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Records of the Institute of African American Affairs "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -41639,9 +41599,7 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:50:06 -0400"
-                                }
+                                "2020-04-27 15:50:06 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
@@ -41656,9 +41614,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "Edited by Andrea Kutsenkow to include description of The Soul of Reason audio recordings."
-                                }
+                                "Edited by Andrea Kutsenkow to include description of The Soul of Reason audio recordings."
                             ],
                             "item": [
                                 {
@@ -41668,9 +41624,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "June 2018"
-                                }
+                                "June 2018"
                             ],
                             "item": [
                                 {
@@ -41680,9 +41634,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "December 2018"
-                                }
+                                "December 2018"
                             ],
                             "item": [
                                 {

@@ -106,32 +106,16 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Documentary films -- Cuba."
-                    }
+                    "Documentary films -- Cuba."
                 ],
                 "subject": [
-                    {
-                        "value": "Food relief, American -- Cuba."
-                    },
-                    {
-                        "value": "Cuban Americans -- Florida -- Miami -- Family relationships."
-                    },
-                    {
-                        "value": "Disappeared persons -- Argentina."
-                    },
-                    {
-                        "value": "Human rights -- Argentina."
-                    },
-                    {
-                        "value": "Detentions of persons -- United States."
-                    },
-                    {
-                        "value": "Mariel Boatlift, 1980."
-                    },
-                    {
-                        "value": "Debts, External -- South America."
-                    }
+                    "Food relief, American -- Cuba.",
+                    "Cuban Americans -- Florida -- Miami -- Family relationships.",
+                    "Disappeared persons -- Argentina.",
+                    "Human rights -- Argentina.",
+                    "Detentions of persons -- United States.",
+                    "Mariel Boatlift, 1980.",
+                    "Debts, External -- South America."
                 ]
             }
         ],
@@ -191,9 +175,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -42962,19 +42944,21 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Jan Hilley, with the assistance of Heather Mulliner."
-                        ],
-                        "sponsor": [
-                            "Digitization and description of 225 videos was made possible by a generous grant from the Council on Library and Information Resources (CLIR)."
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Estela and Ernesto Bravo Film and Video Collection "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Jan Hilley, with the assistance of Heather Mulliner."
+                            ],
+                            "sponsor": [
+                                "Digitization and description of 225 videos was made possible by a generous grant from the Council on Library and Information Resources (CLIR)."
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Estela and Ernesto Bravo Film and Video Collection "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -42982,17 +42966,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 16:08:47 -0400"
-                                }
+                                "2020-04-27 16:08:47 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -43004,9 +42984,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "December 2018"
-                                }
+                                "December 2018"
                             ],
                             "item": [
                                 {

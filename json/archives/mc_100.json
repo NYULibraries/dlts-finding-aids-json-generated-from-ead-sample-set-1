@@ -70,12 +70,8 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Correspondence."
-                    },
-                    {
-                        "value": "Questionnaires."
-                    }
+                    "Correspondence.",
+                    "Questionnaires."
                 ]
             }
         ],
@@ -107,15 +103,14 @@
                 ],
                 "physloc": [
                     {
+                        "id": "aspace_ea66875dbfdf0eb8ec0f6132392f1a94",
                         "value": "Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access."
                     }
                 ],
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "New York University Archives"
-                            }
+                            "New York University Archives"
                         ]
                     }
                 ],
@@ -1621,16 +1616,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Leslie Barnes."
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the John \"The Cop\" Quigley Collection "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Leslie Barnes."
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the John \"The Cop\" Quigley Collection "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -1638,17 +1635,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:48:05 -0400"
-                                }
+                                "2020-04-27 15:48:05 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -1660,9 +1653,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "July 2019"
-                                }
+                                "July 2019"
                             ],
                             "item": [
                                 {

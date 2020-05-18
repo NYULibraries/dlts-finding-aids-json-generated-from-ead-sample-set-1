@@ -79,44 +79,20 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Clippings (information artifacts)"
-                    },
-                    {
-                        "value": "Financial records"
-                    },
-                    {
-                        "value": "Correspondence."
-                    },
-                    {
-                        "value": "Photographs."
-                    },
-                    {
-                        "value": "Minutes (administrative records)"
-                    },
-                    {
-                        "value": "Songbooks."
-                    }
+                    "Clippings (information artifacts)",
+                    "Financial records",
+                    "Correspondence.",
+                    "Photographs.",
+                    "Minutes (administrative records)",
+                    "Songbooks."
                 ],
                 "subject": [
-                    {
-                        "value": "Camps -- New York (State) -- History -- 20th century."
-                    },
-                    {
-                        "value": "Camps -- Massachusetts -- History -- 20th century."
-                    },
-                    {
-                        "value": "Camps -- Pennsylvania"
-                    },
-                    {
-                        "value": "Socialism and youth."
-                    },
-                    {
-                        "value": "Jewish children -- United States."
-                    },
-                    {
-                        "value": "Jewish socialists -- United States."
-                    }
+                    "Camps -- New York (State) -- History -- 20th century.",
+                    "Camps -- Massachusetts -- History -- 20th century.",
+                    "Camps -- Pennsylvania",
+                    "Socialism and youth.",
+                    "Jewish children -- United States.",
+                    "Jewish socialists -- United States."
                 ]
             }
         ],
@@ -177,9 +153,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -10523,16 +10497,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Alexander Bloom and Michael Beebe, 2009."
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Camp Kinderland Records  "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Alexander Bloom and Michael Beebe, 2009."
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Camp Kinderland Records  "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -10540,17 +10516,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 16:08:08 -0400"
-                                }
+                                "2020-04-27 16:08:08 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -10562,9 +10534,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "2013"
-                                }
+                                "2013"
                             ],
                             "item": [
                                 {
@@ -10574,9 +10544,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "2014"
-                                }
+                                "2014"
                             ],
                             "item": [
                                 {
@@ -10586,9 +10554,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "January 2018"
-                                }
+                                "January 2018"
                             ],
                             "item": [
                                 {

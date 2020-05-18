@@ -64,31 +64,17 @@
         "controlaccess": [
             {
                 "corpname": [
-                    {
-                        "value": "Arizona Educators United"
-                    }
+                    "Arizona Educators United"
                 ],
                 "persname": [
-                    {
-                        "value": "Karvelis, Noah"
-                    }
+                    "Karvelis, Noah"
                 ],
                 "subject": [
-                    {
-                        "value": "Teachers' contracts -- United States."
-                    },
-                    {
-                        "value": "Teachers -- Political activity"
-                    },
-                    {
-                        "value": "Teachers' unions."
-                    },
-                    {
-                        "value": "Education and state -- Arizona"
-                    },
-                    {
-                        "value": "Teachers' unions -- Arizona"
-                    }
+                    "Teachers' contracts -- United States.",
+                    "Teachers -- Political activity",
+                    "Teachers' unions.",
+                    "Education and state -- Arizona",
+                    "Teachers' unions -- Arizona"
                 ]
             }
         ],
@@ -110,17 +96,13 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            {
-                                "value": "Karvelis, Noah"
-                            }
+                            "Karvelis, Noah"
                         ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            {
-                                "value": "Karvelis, Noah"
-                            }
+                            "Karvelis, Noah"
                         ]
                     }
                 ],
@@ -139,9 +121,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -289,16 +269,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Rachel Searcy"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Noah Karvelis Papers on Arizona Teachers Organizing "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Rachel Searcy"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Noah Karvelis Papers on Arizona Teachers Organizing "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -306,17 +288,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 16:11:52 -0400"
-                                }
+                                "2020-04-27 16:11:52 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}

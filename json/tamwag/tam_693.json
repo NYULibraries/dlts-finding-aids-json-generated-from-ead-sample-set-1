@@ -64,22 +64,14 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Correspondence."
-                    },
-                    {
-                        "value": "Typescripts."
-                    }
+                    "Correspondence.",
+                    "Typescripts."
                 ],
                 "persname": [
-                    {
-                        "value": "Bitkower, Ellen"
-                    }
+                    "Bitkower, Ellen"
                 ],
                 "subject": [
-                    {
-                        "value": "Communism -- United States -- 20th century"
-                    }
+                    "Communism -- United States -- 20th century"
                 ]
             }
         ],
@@ -101,17 +93,13 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            {
-                                "value": "Levine, Abraham"
-                            }
+                            "Levine, Abraham"
                         ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            {
-                                "value": "Bitkower, Ellen"
-                            }
+                            "Bitkower, Ellen"
                         ]
                     }
                 ],
@@ -129,15 +117,14 @@
                 ],
                 "physloc": [
                     {
+                        "id": "aspace_264ff9677d7687d4ad21a67a91cd8fad",
                         "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
                     }
                 ],
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -248,16 +235,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Heather Mulliner"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Abraham Levine Papers "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Heather Mulliner"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Abraham Levine Papers "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -265,17 +254,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 16:11:32 -0400"
-                                }
+                                "2020-04-27 16:11:32 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ]
                 }
             ]

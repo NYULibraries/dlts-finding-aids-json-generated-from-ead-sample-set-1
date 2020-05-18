@@ -88,142 +88,54 @@
         "controlaccess": [
             {
                 "corpname": [
-                    {
-                        "value": "Transport Workers Union of America"
-                    }
+                    "Transport Workers Union of America"
                 ],
                 "genreform": [
-                    {
-                        "value": "Oral histories (document genres)"
-                    }
+                    "Oral histories (document genres)"
                 ],
                 "subject": [
-                    {
-                        "value": "Internal migrants |v Interviews."
-                    },
-                    {
-                        "value": "Internal migrants |x Faith."
-                    },
-                    {
-                        "value": "Internal migrants |x Family relationships."
-                    },
-                    {
-                        "value": "Immigrants |z New York (State) |z New York |x Economic conditions."
-                    },
-                    {
-                        "value": "Immigrants |z New York (State) |z New York |x Faith."
-                    },
-                    {
-                        "value": "Immigrants |z New York (State) |z New York |x Social life and customs |y 20th century."
-                    },
-                    {
-                        "value": "Emigration and immigration |x Social aspects |x History."
-                    },
-                    {
-                        "value": "Immigrants |z New York (State) |z New York |x Social conditions |y 20th century."
-                    },
-                    {
-                        "value": "Jews, European |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Immigrants -- United States -- History -- 20th century."
-                    },
-                    {
-                        "value": "Clothing workers |x Labor unions |z New York (State) |z New York."
-                    },
-                    {
-                        "value": "Immigrants |x Family relationships |z New York (State) |z New York."
-                    },
-                    {
-                        "value": "Fur workers |x Labor unions |z New York (State) |z New York."
-                    },
-                    {
-                        "value": "Fur workers |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Americanization."
-                    },
-                    {
-                        "value": "Clothing workers |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Irish |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Textile workers |x Labor unions."
-                    },
-                    {
-                        "value": "Romanians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Polish people |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Russians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Ukrainians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Scandinavians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Women household employees |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Working class |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Women employees |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Stevedores -- New York (State) -- New York -- Interviews."
-                    },
-                    {
-                        "value": "Women clothing workers |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "West Indians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Italians |z New York (State) |z New York |v Interviews."
-                    },
-                    {
-                        "value": "Immigrants -- New York (State) -- New York -- Interviews."
-                    },
-                    {
-                        "value": "African American men |v Interviews. "
-                    },
-                    {
-                        "value": "Labor unions -- Organizing -- New York (State) --  New York."
-                    },
-                    {
-                        "value": "African American women |v Interviews."
-                    },
-                    {
-                        "value": "Emigration and immigration |v Archival resources."
-                    },
-                    {
-                        "value": "Emigration and immigration |x History |z United States."
-                    },
-                    {
-                        "value": "Internal migrants |x Economic conditions."
-                    },
-                    {
-                        "value": "Women internal migrants |z United States."
-                    },
-                    {
-                        "value": "Internal migrants |x Social networks."
-                    },
-                    {
-                        "value": "Emigration and immigration |x Economic aspects."
-                    },
-                    {
-                        "value": "Labor union members |z United States |v Interviews."
-                    },
-                    {
-                        "value": "Internal migrants |x Social conditions."
-                    }
+                    "Internal migrants |v Interviews.",
+                    "Internal migrants |x Faith.",
+                    "Internal migrants |x Family relationships.",
+                    "Immigrants |z New York (State) |z New York |x Economic conditions.",
+                    "Immigrants |z New York (State) |z New York |x Faith.",
+                    "Immigrants |z New York (State) |z New York |x Social life and customs |y 20th century.",
+                    "Emigration and immigration |x Social aspects |x History.",
+                    "Immigrants |z New York (State) |z New York |x Social conditions |y 20th century.",
+                    "Jews, European |z New York (State) |z New York |v Interviews.",
+                    "Immigrants -- United States -- History -- 20th century.",
+                    "Clothing workers |x Labor unions |z New York (State) |z New York.",
+                    "Immigrants |x Family relationships |z New York (State) |z New York.",
+                    "Fur workers |x Labor unions |z New York (State) |z New York.",
+                    "Fur workers |z New York (State) |z New York |v Interviews.",
+                    "Americanization.",
+                    "Clothing workers |z New York (State) |z New York |v Interviews.",
+                    "Irish |z New York (State) |z New York |v Interviews.",
+                    "Textile workers |x Labor unions.",
+                    "Romanians |z New York (State) |z New York |v Interviews.",
+                    "Polish people |z New York (State) |z New York |v Interviews.",
+                    "Russians |z New York (State) |z New York |v Interviews.",
+                    "Ukrainians |z New York (State) |z New York |v Interviews.",
+                    "Scandinavians |z New York (State) |z New York |v Interviews.",
+                    "Women household employees |z New York (State) |z New York |v Interviews.",
+                    "Working class |z New York (State) |z New York |v Interviews.",
+                    "Women employees |z New York (State) |z New York |v Interviews.",
+                    "Stevedores -- New York (State) -- New York -- Interviews.",
+                    "Women clothing workers |z New York (State) |z New York |v Interviews.",
+                    "West Indians |z New York (State) |z New York |v Interviews.",
+                    "Italians |z New York (State) |z New York |v Interviews.",
+                    "Immigrants -- New York (State) -- New York -- Interviews.",
+                    "African American men |v Interviews. ",
+                    "Labor unions -- Organizing -- New York (State) --  New York.",
+                    "African American women |v Interviews.",
+                    "Emigration and immigration |v Archival resources.",
+                    "Emigration and immigration |x History |z United States.",
+                    "Internal migrants |x Economic conditions.",
+                    "Women internal migrants |z United States.",
+                    "Internal migrants |x Social networks.",
+                    "Emigration and immigration |x Economic aspects.",
+                    "Labor union members |z United States |v Interviews.",
+                    "Internal migrants |x Social conditions."
                 ]
             }
         ],
@@ -295,9 +207,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -396,9 +306,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Seventh-Day Adventist men -- Religious life."
-                                            }
+                                            "Seventh-Day Adventist men -- Religious life."
                                         ]
                                     }
                                 ],
@@ -652,9 +560,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Antisemitism |z Russia |x History |y 20th century."
-                                            }
+                                            "Antisemitism |z Russia |x History |y 20th century."
                                         ]
                                     }
                                 ],
@@ -763,12 +669,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "English |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Advertising agencies -- New York (State) -- New York."
-                                            }
+                                            "English |z New York (State) |z New York |v Interviews.",
+                                            "Advertising agencies -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -946,9 +848,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Zionism and Judaism."
-                                            }
+                                            "Zionism and Judaism."
                                         ]
                                     }
                                 ],
@@ -1011,15 +911,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depression in women |v Anecdotes."
-                                            },
-                                            {
-                                                "value": "Children |x Death |x Psychological aspects."
-                                            },
-                                            {
-                                                "value": "Childbirth |z New York (State) |z New York."
-                                            }
+                                            "Depression in women |v Anecdotes.",
+                                            "Children |x Death |x Psychological aspects.",
+                                            "Childbirth |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -1183,9 +1077,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Subways |x Employees |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Subways |x Employees |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -1352,9 +1244,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Family life issues."
-                                            }
+                                            "Family life issues."
                                         ]
                                     }
                                 ],
@@ -1525,9 +1415,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Vineyards |z Italy."
-                                            }
+                                            "Vineyards |z Italy."
                                         ]
                                     }
                                 ],
@@ -1641,12 +1529,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Electricians |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Family life issues."
-                                            }
+                                            "Electricians |z New York (State) |z New York.",
+                                            "Family life issues."
                                         ]
                                     }
                                 ],
@@ -1758,9 +1642,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "African Americans -- Relations with Jews."
-                                            }
+                                            "African Americans -- Relations with Jews."
                                         ]
                                     }
                                 ],
@@ -1820,12 +1702,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Semi-professional baseball |z New York (State)"
-                                            },
-                                            {
-                                                "value": "Electricians |z New York (State) |z New York."
-                                            }
+                                            "Semi-professional baseball |z New York (State)",
+                                            "Electricians |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -1885,9 +1763,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women socialists -- New York (State) -- New York -- Interviews."
-                                            }
+                                            "Women socialists -- New York (State) -- New York -- Interviews."
                                         ]
                                     }
                                 ],
@@ -2254,9 +2130,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Germans |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Germans |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -2479,9 +2353,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Antisemitism |z United States."
-                                            }
+                                            "Antisemitism |z United States."
                                         ]
                                     }
                                 ],
@@ -2658,18 +2530,10 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Mechanical engineers |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Pasta factories |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Pasta industry |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Entrepreneurship."
-                                            }
+                                            "Mechanical engineers |z New York (State) |z New York |v Interviews.",
+                                            "Pasta factories |z New York (State) |z New York.",
+                                            "Pasta industry |z New York (State) |z New York.",
+                                            "Entrepreneurship."
                                         ]
                                     }
                                 ],
@@ -2777,9 +2641,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Triangle Shirtwaist Company |y Fire, 1911."
-                                            }
+                                            "Triangle Shirtwaist Company |y Fire, 1911."
                                         ]
                                     }
                                 ],
@@ -2892,9 +2754,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Transport workers |x Labor unions |z New York (State) |z New York |x History."
-                                            }
+                                            "Transport workers |x Labor unions |z New York (State) |z New York |x History."
                                         ]
                                     }
                                 ],
@@ -3041,9 +2901,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Puerto Ricans |x Cultural assimilation |z New York (State) |z New York."
-                                            }
+                                            "Puerto Ricans |x Cultural assimilation |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -3137,15 +2995,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women labor union leaders |z United States."
-                                            },
-                                            {
-                                                "value": "Women anarchists |z Russia."
-                                            },
-                                            {
-                                                "value": "Labor unions -- Officials and employees -- United States."
-                                            }
+                                            "Women labor union leaders |z United States.",
+                                            "Women anarchists |z Russia.",
+                                            "Labor unions -- Officials and employees -- United States."
                                         ]
                                     }
                                 ],
@@ -3259,9 +3111,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Millinery workers |z France."
-                                            }
+                                            "Millinery workers |z France."
                                         ]
                                     }
                                 ],
@@ -3321,9 +3171,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            }
+                                            "Depressions |y 1929 |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -3496,12 +3344,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Antisemitism |z Russia |x History |y 20th century."
-                                            },
-                                            {
-                                                "value": "Pogroms |z Russia |x History |y 20th century."
-                                            }
+                                            "Antisemitism |z Russia |x History |y 20th century.",
+                                            "Pogroms |z Russia |x History |y 20th century."
                                         ]
                                     }
                                 ],
@@ -3673,14 +3517,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
-                                            }
+                                            "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "African American women household employees |v Interviews."
-                                            }
+                                            "African American women household employees |v Interviews."
                                         ]
                                     }
                                 ],
@@ -3918,15 +3758,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Jews, Russian |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Women socialists |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Women anarchists -- Political activity."
-                                            }
+                                            "Jews, Russian |z New York (State) |z New York |v Interviews.",
+                                            "Women socialists |z New York (State) |z New York.",
+                                            "Women anarchists -- Political activity."
                                         ]
                                     }
                                 ],
@@ -4013,9 +3847,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Italians |z Tunisia |x History |y 20th century."
-                                            }
+                                            "Italians |z Tunisia |x History |y 20th century."
                                         ]
                                     }
                                 ],
@@ -4080,9 +3912,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Dry cleaning industry |x Employees |z New York (State)"
-                                            }
+                                            "Dry cleaning industry |x Employees |z New York (State)"
                                         ]
                                     }
                                 ],
@@ -4140,12 +3970,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Segregation |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Prohibition |z New York (State) |z New York"
-                                            }
+                                            "Segregation |z New York (State) |z New York.",
+                                            "Prohibition |z New York (State) |z New York"
                                         ]
                                     }
                                 ],
@@ -4202,12 +4028,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Pogroms |z Romania |x History |y 20th century."
-                                            },
-                                            {
-                                                "value": "World War, 1914-1918 |z Romania."
-                                            }
+                                            "Pogroms |z Romania |x History |y 20th century.",
+                                            "World War, 1914-1918 |z Romania."
                                         ]
                                     }
                                 ],
@@ -4409,12 +4231,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Pogroms |z Russia |x History |y 20th century."
-                                            },
-                                            {
-                                                "value": "Antisemitism |z Russia |x History |y 20th century."
-                                            }
+                                            "Pogroms |z Russia |x History |y 20th century.",
+                                            "Antisemitism |z Russia |x History |y 20th century."
                                         ]
                                     }
                                 ],
@@ -4480,12 +4298,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Antisemitism |z Russia |x History |y 20th century."
-                                            },
-                                            {
-                                                "value": "Zionism |z Russia |x History |y 20th century."
-                                            }
+                                            "Antisemitism |z Russia |x History |y 20th century.",
+                                            "Zionism |z Russia |x History |y 20th century."
                                         ]
                                     }
                                 ],
@@ -4559,9 +4373,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Bookbinders |z United States |v Interviews."
-                                            }
+                                            "Bookbinders |z United States |v Interviews."
                                         ]
                                     }
                                 ],
@@ -4682,12 +4494,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Janitors |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Race discrimination |z New York (State) |z New York."
-                                            }
+                                            "Janitors |z New York (State) |z New York |v Interviews.",
+                                            "Race discrimination |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -4755,15 +4563,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "House painters."
-                                            },
-                                            {
-                                                "value": "Painters, Industrial -- New York (State) -- New York."
-                                            },
-                                            {
-                                                "value": "World War, 1914-1918 |x African Americans."
-                                            }
+                                            "House painters.",
+                                            "Painters, Industrial -- New York (State) -- New York.",
+                                            "World War, 1914-1918 |x African Americans."
                                         ]
                                     }
                                 ],
@@ -4877,12 +4679,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 |x African Americans."
-                                            },
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            }
+                                            "World War, 1914-1918 |x African Americans.",
+                                            "Depressions |y 1929 |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -5001,9 +4799,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 |z Poland |v Personal narratives."
-                                            }
+                                            "World War, 1914-1918 |z Poland |v Personal narratives."
                                         ]
                                     }
                                 ],
@@ -5069,9 +4865,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women socialists |z New York (State) |z New York."
-                                            }
+                                            "Women socialists |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -5138,15 +4932,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Norwegians |z United States |v Interviews."
-                                            },
-                                            {
-                                                "value": "Women household employees |x Abuse of."
-                                            },
-                                            {
-                                                "value": "Sexual harassment of women |z New York (State) |z New York."
-                                            }
+                                            "Norwegians |z United States |v Interviews.",
+                                            "Women household employees |x Abuse of.",
+                                            "Sexual harassment of women |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -5262,12 +5050,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Socialists |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                            }
+                                            "Socialists |z New York (State) |z New York |v Interviews.",
+                                            "Jewish socialists -- New York (State) -- New York -- Interviews."
                                         ]
                                     }
                                 ],
@@ -5377,9 +5161,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women household employees |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Women household employees |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -5489,9 +5271,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            }
+                                            "Depressions |y 1929 |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -5551,9 +5331,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                            }
+                                            "Jewish socialists -- New York (State) -- New York -- Interviews."
                                         ]
                                     }
                                 ],
@@ -5676,9 +5454,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women socialists |z New York (State) |z New York."
-                                            }
+                                            "Women socialists |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -5781,9 +5557,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Immigrants |x Cultural assimilation."
-                                            }
+                                            "Immigrants |x Cultural assimilation."
                                         ]
                                     }
                                 ],
@@ -5910,9 +5684,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Furniture workers |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Furniture workers |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -6025,14 +5797,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "AFSCME. District Council 37 (New York, N.Y.)"
-                                            }
+                                            "AFSCME. District Council 37 (New York, N.Y.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Museums -- Employees -- United States"
-                                            }
+                                            "Museums -- Employees -- United States"
                                         ]
                                     }
                                 ],
@@ -6095,9 +5863,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            }
+                                            "Depressions |y 1929 |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -6155,9 +5921,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "African American women teachers |v Interviews."
-                                            }
+                                            "African American women teachers |v Interviews."
                                         ]
                                     }
                                 ],
@@ -6376,12 +6140,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Socialists |x Political activity |z United States |x History."
-                                            },
-                                            {
-                                                "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                            }
+                                            "Socialists |x Political activity |z United States |x History.",
+                                            "Jewish socialists -- New York (State) -- New York -- Interviews."
                                         ]
                                     }
                                 ],
@@ -6445,14 +6205,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
-                                            }
+                                            "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 -- United States."
-                                            }
+                                            "World War, 1914-1918 -- United States."
                                         ]
                                     }
                                 ],
@@ -6515,9 +6271,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Triangle Shirtwaist Company |y Fire, 1911."
-                                            }
+                                            "Triangle Shirtwaist Company |y Fire, 1911."
                                         ]
                                     }
                                 ],
@@ -6631,9 +6385,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 -- Austria"
-                                            }
+                                            "World War, 1914-1918 -- Austria"
                                         ]
                                     }
                                 ],
@@ -6853,12 +6605,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Prohibition |z New York (State) |z New York"
-                                            }
+                                            "Depressions |y 1929 |z New York (State) |z New York.",
+                                            "Prohibition |z New York (State) |z New York"
                                         ]
                                     }
                                 ],
@@ -6918,12 +6666,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 |z Russia |v Personal narratives."
-                                            },
-                                            {
-                                                "value": "Soviet Union |x History |y Revolution,1917-1921 |v Personal narratives, Russian."
-                                            }
+                                            "World War, 1914-1918 |z Russia |v Personal narratives.",
+                                            "Soviet Union |x History |y Revolution,1917-1921 |v Personal narratives, Russian."
                                         ]
                                     }
                                 ],
@@ -7073,9 +6817,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Zionism and Judaism."
-                                            }
+                                            "Zionism and Judaism."
                                         ]
                                     }
                                 ],
@@ -7255,9 +6997,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Labor leaders -- New York (State) -- New York."
-                                            }
+                                            "Labor leaders -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -7320,12 +7060,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Sanitation workers |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Welders (Persons) |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Sanitation workers |z New York (State) |z New York.",
+                                            "Welders (Persons) |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -7439,9 +7175,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Elevator operators |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Elevator operators |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -7591,12 +7325,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Divorce |z United States |v Anecdotes."
-                                            },
-                                            {
-                                                "value": "Kingsland Explosion, Lyndhurst, N.J., 1917"
-                                            }
+                                            "Divorce |z United States |v Anecdotes.",
+                                            "Kingsland Explosion, Lyndhurst, N.J., 1917"
                                         ]
                                     }
                                 ],
@@ -7662,12 +7392,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Secretaries -- New York (State) -- New York"
-                                            },
-                                            {
-                                                "value": "Jamaicans |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Secretaries -- New York (State) -- New York",
+                                            "Jamaicans |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -7730,9 +7456,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Puerto Ricans -- New York (State) -- New York -- Interviews"
-                                            }
+                                            "Puerto Ricans -- New York (State) -- New York -- Interviews"
                                         ]
                                     }
                                 ],
@@ -7793,12 +7517,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Textile Workers' Strike, Passaic, N.J., 1926."
-                                            },
-                                            {
-                                                "value": "Barbers |x Labor unions."
-                                            }
+                                            "Textile Workers' Strike, Passaic, N.J., 1926.",
+                                            "Barbers |x Labor unions."
                                         ]
                                     }
                                 ],
@@ -7876,12 +7596,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Labor unions -- Officials and employees -- United States."
-                                            },
-                                            {
-                                                "value": "Labor unions -- Organizing -- New York (State) --  New York."
-                                            }
+                                            "Labor unions -- Officials and employees -- United States.",
+                                            "Labor unions -- Organizing -- New York (State) --  New York."
                                         ]
                                     }
                                 ],
@@ -7948,9 +7664,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Puerto Ricans -- New York (State) -- New York -- Interviews"
-                                            }
+                                            "Puerto Ricans -- New York (State) -- New York -- Interviews"
                                         ]
                                     }
                                 ],
@@ -8011,9 +7725,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 |z Czechoslovakia |v Personal narratives."
-                                            }
+                                            "World War, 1914-1918 |z Czechoslovakia |v Personal narratives."
                                         ]
                                     }
                                 ],
@@ -8076,9 +7788,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Fur workers |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Fur workers |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -8290,15 +8000,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "African American women dancers."
-                                            },
-                                            {
-                                                "value": "Segregation |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Racially mixed people |z New York (State) |z New York."
-                                            }
+                                            "African American women dancers.",
+                                            "Segregation |z New York (State) |z New York.",
+                                            "Racially mixed people |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -8414,9 +8118,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Civil rights movements -- United States -- History -- 20th century."
-                                            }
+                                            "Civil rights movements -- United States -- History -- 20th century."
                                         ]
                                     }
                                 ],
@@ -8479,9 +8181,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Taxicab drivers |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Taxicab drivers |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -8536,9 +8236,7 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Socialist Party (U.S.)"
-                                            }
+                                            "Socialist Party (U.S.)"
                                         ]
                                     }
                                 ],
@@ -8598,12 +8296,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Race discrimination |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Segregation |z New York (State) |z New York."
-                                            }
+                                            "Race discrimination |z New York (State) |z New York.",
+                                            "Segregation |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -8758,14 +8452,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Socialist Party (U.S.)"
-                                            }
+                                            "Socialist Party (U.S.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Women socialists |z New York (State) |z New York."
-                                            }
+                                            "Women socialists |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -8834,9 +8524,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Canadians |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Canadians |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -8949,12 +8637,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                            },
-                                            {
-                                                "value": "Labor unions -- Officials and employees -- United States."
-                                            }
+                                            "Jewish socialists -- New York (State) -- New York -- Interviews.",
+                                            "Labor unions -- Officials and employees -- United States."
                                         ]
                                     }
                                 ],
@@ -9012,9 +8696,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Bookbinders |z United States |v Interviews."
-                                            }
+                                            "Bookbinders |z United States |v Interviews."
                                         ]
                                     }
                                 ],
@@ -9113,9 +8795,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Socialists |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Socialists |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -9214,9 +8894,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Jews, Polish -- New York (State) -- New York -- Interviews"
-                                            }
+                                            "Jews, Polish -- New York (State) -- New York -- Interviews"
                                         ]
                                     }
                                 ],
@@ -9332,9 +9010,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Laundry workers |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Laundry workers |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -9397,9 +9073,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Engineers |x Labor Unions |z New York (State) |z New York."
-                                            }
+                                            "Engineers |x Labor Unions |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -9466,12 +9140,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Millinery workers |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Hat trade |x Employees |x Labor unions |z New York (State) |z New York."
-                                            }
+                                            "Millinery workers |z New York (State) |z New York.",
+                                            "Hat trade |x Employees |x Labor unions |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -9531,9 +9201,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Carpenters -- Labor unions -- New York (State) -- New York"
-                                            }
+                                            "Carpenters -- Labor unions -- New York (State) -- New York"
                                         ]
                                     }
                                 ],
@@ -9590,9 +9258,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Elevator operators |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Elevator operators |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -9765,9 +9431,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Guyanese |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Guyanese |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -10062,9 +9726,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Mental illness |x Family relationships."
-                                            }
+                                            "Mental illness |x Family relationships."
                                         ]
                                     }
                                 ],
@@ -10566,9 +10228,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Lawyers -- New York (State) -- New York."
-                                            }
+                                            "Lawyers -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -10725,14 +10385,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "International Ladies' Garment Workers' Union . Local 23-25 (New York, N.Y.)"
-                                            }
+                                            "International Ladies' Garment Workers' Union . Local 23-25 (New York, N.Y.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Jews, Russian |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Jews, Russian |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -10793,12 +10449,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Furniture workers -- Labor unions"
-                                            },
-                                            {
-                                                "value": "Jews, Romanian -- United States -- Interviews"
-                                            }
+                                            "Furniture workers -- Labor unions",
+                                            "Jews, Romanian -- United States -- Interviews"
                                         ]
                                     }
                                 ],
@@ -11021,9 +10673,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1914-1918 |z Poland |v Personal narratives."
-                                            }
+                                            "World War, 1914-1918 |z Poland |v Personal narratives."
                                         ]
                                     }
                                 ],
@@ -11083,12 +10733,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "World War, 1939-1945 |z Germany |v Personal narratives."
-                                            },
-                                            {
-                                                "value": "World War, 1914-1918 |z Germany |v Personal narratives."
-                                            }
+                                            "World War, 1939-1945 |z Germany |v Personal narratives.",
+                                            "World War, 1914-1918 |z Germany |v Personal narratives."
                                         ]
                                     }
                                 ],
@@ -11151,15 +10797,9 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Depressions |y 1929 |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Prohibition |z New York (State) |z New York"
-                                            },
-                                            {
-                                                "value": "Department stores |x Employees |z New York (State) |z New York."
-                                            }
+                                            "Depressions |y 1929 |z New York (State) |z New York.",
+                                            "Prohibition |z New York (State) |z New York",
+                                            "Department stores |x Employees |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -11231,9 +10871,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Coal miners |x Labor unions |z United States."
-                                            }
+                                            "Coal miners |x Labor unions |z United States."
                                         ]
                                     }
                                 ],
@@ -11509,9 +11147,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Porters |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Porters |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -11571,9 +11207,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Puerto Ricans |x Cultural assimilation |z New York (State) |z New York."
-                                            }
+                                            "Puerto Ricans |x Cultural assimilation |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -11906,42 +11540,18 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women socialists -- New York (State) -- New York -- Interviews."
-                                            },
-                                            {
-                                                "value": "Jews, Polish |z New York (State) |z New York |x Social conditions."
-                                            },
-                                            {
-                                                "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                            },
-                                            {
-                                                "value": "Russians |z United States |x Societies."
-                                            },
-                                            {
-                                                "value": "Yiddish language |x Social aspects |z United States."
-                                            },
-                                            {
-                                                "value": "Russians |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Antisemitism |z Russia |x History |y 20th century."
-                                            },
-                                            {
-                                                "value": "Socialist parties -- United States."
-                                            },
-                                            {
-                                                "value": "Strikes and lockouts |x Clothing trade |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Russians |z New York (State) |z New York |x Social life and customs."
-                                            },
-                                            {
-                                                "value": "Jews, Russian |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Russians |z New York (State) |z New York |x Economic conditions."
-                                            }
+                                            "Women socialists -- New York (State) -- New York -- Interviews.",
+                                            "Jews, Polish |z New York (State) |z New York |x Social conditions.",
+                                            "Jewish socialists -- New York (State) -- New York -- Interviews.",
+                                            "Russians |z United States |x Societies.",
+                                            "Yiddish language |x Social aspects |z United States.",
+                                            "Russians |z New York (State) |z New York |v Interviews.",
+                                            "Antisemitism |z Russia |x History |y 20th century.",
+                                            "Socialist parties -- United States.",
+                                            "Strikes and lockouts |x Clothing trade |z New York (State) |z New York.",
+                                            "Russians |z New York (State) |z New York |x Social life and customs.",
+                                            "Jews, Russian |z New York (State) |z New York |v Interviews.",
+                                            "Russians |z New York (State) |z New York |x Economic conditions."
                                         ]
                                     }
                                 ],
@@ -12059,9 +11669,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Socialists |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Socialists |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -12169,9 +11777,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Department stores |x Employees |z New York (State) |z New York."
-                                            }
+                                            "Department stores |x Employees |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -12307,12 +11913,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Furniture workers |z New York (State) |z New York |v Interviews."
-                                            },
-                                            {
-                                                "value": "Machinists |z New York (State) |z New York."
-                                            }
+                                            "Furniture workers |z New York (State) |z New York |v Interviews.",
+                                            "Machinists |z New York (State) |z New York."
                                         ]
                                     }
                                 ],
@@ -12426,9 +12028,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Construction workers -- New York (State) -- New York -- Interviews"
-                                            }
+                                            "Construction workers -- New York (State) -- New York -- Interviews"
                                         ]
                                     }
                                 ],
@@ -12486,12 +12086,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Childbirth |z New York (State) |z New York."
-                                            },
-                                            {
-                                                "value": "Women labor leaders -- New York (State) -- New York"
-                                            }
+                                            "Childbirth |z New York (State) |z New York.",
+                                            "Women labor leaders -- New York (State) -- New York"
                                         ]
                                     }
                                 ],
@@ -12614,9 +12210,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Women labor union members -- New York (State) -- New York"
-                                            }
+                                            "Women labor union members -- New York (State) -- New York"
                                         ]
                                     }
                                 ],
@@ -12735,9 +12329,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Jamaicans |z New York (State) |z New York |v Interviews."
-                                            }
+                                            "Jamaicans |z New York (State) |z New York |v Interviews."
                                         ]
                                     }
                                 ],
@@ -12935,19 +12527,21 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Megan O'Shea, Jennifer Gargiulo, and Victoria Messana"
-                        ],
-                        "sponsor": [
-                            "Processing funded by a grant from the New York State Documentary Heritage Program."
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the New York City Immigrant Labor History Project Oral History Collection "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Megan O'Shea, Jennifer Gargiulo, and Victoria Messana"
+                            ],
+                            "sponsor": [
+                                "Processing funded by a grant from the New York State Documentary Heritage Program."
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the New York City Immigrant Labor History Project Oral History Collection "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -12955,17 +12549,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:51:35 -0400"
-                                }
+                                "2020-04-27 15:51:35 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -12977,9 +12567,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "June 2018"
-                                }
+                                "June 2018"
                             ],
                             "item": [
                                 {
@@ -12989,9 +12577,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "October 2019"
-                                }
+                                "October 2019"
                             ],
                             "item": [
                                 {
