@@ -142,52 +142,24 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Correspondence."
-                    },
-                    {
-                        "value": "Scrapbooks."
-                    },
-                    {
-                        "value": "Pornographic films."
-                    },
-                    {
-                        "value": "Audiocassettes."
-                    },
-                    {
-                        "value": "Videocassettes."
-                    },
-                    {
-                        "value": "Clippings (information artifacts)"
-                    }
+                    "Correspondence.",
+                    "Scrapbooks.",
+                    "Pornographic films.",
+                    "Audiocassettes.",
+                    "Videocassettes.",
+                    "Clippings (information artifacts)"
                 ],
                 "persname": [
-                    {
-                        "value": "Sonnabend, Joseph A."
-                    },
-                    {
-                        "value": "Callen, Michael, 1955-1993"
-                    }
+                    "Sonnabend, Joseph A.",
+                    "Callen, Michael, 1955-1993"
                 ],
                 "subject": [
-                    {
-                        "value": "Safe sex in AIDS prevention -- History"
-                    },
-                    {
-                        "value": "AIDS activists -- New York (State) -- New York"
-                    },
-                    {
-                        "value": "Homosexuality"
-                    },
-                    {
-                        "value": "Male prostitutes -- New York (State) -- New York"
-                    },
-                    {
-                        "value": "Gay authors -- New York (State) -- New York"
-                    },
-                    {
-                        "value": "Amateur films"
-                    }
+                    "Safe sex in AIDS prevention -- History",
+                    "AIDS activists -- New York (State) -- New York",
+                    "Homosexuality",
+                    "Male prostitutes -- New York (State) -- New York",
+                    "Gay authors -- New York (State) -- New York",
+                    "Amateur films"
                 ]
             }
         ],
@@ -289,15 +261,14 @@
                 ],
                 "physloc": [
                     {
+                        "id": "aspace_fb041c681473bc8021dc8309d0256624",
                         "value": "Materials are stored offsite and advance\n        notice is required for use. Please contact fales.library@nyu.edu at least two business days\n        prior to your research visit to coordinate access."
                     }
                 ],
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Fales Library and Special Collections"
-                            }
+                            "Fales Library and Special Collections"
                         ]
                     }
                 ],
@@ -5046,16 +5017,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Megan O'Shea"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Richard Berkowitz Papers "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Megan O'Shea"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Richard Berkowitz Papers "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -5063,17 +5036,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 11:52:18\n          -0400"
-                                }
+                                "2020-04-27 11:52:18\n          -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -5085,9 +5054,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "September 2018"
-                                }
+                                "September 2018"
                             ],
                             "item": [
                                 {
@@ -5098,9 +5065,7 @@
                         },
                         {
                             "date": [
-                                {
-                                    "value": "July 2019"
-                                }
+                                "July 2019"
                             ],
                             "item": [
                                 {

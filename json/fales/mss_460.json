@@ -92,34 +92,18 @@
         "controlaccess": [
             {
                 "corpname": [
-                    {
-                        "value": "Bit Rosie"
-                    }
+                    "Bit Rosie"
                 ],
                 "genreform": [
-                    {
-                        "value": "Video recordings."
-                    }
+                    "Video recordings."
                 ],
                 "subject": [
-                    {
-                        "value": "Composition (Music)          -- 21st century."
-                    },
-                    {
-                        "value": "Electronic music."
-                    },
-                    {
-                        "value": "Music -- Peru -- 20th century."
-                    },
-                    {
-                        "value": "Women musicians -- Interviews."
-                    },
-                    {
-                        "value": "Music -- Germany -- 20th century."
-                    },
-                    {
-                        "value": "Music -- New York (State) -- New York -- 20th century."
-                    }
+                    "Composition (Music)          -- 21st century.",
+                    "Electronic music.",
+                    "Music -- Peru -- 20th century.",
+                    "Women musicians -- Interviews.",
+                    "Music -- Germany -- 20th century.",
+                    "Music -- New York (State) -- New York -- 20th century."
                 ]
             }
         ],
@@ -156,9 +140,7 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            {
-                                "value": "Fournet, Adele"
-                            }
+                            "Fournet, Adele"
                         ]
                     }
                 ],
@@ -197,9 +179,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Fales Library and Special Collections"
-                            }
+                            "Fales Library and Special Collections"
                         ]
                     }
                 ],
@@ -2143,16 +2123,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Megan O'Shea and Bess Pittman"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Megan O'Shea and Bess Pittman"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -2160,17 +2142,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:46:52 -0400"
-                                }
+                                "2020-04-27 15:46:52 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}

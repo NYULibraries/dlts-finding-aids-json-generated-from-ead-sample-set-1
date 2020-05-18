@@ -67,9 +67,7 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Black-and-white photographs."
-                    }
+                    "Black-and-white photographs."
                 ]
             }
         ],
@@ -91,9 +89,7 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            {
-                                "value": "Havens, David N."
-                            }
+                            "Havens, David N."
                         ]
                     }
                 ],
@@ -112,9 +108,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -225,16 +219,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Heather Mulliner"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the David Havens Photographs on the Cuban Revolution "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Heather Mulliner"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the David Havens Photographs on the Cuban Revolution "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -242,17 +238,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 16:12:34 -0400"
-                                }
+                                "2020-04-27 16:12:34 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}

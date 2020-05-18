@@ -70,58 +70,26 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Oral histories (document genres)"
-                    },
-                    {
-                        "value": "Transcripts."
-                    }
+                    "Oral histories (document genres)",
+                    "Transcripts."
                 ],
                 "persname": [
-                    {
-                        "value": "Bernhardt, Debra E."
-                    }
+                    "Bernhardt, Debra E."
                 ],
                 "subject": [
-                    {
-                        "value": "Tenement houses -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Social settlements -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Jews -- New York (State) -- New York -- Interviews."
-                    },
-                    {
-                        "value": "Housing -- New York (State) -- New York"
-                    },
-                    {
-                        "value": "Public housing -- New York (State) -- New York"
-                    },
-                    {
-                        "value": "Asian Americans -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Family-owned business enterprises -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Labor -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Vietnam War, 1961-1975 -- Veterans -- New York (State) -- New York -- Interviews."
-                    },
-                    {
-                        "value": "Jazz musicians -- New York (State) -- New York -- Interviews."
-                    },
-                    {
-                        "value": "Community gardens -- New York (State) -- New York."
-                    },
-                    {
-                        "value": "Peace movements -- United States."
-                    },
-                    {
-                        "value": "Women in higher education."
-                    }
+                    "Tenement houses -- New York (State) -- New York.",
+                    "Social settlements -- New York (State) -- New York.",
+                    "Jews -- New York (State) -- New York -- Interviews.",
+                    "Housing -- New York (State) -- New York",
+                    "Public housing -- New York (State) -- New York",
+                    "Asian Americans -- New York (State) -- New York.",
+                    "Family-owned business enterprises -- New York (State) -- New York.",
+                    "Labor -- New York (State) -- New York.",
+                    "Vietnam War, 1961-1975 -- Veterans -- New York (State) -- New York -- Interviews.",
+                    "Jazz musicians -- New York (State) -- New York -- Interviews.",
+                    "Community gardens -- New York (State) -- New York.",
+                    "Peace movements -- United States.",
+                    "Women in higher education."
                 ]
             }
         ],
@@ -143,9 +111,7 @@
                     {
                         "label": "source",
                         "persname": [
-                            {
-                                "value": "Bernhardt, Debra E."
-                            }
+                            "Bernhardt, Debra E."
                         ]
                     }
                 ],
@@ -209,9 +175,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -538,28 +502,16 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Juilliard School"
-                                            }
+                                            "Juilliard School"
                                         ],
                                         "persname": [
-                                            {
-                                                "value": "Spofford, Grace"
-                                            },
-                                            {
-                                                "value": "Galamian, Ivan"
-                                            },
-                                            {
-                                                "value": "Scholz, Robert, 1902-1986"
-                                            }
+                                            "Spofford, Grace",
+                                            "Galamian, Ivan",
+                                            "Scholz, Robert, 1902-1986"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Flute -- Instruction and study -- New York (State) -- New York."
-                                            },
-                                            {
-                                                "value": "Flute teachers -- United States -- Interviews."
-                                            }
+                                            "Flute -- Instruction and study -- New York (State) -- New York.",
+                                            "Flute teachers -- United States -- Interviews."
                                         ]
                                     }
                                 ],
@@ -630,14 +582,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Mobilization for Youth"
-                                            }
+                                            "Mobilization for Youth"
                                         ],
                                         "persname": [
-                                            {
-                                                "value": "Hall, Helen"
-                                            }
+                                            "Hall, Helen"
                                         ]
                                     }
                                 ],
@@ -757,28 +705,16 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Juilliard School"
-                                            }
+                                            "Juilliard School"
                                         ],
                                         "persname": [
-                                            {
-                                                "value": "Suzuki, Shinichi, 1898-1998"
-                                            },
-                                            {
-                                                "value": "Spofford, Grace"
-                                            },
-                                            {
-                                                "value": "Egan, Robert F., 1924-"
-                                            }
+                                            "Suzuki, Shinichi, 1898-1998",
+                                            "Spofford, Grace",
+                                            "Egan, Robert F., 1924-"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Violin -- Instruction and study -- New York (State) -- New York."
-                                            },
-                                            {
-                                                "value": "Violin teachers -- United States -- Interviews."
-                                            }
+                                            "Violin -- Instruction and study -- New York (State) -- New York.",
+                                            "Violin teachers -- United States -- Interviews."
                                         ]
                                     }
                                 ],
@@ -1233,14 +1169,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Auschwitz (Concentration camp)"
-                                            }
+                                            "Auschwitz (Concentration camp)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Holocaust survivors -- United States -- Interviews."
-                                            }
+                                            "Holocaust survivors -- United States -- Interviews."
                                         ]
                                     }
                                 ],
@@ -1376,9 +1308,7 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Hashomer Hatzair"
-                                            }
+                                            "Hashomer Hatzair"
                                         ]
                                     }
                                 ],
@@ -1513,9 +1443,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Theater, Yiddish -- New York (State) -- New York."
-                                            }
+                                            "Theater, Yiddish -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -1586,25 +1514,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Henry Street Settlement (New York, N.Y.). Music School"
-                                            }
+                                            "Henry Street Settlement (New York, N.Y.). Music School"
                                         ],
                                         "persname": [
-                                            {
-                                                "value": "Scholz, Robert, 1902-1986"
-                                            },
-                                            {
-                                                "value": "Giorni, Aurelio, 1895-1938"
-                                            }
+                                            "Scholz, Robert, 1902-1986",
+                                            "Giorni, Aurelio, 1895-1938"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Piano -- Instruction and study -- New York (State) -- New York."
-                                            },
-                                            {
-                                                "value": "Piano teachers -- United States -- Interviews."
-                                            }
+                                            "Piano -- Instruction and study -- New York (State) -- New York.",
+                                            "Piano teachers -- United States -- Interviews."
                                         ]
                                     }
                                 ],
@@ -2059,14 +1977,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Ferrer Colony (Stelton, N.J.)"
-                                            }
+                                            "Ferrer Colony (Stelton, N.J.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Women and anarchism -- United States."
-                                            }
+                                            "Women and anarchism -- United States."
                                         ]
                                     }
                                 ],
@@ -3402,9 +3316,7 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Henry Street Settlement (New York, N.Y.). Music School"
-                                            }
+                                            "Henry Street Settlement (New York, N.Y.). Music School"
                                         ]
                                     }
                                 ],
@@ -3475,9 +3387,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Parental grief -- New York (State) -- New York."
-                                            }
+                                            "Parental grief -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -4929,9 +4839,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Anarchism -- New York (State) -- New York."
-                                            }
+                                            "Anarchism -- New York (State) -- New York."
                                         ]
                                     }
                                 ],
@@ -6467,12 +6375,8 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Children of divorced parents -- New York (State) -- New York -- Interviews."
-                                            },
-                                            {
-                                                "value": "Families -- New York (State) -- New York -- Anecdotes."
-                                            }
+                                            "Children of divorced parents -- New York (State) -- New York -- Interviews.",
+                                            "Families -- New York (State) -- New York -- Anecdotes."
                                         ]
                                     }
                                 ],
@@ -7043,14 +6947,10 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            {
-                                                "value": "Ferrer Colony (Stelton, N.J.)"
-                                            }
+                                            "Ferrer Colony (Stelton, N.J.)"
                                         ],
                                         "subject": [
-                                            {
-                                                "value": "Women and anarchism -- United States."
-                                            }
+                                            "Women and anarchism -- United States."
                                         ]
                                     }
                                 ],
@@ -7125,9 +7025,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Anarchism -- United States."
-                                            }
+                                            "Anarchism -- United States."
                                         ]
                                     }
                                 ],
@@ -8277,12 +8175,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Japanese Americans -- Evacuation and relocation, 1942-1945"
-                                                    },
-                                                    {
-                                                        "value": "Asian Americans -- Civil rights."
-                                                    }
+                                                    "Japanese Americans -- Evacuation and relocation, 1942-1945",
+                                                    "Asian Americans -- Civil rights."
                                                 ]
                                             }
                                         ],
@@ -8373,17 +8267,11 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "Asian Americans for Action"
-                                                    }
+                                                    "Asian Americans for Action"
                                                 ],
                                                 "subject": [
-                                                    {
-                                                        "value": "Japanese Americans -- Evacuation and relocation, 1942-1945"
-                                                    },
-                                                    {
-                                                        "value": "Asian Americans -- Civil rights."
-                                                    }
+                                                    "Japanese Americans -- Evacuation and relocation, 1942-1945",
+                                                    "Asian Americans -- Civil rights."
                                                 ]
                                             }
                                         ],
@@ -8459,12 +8347,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Japanese Americans -- Evacuation and relocation, 1942-1945"
-                                                    },
-                                                    {
-                                                        "value": "Asian Americans -- Civil rights."
-                                                    }
+                                                    "Japanese Americans -- Evacuation and relocation, 1942-1945",
+                                                    "Asian Americans -- Civil rights."
                                                 ]
                                             }
                                         ],
@@ -8931,9 +8815,7 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "East Harlem Protestant Parish (New York, N.Y.)"
-                                                    }
+                                                    "East Harlem Protestant Parish (New York, N.Y.)"
                                                 ]
                                             }
                                         ],
@@ -9004,9 +8886,7 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "East Harlem Protestant Parish (New York, N.Y.)"
-                                                    }
+                                                    "East Harlem Protestant Parish (New York, N.Y.)"
                                                 ]
                                             }
                                         ],
@@ -9080,9 +8960,7 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "East Harlem Protestant Parish (New York, N.Y.)"
-                                                    }
+                                                    "East Harlem Protestant Parish (New York, N.Y.)"
                                                 ]
                                             }
                                         ],
@@ -9691,12 +9569,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Haitians -- New York (State) -- New York -- Interviews."
-                                                    },
-                                                    {
-                                                        "value": "Vodou."
-                                                    }
+                                                    "Haitians -- New York (State) -- New York -- Interviews.",
+                                                    "Vodou."
                                                 ]
                                             }
                                         ],
@@ -9852,14 +9726,10 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "Amalgamated Dwellings (New York, N.Y.)"
-                                                    }
+                                                    "Amalgamated Dwellings (New York, N.Y.)"
                                                 ],
                                                 "subject": [
-                                                    {
-                                                        "value": "Apartment houses, Cooperative -- New York (State) -- New York."
-                                                    }
+                                                    "Apartment houses, Cooperative -- New York (State) -- New York."
                                                 ]
                                             }
                                         ],
@@ -9981,14 +9851,10 @@
                                         "controlaccess": [
                                             {
                                                 "corpname": [
-                                                    {
-                                                        "value": "Seward Park Cooperative (New York, N.Y.)"
-                                                    }
+                                                    "Seward Park Cooperative (New York, N.Y.)"
                                                 ],
                                                 "subject": [
-                                                    {
-                                                        "value": "Apartment houses, Cooperative -- New York (State) -- New York."
-                                                    }
+                                                    "Apartment houses, Cooperative -- New York (State) -- New York."
                                                 ]
                                             }
                                         ],
@@ -10147,12 +10013,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Stickball -- New York (State) -- New York."
-                                                    },
-                                                    {
-                                                        "value": "Ball games -- New York (State) -- New York."
-                                                    }
+                                                    "Stickball -- New York (State) -- New York.",
+                                                    "Ball games -- New York (State) -- New York."
                                                 ]
                                             }
                                         ],
@@ -10232,12 +10094,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Stickball -- New York (State) -- New York."
-                                                    },
-                                                    {
-                                                        "value": "Ball games -- New York (State) -- New York."
-                                                    }
+                                                    "Stickball -- New York (State) -- New York.",
+                                                    "Ball games -- New York (State) -- New York."
                                                 ]
                                             }
                                         ],
@@ -10317,12 +10175,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Stickball -- New York (State) -- New York."
-                                                    },
-                                                    {
-                                                        "value": "Ball games -- New York (State) -- New York."
-                                                    }
+                                                    "Stickball -- New York (State) -- New York.",
+                                                    "Ball games -- New York (State) -- New York."
                                                 ]
                                             }
                                         ],
@@ -10414,12 +10268,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Women socialists -- New York (State) -- New York -- Interviews."
-                                                    },
-                                                    {
-                                                        "value": "Cooperative societies -- New York (State)."
-                                                    }
+                                                    "Women socialists -- New York (State) -- New York -- Interviews.",
+                                                    "Cooperative societies -- New York (State)."
                                                 ]
                                             }
                                         ],
@@ -10571,12 +10421,8 @@
                                         "controlaccess": [
                                             {
                                                 "subject": [
-                                                    {
-                                                        "value": "Cooperative societies -- New York (State)."
-                                                    },
-                                                    {
-                                                        "value": "Jewish socialists -- New York (State) -- New York -- Interviews."
-                                                    }
+                                                    "Cooperative societies -- New York (State).",
+                                                    "Jewish socialists -- New York (State) -- New York -- Interviews."
                                                 ]
                                             }
                                         ],
@@ -11046,9 +10892,7 @@
                                 "controlaccess": [
                                     {
                                         "subject": [
-                                            {
-                                                "value": "Stevedores -- New Jersey -- Interviews."
-                                            }
+                                            "Stevedores -- New Jersey -- Interviews."
                                         ]
                                     }
                                 ],
@@ -12546,16 +12390,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Megan O'Shea, Samantha Houck, Manon Gray, and Maria Mejia"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the New York University Department of History Oral History Class Collection "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Megan O'Shea, Samantha Houck, Manon Gray, and Maria Mejia"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the New York University Department of History Oral History Class Collection "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -12563,17 +12409,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:53:47 -0400"
-                                }
+                                "2020-04-27 15:53:47 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
