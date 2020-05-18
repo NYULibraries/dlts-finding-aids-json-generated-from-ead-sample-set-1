@@ -112,40 +112,20 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Theater programs."
-                    },
-                    {
-                        "value": "Photographs."
-                    },
-                    {
-                        "value": "Slides (photographs)"
-                    }
+                    "Theater programs.",
+                    "Photographs.",
+                    "Slides (photographs)"
                 ],
                 "persname": [
-                    {
-                        "value": "O'Reilly, Ciarán"
-                    }
+                    "O'Reilly, Ciarán"
                 ],
                 "subject": [
-                    {
-                        "value": "Theater -- Production and direction."
-                    },
-                    {
-                        "value": "Repertory theater -- New York (State) -- New York -- 20th century."
-                    },
-                    {
-                        "value": "Irish drama."
-                    },
-                    {
-                        "value": "Off-Broadway theater."
-                    },
-                    {
-                        "value": "Repertory theater -- New York (State) -- New York -- 21st century."
-                    },
-                    {
-                        "value": "Theater management -- New York (State) -- New York"
-                    }
+                    "Theater -- Production and direction.",
+                    "Repertory theater -- New York (State) -- New York -- 20th century.",
+                    "Irish drama.",
+                    "Off-Broadway theater.",
+                    "Repertory theater -- New York (State) -- New York -- 21st century.",
+                    "Theater management -- New York (State) -- New York"
                 ]
             }
         ],
@@ -185,9 +165,7 @@
                     {
                         "label": "source",
                         "persname": [
-                            {
-                                "value": "O'Reilly, Ciarán"
-                            }
+                            "O'Reilly, Ciarán"
                         ]
                     }
                 ],
@@ -236,15 +214,14 @@
                 ],
                 "physloc": [
                     {
+                        "id": "aspace_c0f21c146f12ba15ecda57a1ed565788",
                         "value": "Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access."
                     }
                 ],
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
-                            }
+                            "Tamiment Library and Robert F. Wagner Labor Archives"
                         ]
                     }
                 ],
@@ -8493,16 +8470,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Megan O'Shea and Kate Fisher"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the Irish Repertory Theatre Records "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Megan O'Shea and Kate Fisher"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the Irish Repertory Theatre Records "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -8510,17 +8489,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-24 11:37:56 -0400"
-                                }
+                                "2020-04-24 11:37:56 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
@@ -8532,9 +8507,7 @@
                     "change": [
                         {
                             "date": [
-                                {
-                                    "value": "August 2019"
-                                }
+                                "August 2019"
                             ],
                             "item": [
                                 {

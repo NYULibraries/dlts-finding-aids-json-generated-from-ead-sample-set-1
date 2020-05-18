@@ -64,14 +64,10 @@
         "controlaccess": [
             {
                 "genreform": [
-                    {
-                        "value": "Web sites."
-                    }
+                    "Web sites."
                 ],
                 "subject": [
-                    {
-                        "value": "Composers -- 21st century"
-                    }
+                    "Composers -- 21st century"
                 ]
             }
         ],
@@ -116,9 +112,7 @@
                 "repository": [
                     {
                         "corpname": [
-                            {
-                                "value": "Fales Library and Special Collections"
-                            }
+                            "Fales Library and Special Collections"
                         ]
                     }
                 ],
@@ -3687,9 +3681,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Rhys Chatham Ensemble"
-                                    }
+                                    "Rhys Chatham Ensemble"
                                 ]
                             }
                         ],
@@ -5894,9 +5886,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Charming Hostess (Musical group)"
-                                    }
+                                    "Charming Hostess (Musical group)"
                                 ]
                             }
                         ],
@@ -6832,9 +6822,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Bonjour (Musical group)"
-                                    }
+                                    "Bonjour (Musical group)"
                                 ]
                             }
                         ],
@@ -7423,9 +7411,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Michael Gordon Philharmonic"
-                                    }
+                                    "Michael Gordon Philharmonic"
                                 ]
                             }
                         ],
@@ -9759,9 +9745,7 @@
                         "controlaccess": [
                             {
                                 "persname": [
-                                    {
-                                        "value": "I Am Snow Angel"
-                                    }
+                                    "I Am Snow Angel"
                                 ]
                             }
                         ],
@@ -10291,9 +10275,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Accordion Tribe"
-                                    }
+                                    "Accordion Tribe"
                                 ]
                             }
                         ],
@@ -12582,9 +12564,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Catalyst Quartet"
-                                    }
+                                    "Catalyst Quartet"
                                 ]
                             }
                         ],
@@ -13067,9 +13047,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Anti-Social Music (Musical group)"
-                                    }
+                                    "Anti-Social Music (Musical group)"
                                 ]
                             }
                         ],
@@ -13652,9 +13630,7 @@
                                     {
                                         "label": "Creator",
                                         "persname": [
-                                            {
-                                                "value": "Roussel, Patrice,\n              1956-"
-                                            }
+                                            "Roussel, Patrice,\n              1956-"
                                         ]
                                     }
                                 ],
@@ -14466,9 +14442,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Latin for Travelers (Musical group)"
-                                    }
+                                    "Latin for Travelers (Musical group)"
                                 ]
                             }
                         ],
@@ -14880,9 +14854,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Todd Reynolds String Quartet"
-                                    }
+                                    "Todd Reynolds String Quartet"
                                 ]
                             }
                         ],
@@ -15553,9 +15525,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Ned Rothenberg Double Band"
-                                    }
+                                    "Ned Rothenberg Double Band"
                                 ]
                             }
                         ],
@@ -15964,9 +15934,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Jenny Scheinman Quartet"
-                                    }
+                                    "Jenny Scheinman Quartet"
                                 ]
                             }
                         ],
@@ -16300,9 +16268,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Terraplane (Blues group)"
-                                    }
+                                    "Terraplane (Blues group)"
                                 ]
                             }
                         ],
@@ -16943,18 +16909,10 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Wadada Leo Smith's Silver Orchestra"
-                                    },
-                                    {
-                                        "value": "Wadada Leo Smith's Organic (Musical group)"
-                                    },
-                                    {
-                                        "value": "Wadada Leo Smith's Golden Quintet"
-                                    },
-                                    {
-                                        "value": "Wadada Leo Smith's Golden\n            Quartet"
-                                    }
+                                    "Wadada Leo Smith's Silver Orchestra",
+                                    "Wadada Leo Smith's Organic (Musical group)",
+                                    "Wadada Leo Smith's Golden Quintet",
+                                    "Wadada Leo Smith's Golden\n            Quartet"
                                 ]
                             }
                         ],
@@ -18326,9 +18284,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Toby Twining Music"
-                                    }
+                                    "Toby Twining Music"
                                 ]
                             }
                         ],
@@ -18580,9 +18536,7 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    {
-                                        "value": "Go Guitars (Musical group)"
-                                    }
+                                    "Go Guitars (Musical group)"
                                 ]
                             }
                         ],
@@ -19460,16 +19414,18 @@
                             ]
                         }
                     ],
-                    "titlestmt": {
-                        "author": [
-                            "Bess Pittman and Caroline Oliveira"
-                        ],
-                        "titleproper": [
-                            {
-                                "value": "Guide to the New York University Collection of Contemporary Composers' Websites\n            "
-                            }
-                        ]
-                    }
+                    "titlestmt": [
+                        {
+                            "author": [
+                                "Bess Pittman and Caroline Oliveira"
+                            ],
+                            "titleproper": [
+                                {
+                                    "value": "Guide to the New York University Collection of Contemporary Composers' Websites\n            "
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "profiledesc": [
@@ -19477,17 +19433,13 @@
                     "creation": [
                         {
                             "date": [
-                                {
-                                    "value": "2020-04-27 15:47:18\n          -0400"
-                                }
+                                "2020-04-27 15:47:18\n          -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
                     ],
                     "descrules": [
-                        {
-                            "value": "Describing Archives: A Content Standard"
-                        }
+                        "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
                         {}
