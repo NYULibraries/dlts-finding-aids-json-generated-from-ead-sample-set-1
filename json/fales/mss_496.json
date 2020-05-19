@@ -4400,7 +4400,7 @@
                                 ],
                                 "p": [
                                     {
-                                        "value": "\u003cspan class=\"extref\"\u003eJulie Covello\n              Papers\u003c/span\u003e"
+                                        "value": "\u003cspan class=\"ead-extref\"\u003eJulie Covello\n              Papers\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -6174,7 +6174,7 @@
                                 ],
                                 "p": [
                                     {
-                                        "value": "\u003cspan class=\"extref\"\u003eAdele Fournet\n              Papers\u003c/span\u003e"
+                                        "value": "\u003cspan class=\"ead-extref\"\u003eAdele Fournet\n              Papers\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -9791,7 +9791,7 @@
                                 ],
                                 "p": [
                                     {
-                                        "value": "\u003cspan class=\"extref\"\u003eJulie Kathryn\n              Franco (I am Snow Angel) Papers\u003c/span\u003e"
+                                        "value": "\u003cspan class=\"ead-extref\"\u003eJulie Kathryn\n              Franco (I am Snow Angel) Papers\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -9894,7 +9894,7 @@
                                 ],
                                 "p": [
                                     {
-                                        "value": "\u003cspan class=\"extref\"\u003eK. Marie Kim\n              Papers\u003c/span\u003e"
+                                        "value": "\u003cspan class=\"ead-extref\"\u003eK. Marie Kim\n              Papers\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -15147,7 +15147,7 @@
                                 ],
                                 "p": [
                                     {
-                                        "value": "\u003cspan class=\"extref\"\u003eMichael Robinson\n              Papers\u003c/span\u003e"
+                                        "value": "\u003cspan class=\"ead-extref\"\u003eMichael Robinson\n              Papers\u003c/span\u003e"
                                     }
                                 ]
                             }
@@ -19409,7 +19409,7 @@
                             ],
                             "p": [
                                 {
-                                    "value": "\u003cspan class=\"date\"\u003eJune 2017\u003c/span\u003e"
+                                    "value": "\u003cspan class=\"ead-date\"\u003eJune 2017\u003c/span\u003e"
                                 }
                             ]
                         }
