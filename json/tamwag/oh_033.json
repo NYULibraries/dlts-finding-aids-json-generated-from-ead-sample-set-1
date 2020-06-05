@@ -73,6 +73,14 @@
                     "Oral histories (document genres)",
                     "Transcripts."
                 ],
+                "geogname": [
+                    "Lower East Side (New York, N.Y.) -- Social conditions.",
+                    "Lower East Side (New York, N.Y.) -- Economic conditions.",
+                    "Lower East Side (New York, N.Y.) -- Ethnic relations.",
+                    "Lower East Side (New York, N.Y.) -- Social life and customs.",
+                    "East Harlem (New York, N.Y.)",
+                    "Lower East Side (New York, N.Y.) -- History -- 20th century."
+                ],
                 "persname": [
                     "Bernhardt, Debra E."
                 ],
@@ -8887,6 +8895,9 @@
                                             {
                                                 "corpname": [
                                                     "East Harlem Protestant Parish (New York, N.Y.)"
+                                                ],
+                                                "geogname": [
+                                                    "East Harlem (New York, N.Y.) -- Race relations."
                                                 ]
                                             }
                                         ],
