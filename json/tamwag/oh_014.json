@@ -305,6 +305,9 @@
                                 ],
                                 "controlaccess": [
                                     {
+                                        "geogname": [
+                                            "Saint Kitts and Nevis."
+                                        ],
                                         "subject": [
                                             "Seventh-Day Adventist men -- Religious life."
                                         ]
@@ -728,7 +731,12 @@
                                     }
                                 ],
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Pittsburgh (Pa.) |x Social conditions |y 20th century.",
+                                            "Cleveland (Ohio) |x Economic conditions |y 20th century."
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
@@ -1641,6 +1649,9 @@
                                 ],
                                 "controlaccess": [
                                     {
+                                        "geogname": [
+                                            "Cleveland (Ohio) |x Economic conditions |y 20th century."
+                                        ],
                                         "subject": [
                                             "African Americans -- Relations with Jews."
                                         ]
@@ -1701,6 +1712,9 @@
                                 ],
                                 "controlaccess": [
                                     {
+                                        "geogname": [
+                                            "Lower East Side (New York, N.Y.) -- Ethnic relations."
+                                        ],
                                         "subject": [
                                             "Semi-professional baseball |z New York (State)",
                                             "Electricians |z New York (State) |z New York."
@@ -3628,7 +3642,12 @@
                                     }
                                 ],
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Ireland |x History |y Civil War, 1922-1923.",
+                                            "Ireland -- History -- War of Independence, 1919-1921"
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
@@ -4099,7 +4118,11 @@
                                     }
                                 ],
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Gorlice (Poland) |x History."
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
@@ -4167,7 +4190,11 @@
                                     }
                                 ],
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Balkan Peninsula |x History |y War of 1912-1913 |v Personal narratives."
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
@@ -7391,6 +7418,9 @@
                                 ],
                                 "controlaccess": [
                                     {
+                                        "geogname": [
+                                            "Colombia."
+                                        ],
                                         "subject": [
                                             "Secretaries -- New York (State) -- New York",
                                             "Jamaicans |z New York (State) |z New York |v Interviews."
@@ -8736,7 +8766,11 @@
                                 "id": "aspace_ref157",
                                 "level": "file",
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Ellis Island Immigration Station (N.Y. and N.J.)"
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
@@ -9072,6 +9106,9 @@
                                 ],
                                 "controlaccess": [
                                     {
+                                        "geogname": [
+                                            "Palestine |x Emigration and immigration |y 20th century."
+                                        ],
                                         "subject": [
                                             "Engineers |x Labor Unions |z New York (State) |z New York."
                                         ]
@@ -12271,7 +12308,11 @@
                                     }
                                 ],
                                 "controlaccess": [
-                                    {}
+                                    {
+                                        "geogname": [
+                                            "Catskill Mountains (N.Y.) |v Anecdotes."
+                                        ]
+                                    }
                                 ],
                                 "did": [
                                     {
