@@ -5819,7 +5819,9 @@
                         }
                     ],
                     "langusage": [
-                        {}
+                        {
+                            "value": "Finding aid written in English"
+                        }
                     ]
                 }
             ],
