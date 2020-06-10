@@ -252,7 +252,9 @@
                         "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
-                        {}
+                        {
+                            "value": "Finding aid written in English"
+                        }
                     ]
                 }
             ]

@@ -41605,7 +41605,9 @@
                         }
                     ],
                     "langusage": [
-                        {}
+                        {
+                            "value": "Description is in English"
+                        }
                     ]
                 }
             ],

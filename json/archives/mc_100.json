@@ -1644,7 +1644,9 @@
                         "Describing Archives: A Content Standard"
                     ],
                     "langusage": [
-                        {}
+                        {
+                            "value": "English"
+                        }
                     ]
                 }
             ],
