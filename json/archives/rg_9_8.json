@@ -103,7 +103,9 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "New York University. Institute of African-American Affairs."
+                    {
+                        "value": "New York University. Institute of African-American Affairs."
+                    }
                 ],
                 "genreform": [
                     "Correspondence.",
@@ -118,8 +120,12 @@
                     "Press releases."
                 ],
                 "persname": [
-                    "Davis, Earl S.",
-                    "Brown, Roscoe Conkling, Jr., 1922-"
+                    {
+                        "value": "Davis, Earl S."
+                    },
+                    {
+                        "value": "Brown, Roscoe Conkling, Jr., 1922-"
+                    }
                 ],
                 "subject": [
                     "American literature -- African American authors.",
@@ -166,7 +172,12 @@
                 ],
                 "origination": [
                     {
-                        "label": "Creator"
+                        "label": "Creator",
+                        "corpname": [
+                            {
+                                "value": "New York University. Institute of African-American Affairs."
+                            }
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -267,7 +278,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "New York University Archives"
+                            {
+                                "value": "New York University Archives"
+                            }
                         ]
                     }
                 ],

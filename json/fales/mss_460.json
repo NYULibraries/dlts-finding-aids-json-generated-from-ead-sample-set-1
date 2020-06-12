@@ -92,7 +92,9 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "Bit Rosie"
+                    {
+                        "value": "Bit Rosie"
+                    }
                 ],
                 "genreform": [
                     "Video recordings."
@@ -140,7 +142,9 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Fournet, Adele"
+                            {
+                                "value": "Fournet, Adele"
+                            }
                         ]
                     }
                 ],
@@ -179,7 +183,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Fales Library and Special Collections"
+                            {
+                                "value": "Fales Library and Special Collections"
+                            }
                         ]
                     }
                 ],

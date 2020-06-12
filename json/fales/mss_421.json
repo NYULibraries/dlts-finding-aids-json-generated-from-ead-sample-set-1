@@ -150,8 +150,12 @@
                     "Clippings (information artifacts)"
                 ],
                 "persname": [
-                    "Sonnabend, Joseph A.",
-                    "Callen, Michael, 1955-1993"
+                    {
+                        "value": "Sonnabend, Joseph A."
+                    },
+                    {
+                        "value": "Callen, Michael, 1955-1993"
+                    }
                 ],
                 "subject": [
                     "Safe sex in AIDS prevention -- History",
@@ -199,7 +203,9 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Berkowitz, Richard, 1955-"
+                            {
+                                "value": "Berkowitz, Richard, 1955-"
+                            }
                         ]
                     }
                 ],
@@ -276,7 +282,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Fales Library and Special Collections"
+                            {
+                                "value": "Fales Library and Special Collections"
+                            }
                         ]
                     }
                 ],
@@ -4865,7 +4873,9 @@
                                     {
                                         "label": "Creator",
                                         "persname": [
-                                            "Berkowitz, Richard, 1955-"
+                                            {
+                                                "value": "Berkowitz, Richard, 1955-"
+                                            }
                                         ]
                                     }
                                 ],

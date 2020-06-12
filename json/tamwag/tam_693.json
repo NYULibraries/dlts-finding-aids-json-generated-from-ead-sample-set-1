@@ -68,7 +68,10 @@
                     "Typescripts."
                 ],
                 "persname": [
-                    "Bitkower, Ellen"
+                    {
+                        "role": "dnr",
+                        "value": "Bitkower, Ellen"
+                    }
                 ],
                 "subject": [
                     "Communism -- United States -- 20th century"
@@ -93,13 +96,18 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Levine, Abraham"
+                            {
+                                "value": "Levine, Abraham"
+                            }
                         ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            "Bitkower, Ellen"
+                            {
+                                "role": "dnr",
+                                "value": "Bitkower, Ellen"
+                            }
                         ]
                     }
                 ],
@@ -124,7 +132,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],
