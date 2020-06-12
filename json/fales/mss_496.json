@@ -102,7 +102,13 @@
                 ],
                 "origination": [
                     {
-                        "label": "Creator"
+                        "label": "Creator",
+                        "corpname": [
+                            {
+                                "role": "col",
+                                "value": "New York University Archives"
+                            }
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -117,7 +123,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Fales Library and Special Collections"
+                            {
+                                "value": "Fales Library and Special Collections"
+                            }
                         ]
                     }
                 ],
@@ -3686,7 +3694,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Rhys Chatham Ensemble"
+                                    {
+                                        "value": "Rhys Chatham Ensemble"
+                                    }
                                 ]
                             }
                         ],
@@ -5891,7 +5901,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Charming Hostess (Musical group)"
+                                    {
+                                        "value": "Charming Hostess (Musical group)"
+                                    }
                                 ]
                             }
                         ],
@@ -6827,7 +6839,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Bonjour (Musical group)"
+                                    {
+                                        "value": "Bonjour (Musical group)"
+                                    }
                                 ]
                             }
                         ],
@@ -7416,7 +7430,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Michael Gordon Philharmonic"
+                                    {
+                                        "value": "Michael Gordon Philharmonic"
+                                    }
                                 ]
                             }
                         ],
@@ -9750,7 +9766,9 @@
                         "controlaccess": [
                             {
                                 "persname": [
-                                    "I Am Snow Angel"
+                                    {
+                                        "value": "I Am Snow Angel"
+                                    }
                                 ]
                             }
                         ],
@@ -10280,7 +10298,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Accordion Tribe"
+                                    {
+                                        "value": "Accordion Tribe"
+                                    }
                                 ]
                             }
                         ],
@@ -12569,7 +12589,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Catalyst Quartet"
+                                    {
+                                        "value": "Catalyst Quartet"
+                                    }
                                 ]
                             }
                         ],
@@ -13052,7 +13074,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Anti-Social Music (Musical group)"
+                                    {
+                                        "value": "Anti-Social Music (Musical group)"
+                                    }
                                 ]
                             }
                         ],
@@ -13635,7 +13659,9 @@
                                     {
                                         "label": "Creator",
                                         "persname": [
-                                            "Roussel, Patrice, 1956-"
+                                            {
+                                                "value": "Roussel, Patrice, 1956-"
+                                            }
                                         ]
                                     }
                                 ],
@@ -14447,7 +14473,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Latin for Travelers (Musical group)"
+                                    {
+                                        "value": "Latin for Travelers (Musical group)"
+                                    }
                                 ]
                             }
                         ],
@@ -14859,7 +14887,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Todd Reynolds String Quartet"
+                                    {
+                                        "value": "Todd Reynolds String Quartet"
+                                    }
                                 ]
                             }
                         ],
@@ -15530,7 +15560,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Ned Rothenberg Double Band"
+                                    {
+                                        "value": "Ned Rothenberg Double Band"
+                                    }
                                 ]
                             }
                         ],
@@ -15939,7 +15971,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Jenny Scheinman Quartet"
+                                    {
+                                        "value": "Jenny Scheinman Quartet"
+                                    }
                                 ]
                             }
                         ],
@@ -16273,7 +16307,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Terraplane (Blues group)"
+                                    {
+                                        "value": "Terraplane (Blues group)"
+                                    }
                                 ]
                             }
                         ],
@@ -16914,10 +16950,19 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Wadada Leo Smith's Silver Orchestra",
-                                    "Wadada Leo Smith's Organic (Musical group)",
-                                    "Wadada Leo Smith's Golden Quintet",
-                                    "Wadada Leo Smith's Golden Quartet"
+                                    {
+                                        "value": "Wadada Leo Smith's Silver Orchestra"
+                                    },
+                                    {
+                                        "value": "Wadada Leo Smith's Organic (Musical group)"
+                                    },
+                                    {
+                                        "value": "Wadada Leo Smith's Golden Quintet"
+                                    },
+                                    {
+                                        "role": "fmo",
+                                        "value": "Wadada Leo Smith's Golden Quartet"
+                                    }
                                 ]
                             }
                         ],
@@ -16925,7 +16970,12 @@
                             {
                                 "origination": [
                                     {
-                                        "label": "source"
+                                        "label": "source",
+                                        "corpname": [
+                                            {
+                                                "value": "Wadada Leo Smith's Golden Quartet"
+                                            }
+                                        ]
                                     }
                                 ],
                                 "physdesc": [
@@ -18289,7 +18339,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Toby Twining Music"
+                                    {
+                                        "value": "Toby Twining Music"
+                                    }
                                 ]
                             }
                         ],
@@ -18541,7 +18593,9 @@
                         "controlaccess": [
                             {
                                 "corpname": [
-                                    "Go Guitars (Musical group)"
+                                    {
+                                        "value": "Go Guitars (Musical group)"
+                                    }
                                 ]
                             }
                         ],

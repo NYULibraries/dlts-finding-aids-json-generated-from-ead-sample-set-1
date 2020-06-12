@@ -79,8 +79,12 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "United States. Congress. House. -- Committee on Un-American Activities",
-                    "Camp \"Kinderland\" (Hopewell Junction, N.Y.)"
+                    {
+                        "value": "United States. Congress. House. |b Committee on Un-American Activities"
+                    },
+                    {
+                        "value": "Camp \"Kinderland\" (Hopewell Junction, N.Y.)"
+                    }
                 ],
                 "genreform": [
                     "Clippings (information artifacts)",
@@ -91,11 +95,23 @@
                     "Songbooks."
                 ],
                 "persname": [
-                    "Suller, Elsie.",
-                    "Segal, Edith, 1902-",
-                    "Seeger, Pete, 1919-2014",
-                    "Falk, Huey",
-                    "Itzkowitz, Fay"
+                    {
+                        "value": "Suller, Elsie."
+                    },
+                    {
+                        "value": "Segal, Edith, 1902-"
+                    },
+                    {
+                        "value": "Seeger, Pete, 1919-2014"
+                    },
+                    {
+                        "role": "dnr",
+                        "value": "Falk, Huey"
+                    },
+                    {
+                        "role": "dnr",
+                        "value": "Itzkowitz, Fay"
+                    }
                 ],
                 "subject": [
                     "Camps -- New York (State) -- History -- 20th century.",
@@ -144,18 +160,30 @@
                 ],
                 "origination": [
                     {
-                        "label": "Creator"
-                    },
-                    {
-                        "label": "source",
-                        "persname": [
-                            "Falk, Huey"
+                        "label": "Creator",
+                        "corpname": [
+                            {
+                                "role": "dnr",
+                                "value": "Camp \"Kinderland\" (Hopewell Junction, N.Y.)"
+                            }
                         ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            "Itzkowitz, Fay"
+                            {
+                                "role": "dnr",
+                                "value": "Falk, Huey"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "source",
+                        "persname": [
+                            {
+                                "role": "dnr",
+                                "value": "Itzkowitz, Fay"
+                            }
                         ]
                     }
                 ],
@@ -181,7 +209,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],

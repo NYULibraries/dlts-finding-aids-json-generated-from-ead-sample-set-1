@@ -88,15 +88,33 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)",
-                    "Congress of Italian-American Organizations.",
-                    "Workmen's Circle/Arbeter Ring",
-                    "International Longshoremen's Association",
-                    "Amalgamated Clothing Workers of America",
-                    "International Ladies' Garment Workers' Union",
-                    "Council Workshop for Senior Citizens (New York, N.Y.)",
-                    "Kingsbridge Heights Nursing Home (New York, N.Y.)",
-                    "Transport Workers Union of America"
+                    {
+                        "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                    },
+                    {
+                        "value": "Congress of Italian-American Organizations."
+                    },
+                    {
+                        "value": "Workmen's Circle/Arbeter Ring"
+                    },
+                    {
+                        "value": "International Longshoremen's Association"
+                    },
+                    {
+                        "value": "Amalgamated Clothing Workers of America"
+                    },
+                    {
+                        "value": "International Ladies' Garment Workers' Union"
+                    },
+                    {
+                        "value": "Council Workshop for Senior Citizens (New York, N.Y.)"
+                    },
+                    {
+                        "value": "Kingsbridge Heights Nursing Home (New York, N.Y.)"
+                    },
+                    {
+                        "value": "Transport Workers Union of America"
+                    }
                 ],
                 "genreform": [
                     "Oral histories (document genres)"
@@ -183,7 +201,10 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Gutman, Herbert G. (Herbert George), 1928-1985"
+                            {
+                                "role": "dnr",
+                                "value": "Gutman, Herbert G. (Herbert George), 1928-1985"
+                            }
                         ]
                     }
                 ],
@@ -223,7 +244,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],
@@ -579,9 +602,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 17 (New York, N.Y.)",
-                                            "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland",
-                                            "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 17 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Antisemitism -- Russia -- History -- 20th century."
@@ -693,7 +722,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Typographical Union. Local 6 (New York, N.Y.)"
+                                            {
+                                                "value": "International Typographical Union. Local 6 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "English -- New York (State) -- New York -- Interviews.",
@@ -880,7 +911,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Hebrew Sheltering and Immigrant Aid Society of America"
+                                            {
+                                                "value": "Hebrew Sheltering and Immigrant Aid Society of America"
+                                            }
                                         ],
                                         "subject": [
                                             "Zionism and Judaism."
@@ -1112,7 +1145,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "New York (N.Y.). Board of Transportation"
+                                            {
+                                                "value": "New York (N.Y.). Board of Transportation"
+                                            }
                                         ],
                                         "subject": [
                                             "Subways -- Employees -- New York (State) -- New York -- Interviews."
@@ -1178,7 +1213,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United States. Works Progress Administration (N.Y.)"
+                                            {
+                                                "value": "United States. Works Progress Administration (N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -1635,8 +1672,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Longshoremen's Association. Local 1814 (New York, N.Y.)",
-                                            "United States. Works Progress Administration (N.Y.)"
+                                            {
+                                                "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "United States. Works Progress Administration (N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -1695,7 +1736,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ],
                                         "geogname": [
                                             "Cleveland (Ohio) -- Economic conditions -- 20th century."
@@ -1825,7 +1868,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ],
                                         "subject": [
                                             "Women socialists -- New York (State) -- New York -- Interviews."
@@ -1944,7 +1989,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -2315,7 +2362,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -2381,7 +2430,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -2505,7 +2556,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -2572,7 +2625,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            {
+                                                "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -2854,7 +2909,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Bloomingdale's (Firm)"
+                                            {
+                                                "value": "Bloomingdale's (Firm)"
+                                            }
                                         ],
                                         "subject": [
                                             "Transport workers -- Labor unions -- New York (State) -- New York -- History."
@@ -2968,7 +3025,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3344,7 +3403,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United States. Works Progress Administration (N.Y.)"
+                                            {
+                                                "value": "United States. Works Progress Administration (N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3461,7 +3522,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Antisemitism -- Russia -- History -- 20th century.",
@@ -3534,7 +3597,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -3644,7 +3709,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
+                                            {
+                                                "value": "Hotel Employees \u0026amp; Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "African American women household employees -- Interviews."
@@ -3757,9 +3824,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Seamen's Union of America",
-                                            "Congress of Industrial Organizations (U.S.)",
-                                            "Irish Republican Army"
+                                            {
+                                                "value": "International Seamen's Union of America"
+                                            },
+                                            {
+                                                "value": "Congress of Industrial Organizations (U.S.)"
+                                            },
+                                            {
+                                                "value": "Irish Republican Army"
+                                            }
                                         ],
                                         "geogname": [
                                             "Ireland -- History -- Civil War, 1922-1923.",
@@ -3984,7 +4057,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Italians -- Tunisia -- History -- 20th century."
@@ -4446,8 +4521,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Fur and Leather Workers Union of the United States and Canada",
-                                            "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            {
+                                                "value": "International Fur and Leather Workers Union of the United States and Canada"
+                                            },
+                                            {
+                                                "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            }
                                         ],
                                         "subject": [
                                             "Antisemitism -- Russia -- History -- 20th century.",
@@ -4525,7 +4604,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Brotherhood of Bookbinders. Local 119 (New York, N.Y.)"
+                                            {
+                                                "value": "International Brotherhood of Bookbinders. Local 119 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Bookbinders -- United States -- Interviews."
@@ -4596,7 +4677,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United States. Works Progress Administration (N.Y.)"
+                                            {
+                                                "value": "United States. Works Progress Administration (N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -4841,8 +4924,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Ozone Park (New York, N.Y.)",
-                                            "Camp Croft (Spartanburg, S.C.)"
+                                            {
+                                                "value": "Ozone Park (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Camp Croft (Spartanburg, S.C.)"
+                                            }
                                         ],
                                         "subject": [
                                             "World War, 1914-1918 -- African Americans.",
@@ -4906,7 +4993,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -4972,7 +5061,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "World War, 1914-1918 -- Poland -- Personal narratives."
@@ -5284,7 +5375,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Union of Operating Engineers"
+                                            {
+                                                "value": "International Union of Operating Engineers"
+                                            }
                                         ]
                                     }
                                 ],
@@ -5404,8 +5497,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)",
-                                            "United Brotherhood of Cloakmakers"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "United Brotherhood of Cloakmakers"
+                                            }
                                         ]
                                     }
                                 ],
@@ -5462,7 +5559,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Hatters of North America"
+                                            {
+                                                "value": "United Hatters of North America"
+                                            }
                                         ],
                                         "subject": [
                                             "Depressions -- 1929 -- New York (State) -- New York."
@@ -5525,8 +5624,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Hatters of North America",
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "United Hatters of North America"
+                                            },
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ],
                                         "subject": [
                                             "Jewish socialists -- New York (State) -- New York -- Interviews."
@@ -5652,7 +5755,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ],
                                         "subject": [
                                             "Women socialists -- New York (State) -- New York."
@@ -5885,7 +5990,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Furniture Workers of America"
+                                            {
+                                                "value": "United Furniture Workers of America"
+                                            }
                                         ],
                                         "subject": [
                                             "Furniture workers -- New York (State) -- New York -- Interviews."
@@ -5948,7 +6055,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "National Biscuit Company"
+                                            {
+                                                "value": "National Biscuit Company"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6008,8 +6117,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "AFSCME. District Council 37 (New York, N.Y.)",
-                                            "Brooklyn Museum"
+                                            {
+                                                "value": "AFSCME. District Council 37 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Brooklyn Museum"
+                                            }
                                         ],
                                         "subject": [
                                             "Museums -- Employees -- United States"
@@ -6293,7 +6406,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Workmen's Circle (U.S.)"
+                                            {
+                                                "value": "Workmen's Circle (U.S.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6424,7 +6539,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Hotel Employees \u0026 Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
+                                            {
+                                                "value": "Hotel Employees \u0026amp; Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "World War, 1914-1918 -- United States."
@@ -6490,7 +6607,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Triangle Shirtwaist Company -- Fire, 1911."
@@ -6551,8 +6670,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)",
-                                            "International Fur and Leather Workers Union of the United States and Canada"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "International Fur and Leather Workers Union of the United States and Canada"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6729,7 +6852,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ]
                                     }
                                 ],
@@ -6903,8 +7028,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)",
-                                            "International Ladies' Garment Workers' Union. Local 91 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 91 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "World War, 1914-1918 -- Russia -- Personal narratives.",
@@ -7301,8 +7430,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "New York (N.Y.). Department of Sanitation",
-                                            "International Union of Operating Engineers"
+                                            {
+                                                "value": "New York (N.Y.). Department of Sanitation"
+                                            },
+                                            {
+                                                "value": "International Union of Operating Engineers"
+                                            }
                                         ],
                                         "subject": [
                                             "Sanitation workers -- New York (State) -- New York.",
@@ -7420,7 +7553,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Cotton Club"
+                                            {
+                                                "value": "Cotton Club"
+                                            }
                                         ],
                                         "subject": [
                                             "Elevator operators -- New York (State) -- New York -- Interviews."
@@ -7573,7 +7708,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "National Association of Letter Carriers (U.S.)"
+                                            {
+                                                "value": "National Association of Letter Carriers (U.S.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Divorce -- United States -- Anecdotes.",
@@ -7646,7 +7783,9 @@
                                             "Colombia."
                                         ],
                                         "persname": [
-                                            "Garvey, Marcus, 1887-1940"
+                                            {
+                                                "value": "Garvey, Marcus, 1887-1940"
+                                            }
                                         ],
                                         "subject": [
                                             "Secretaries -- New York (State) -- New York",
@@ -7713,7 +7852,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Puerto Ricans -- New York (State) -- New York -- Interviews"
@@ -7777,8 +7918,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Furniture Workers of America",
-                                            "United Textile Workers of America"
+                                            {
+                                                "value": "United Furniture Workers of America"
+                                            },
+                                            {
+                                                "value": "United Textile Workers of America"
+                                            }
                                         ],
                                         "subject": [
                                             "Textile Workers' Strike, Passaic, N.J., 1926.",
@@ -7860,8 +8005,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Cleaners and Dyers Union",
-                                            "Hebrew Sheltering and Immigrant Aid Society of America"
+                                            {
+                                                "value": "Cleaners and Dyers Union"
+                                            },
+                                            {
+                                                "value": "Hebrew Sheltering and Immigrant Aid Society of America"
+                                            }
                                         ],
                                         "subject": [
                                             "Labor unions -- Officials and employees -- United States.",
@@ -8056,7 +8205,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Fur Workers Union of the United States and Canada"
+                                            {
+                                                "value": "International Fur Workers Union of the United States and Canada"
+                                            }
                                         ],
                                         "subject": [
                                             "Fur workers -- New York (State) -- New York -- Interviews."
@@ -8117,7 +8268,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            {
+                                                "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -8278,7 +8431,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Cotton Club"
+                                            {
+                                                "value": "Cotton Club"
+                                            }
                                         ],
                                         "subject": [
                                             "African American women dancers.",
@@ -8462,7 +8617,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "New York City Taxi Drivers Union, Local 3036"
+                                            {
+                                                "value": "New York City Taxi Drivers Union, Local 3036"
+                                            }
                                         ],
                                         "subject": [
                                             "Taxicab drivers -- New York (State) -- New York -- Interviews."
@@ -8520,9 +8677,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 9 (New York, N.Y.)",
-                                            "Socialist Party (U.S.)",
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 9 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Socialist Party (U.S.)"
+                                            },
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ]
                                     }
                                 ],
@@ -8582,7 +8745,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Race discrimination -- New York (State) -- New York.",
@@ -8646,8 +8811,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)",
-                                            "International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -8749,10 +8918,18 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)",
-                                            "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)",
-                                            "Workmen's Circle/Arbeter Ring",
-                                            "Socialist Party (U.S.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            },
+                                            {
+                                                "value": "Socialist Party (U.S.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Women socialists -- New York (State) -- New York."
@@ -8937,9 +9114,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland",
-                                            "Workmen's Circle (U.S.)",
-                                            "International Fur and Leather Workers Union of the United States and Canada"
+                                            {
+                                                "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            },
+                                            {
+                                                "value": "Workmen's Circle (U.S.)"
+                                            },
+                                            {
+                                                "value": "International Fur and Leather Workers Union of the United States and Canada"
+                                            }
                                         ],
                                         "subject": [
                                             "Jewish socialists -- New York (State) -- New York -- Interviews.",
@@ -9382,7 +9565,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Federation of Architects, Engineers, Chemists, and Technicians"
+                                            {
+                                                "value": "Federation of Architects, Engineers, Chemists, and Technicians"
+                                            }
                                         ],
                                         "geogname": [
                                             "Palestine -- Emigration and immigration -- 20th century."
@@ -10385,7 +10570,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            {
+                                                "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -10496,7 +10683,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ]
                                     }
                                 ],
@@ -10714,9 +10903,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Amalgamated Ladies' Garment Cutters' Union",
-                                            "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)",
-                                            "International Ladies' Garment Workers' Union . Local 23-25 (New York, N.Y.)"
+                                            {
+                                                "value": "Amalgamated Ladies' Garment Cutters' Union"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union . Local 23-25 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Jews, Russian -- New York (State) -- New York -- Interviews."
@@ -10780,7 +10975,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Furniture Workers of America"
+                                            {
+                                                "value": "United Furniture Workers of America"
+                                            }
                                         ],
                                         "subject": [
                                             "Furniture workers -- Labor unions",
@@ -11205,7 +11402,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            {
+                                                "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            }
                                         ],
                                         "subject": [
                                             "Coal miners -- Labor unions -- United States."
@@ -11325,7 +11524,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            {
+                                                "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -11438,7 +11639,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -11770,7 +11973,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -11898,9 +12103,15 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland",
-                                            "Educational Alliance (New York, N.Y.)",
-                                            "Workmen's Circle/Arbeter Ring"
+                                            {
+                                                "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
+                                            },
+                                            {
+                                                "value": "Educational Alliance (New York, N.Y.)"
+                                            },
+                                            {
+                                                "value": "Workmen's Circle/Arbeter Ring"
+                                            }
                                         ],
                                         "subject": [
                                             "Women socialists -- New York (State) -- New York -- Interviews.",
@@ -12032,8 +12243,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Industrial Workers of the World",
-                                            "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            {
+                                                "value": "Industrial Workers of the World"
+                                            },
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Socialists -- New York (State) -- New York -- Interviews."
@@ -12280,8 +12495,12 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "United Furniture Workers of America",
-                                            "International Association of Machinists"
+                                            {
+                                                "value": "United Furniture Workers of America"
+                                            },
+                                            {
+                                                "value": "International Association of Machinists"
+                                            }
                                         ],
                                         "subject": [
                                             "Furniture workers -- New York (State) -- New York -- Interviews.",
@@ -12348,7 +12567,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ]
                                     }
                                 ],
@@ -12464,7 +12685,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            {
+                                                "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Childbirth -- New York (State) -- New York.",
@@ -12714,7 +12937,9 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            {
+                                                "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
+                                            }
                                         ],
                                         "subject": [
                                             "Jamaicans -- New York (State) -- New York -- Interviews."

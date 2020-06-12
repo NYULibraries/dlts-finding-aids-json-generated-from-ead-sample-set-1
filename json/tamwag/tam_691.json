@@ -75,7 +75,9 @@
                     "Havana (Cuba)"
                 ],
                 "persname": [
-                    "Castro, Fidel, 1926-2016"
+                    {
+                        "value": "Castro, Fidel, 1926-2016"
+                    }
                 ]
             }
         ],
@@ -97,7 +99,10 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Havens, David N."
+                            {
+                                "role": "dnr",
+                                "value": "Havens, David N."
+                            }
                         ]
                     }
                 ],
@@ -116,7 +121,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],

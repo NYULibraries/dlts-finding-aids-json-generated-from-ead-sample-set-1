@@ -70,14 +70,18 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "New York University. University Heights"
+                    {
+                        "value": "New York University. University Heights"
+                    }
                 ],
                 "genreform": [
                     "Correspondence.",
                     "Questionnaires."
                 ],
                 "persname": [
-                    "John Quigley, 1872-1943"
+                    {
+                        "value": "John Quigley, 1872-1943"
+                    }
                 ]
             }
         ],
@@ -99,7 +103,9 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Rose, Oscar"
+                            {
+                                "value": "Rose, Oscar"
+                            }
                         ]
                     }
                 ],
@@ -124,7 +130,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "New York University Archives"
+                            {
+                                "value": "New York University Archives"
+                            }
                         ]
                     }
                 ],
