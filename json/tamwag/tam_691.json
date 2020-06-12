@@ -73,6 +73,9 @@
                     "Cuba -- History --  Revolution, 1959.",
                     "Cuba -- History.",
                     "Havana (Cuba)"
+                ],
+                "persname": [
+                    "Castro, Fidel, 1926-2016"
                 ]
             }
         ],
@@ -243,7 +246,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 16:12:34 -0400"
+                                "2020-06-10 17:03:12 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }

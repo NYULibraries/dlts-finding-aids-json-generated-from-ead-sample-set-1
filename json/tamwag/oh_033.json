@@ -117,6 +117,18 @@
                 ],
                 "origination": [
                     {
+                        "label": "Creator"
+                    },
+                    {
+                        "label": "Creator"
+                    },
+                    {
+                        "label": "Creator"
+                    },
+                    {
+                        "label": "Creator"
+                    },
+                    {
                         "label": "source",
                         "persname": [
                             "Bernhardt, Debra E."
@@ -1985,7 +1997,8 @@
                                 "controlaccess": [
                                     {
                                         "corpname": [
-                                            "Ferrer Colony (Stelton, N.J.)"
+                                            "Ferrer Colony (Stelton, N.J.)",
+                                            "Modern School (Stelton, N.J.)"
                                         ],
                                         "subject": [
                                             "Women and anarchism -- United States."
@@ -3640,6 +3653,13 @@
                                         ]
                                     }
                                 ],
+                                "controlaccess": [
+                                    {
+                                        "corpname": [
+                                            "Henry Street Settlement (New York, N.Y.)"
+                                        ]
+                                    }
+                                ],
                                 "did": [
                                     {
                                         "unitdate": [
@@ -4646,6 +4666,16 @@
                                             {
                                                 "value": "Frieda \"Fritzie\" Wolkofsky Meyerhoffer was born in 1913 in Manhattan, New York.  She was one of seven children.  Her parents immigrated to the United States from Russia, her mother from Minsk and her father from Vilna.  Her father worked in a millinery factory and volunteered as a receptionist at the Henry Street Settlement in the Lower East Side (LES) neighborhood of Manhattan for 25 years.  Her mother worked as a seamstress and janitor, and was actively involved in the Settlement's Mothers' Clubs and Echo Hill Farm camp in Yorktown Heights, New York.  Meyerhoffer attended kindergarten at the Settlement and Public School 147 in the LES.  She married in 1939 and two children.  Her husband worked in a printing factory and at a gas station.  She moved into the Vladeck Houses in the LES in 1954 and was a resident at the time of the interview."
                                             }
+                                        ]
+                                    }
+                                ],
+                                "controlaccess": [
+                                    {
+                                        "corpname": [
+                                            "Henry Street Settlement (New York, N.Y.)"
+                                        ],
+                                        "persname": [
+                                            "Wald, Lillian D., 1867-1940"
                                         ]
                                     }
                                 ],
@@ -10278,6 +10308,9 @@
                                         ],
                                         "controlaccess": [
                                             {
+                                                "corpname": [
+                                                    "Three Arrows Cooperative Society, Inc."
+                                                ],
                                                 "subject": [
                                                     "Women socialists -- New York (State) -- New York -- Interviews.",
                                                     "Cooperative societies -- New York (State)."
@@ -10431,6 +10464,9 @@
                                         ],
                                         "controlaccess": [
                                             {
+                                                "corpname": [
+                                                    "Three Arrows Cooperative Society, Inc."
+                                                ],
                                                 "subject": [
                                                     "Cooperative societies -- New York (State).",
                                                     "Jewish socialists -- New York (State) -- New York -- Interviews."
@@ -12420,7 +12456,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 15:53:47 -0400"
+                                "2020-06-10 16:32:16 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }

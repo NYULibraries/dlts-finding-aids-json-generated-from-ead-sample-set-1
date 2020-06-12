@@ -1,8 +1,110 @@
 {
     "archdesc": {
         "level": "collection",
+        "accessrestrict": [
+            {
+                "id": "aspace_93476791dd8687cba692735f8abbe4f0",
+                "head": [
+                    {
+                        "value": "Access Restrictions"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Institutional records of New York University are closed for a period of 20 years from the date of their creation (the date on which each document was written). Board of Trustees records are similarly closed for 35 years from the date of creation.  The opening date for files spanning several years will be 20 years from the most recent date. Access will be given to material already 20 years old contained within a collection that is not yet open when such material can be isolated from the rest of the collection."
+                    },
+                    {
+                        "value": "Materials related to personnel, faculty grievances, job searches and all files with information that falls under the University's Family Educational Rights and Privacy Act (FERPA) policy are permanently restricted."
+                    },
+                    {
+                        "value": "Please contact the University Archivists with specific questions regarding restrictions."
+                    }
+                ]
+            }
+        ],
+        "acqinfo": [
+            {
+                "id": "aspace_45548cce525e2b27e8ec2b3d15a94802",
+                "head": [
+                    {
+                        "value": "Immediate Source of Acquisition"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "June 2018 Accretion transferred by the Institute of African American Affairs, 2018. The accession number associated with this transfer is 2018.018."
+                    },
+                    {
+                        "value": "The December 2018 Accretion was transferred by Jaira Placide, Associate Director, Institute of African American Affairs and Center for Black Visual Culture on July 2018.The accession number associated with this deposit is 2018.044."
+                    }
+                ]
+            }
+        ],
+        "appraisal": [
+            {
+                "id": "aspace_8544dfc42333a8aee42a0f6180638ae7",
+                "head": [
+                    {
+                        "value": "Appraisal"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Extra copies of \u003cspan class=\"ead-emph ead-emph-italic\"\u003eBlack Renaissance Noire\u003c/span\u003e were discarded according to New York University's Special Collections Deaccessioning Policy."
+                    }
+                ]
+            }
+        ],
+        "arrangement": [
+            {
+                "id": "aspace_0368c39d18873b39a47669775858bf57",
+                "head": [
+                    {
+                        "value": "Arrangement"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Folders are arranged chronologically. Series IV: Audiovisual Recordings is divided into two sub-series: IV.A: \u003cspan class=\"ead-emph ead-emph-italic\"\u003eSoul of Reason\u003c/span\u003e Audio Recordings and IV.B: Other Audio Recordings."
+                    },
+                    {
+                        "value": "\nThe June 2018 accretion to the Records of the Institute of Afro-American Affairs are added to Series I. Events and Series IV., Subseries B: Other Audio Recordings. The materials are arranged in the order in which they were received from the donor."
+                    },
+                    {
+                        "value": "The December 2018 accretion to the Records of the Institute of Afro-American Affairs are added to Series I. and Series IV, Subseries C: Unprocessed Materials. The materials are arranged in the order in which they were received from the donor."
+                    },
+                    {
+                        "value": " \nThe files are grouped into four series:"
+                    }
+                ]
+            }
+        ],
+        "bioghist": [
+            {
+                "id": "aspace_cb4723d513cd5df9630bea2928d06172",
+                "head": [
+                    {
+                        "value": "Historical Note"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "The Institute of Afro-American Affairs at New York University was founded in 1969 to research, document, and celebrate the cultural and intellectual production of Africa and its diaspora in the Atlantic world and beyond. The Institute is affiliated and shares leadership, staff, and facilities with NYU's Africana Studies Program. Both organizations are committed to the study of Blacks in modernity through concentrations in Pan-Africanism and Black Urban Studies. Now called the Institute of African American Affairs, the Institute each year brings to NYU Artists and Scholars-in-Residence, who during their residencies participate in seminars, offer public presentations of their work, and meet with students. Past Artists-in-Residence have included author Walter Mosley; poet and essayist Amiri Baraka; actor, playwright, and performance artist Anna Deavere Smith; poet Jayne Cortez; actor and producer Danny Glover; and Malian musician Salif Keita. Scholars-in-Residence have included Nigerian author and Nobel Laureate Wole Soyinka; and David Levering Lewis, MacArthur Fellow and Martin Luther King, Jr. Professor of History at Rutgers."
+                    },
+                    {
+                        "value": "Sources: "
+                    },
+                    {
+                        "value": "\u003cspan class=\"ead-list\"\u003e\u003cspan class=\"ead-item\"\u003eAfro-American Affairs, Institute of, Archives H, NYU Archives.\u003c/span\u003e\u003c/span\u003e "
+                    }
+                ]
+            }
+        ],
         "controlaccess": [
             {
+                "corpname": [
+                    "New York University. Institute of African-American Affairs."
+                ],
                 "genreform": [
                     "Correspondence.",
                     "Administrative records.",
@@ -14,6 +116,10 @@
                     "Lectures.",
                     "VHS",
                     "Press releases."
+                ],
+                "persname": [
+                    "Davis, Earl S.",
+                    "Brown, Roscoe Conkling, Jr., 1922-"
                 ],
                 "subject": [
                     "American literature -- African American authors.",
@@ -29,12 +135,38 @@
                 ]
             }
         ],
+        "custodhist": [
+            {
+                "id": "aspace_8fe5790ec40a2400c8b439abe8264f0b",
+                "head": [
+                    {
+                        "value": "Provenance"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "This collection was transferred to the University Archives in 1994."
+                    }
+                ]
+            }
+        ],
         "did": [
             {
+                "abstract": [
+                    {
+                        "value": "The Institute of African American Affairs (IAAA) at New York University was founded in 1969 to research, document, and celebrate the cultural and intellectual production of Africa and its diaspora. Today, IAAA remains committed to the study of Blacks in modernity through concentrations in Pan-Africanism and Black Urban Studies. The Records of the Institute of African American Affairs date from 1965 to the early 1990s. Included is correspondence from the late 1980s and early 1990s from Earl S. Davis, one of IAAA's directors, as well as conference and event materials, and information about Association of Education in Journalism internships. The collection also contains 266 recordings dating from 1971 to 1986 of \u003cspan class=\"ead-emph ead-emph-italic\"\u003eThe Soul of Reason\u003c/span\u003e, a radio talk show that aired on commercial radio station WNBC and NYU's station WNYU.\n\nThe Records of the Institute of African American Affairs 2018 accretion includes event material relating to conferences and programs dating from 1993 to 2003.",
+                        "id": "aspace_1f24ce0cd0a4b0f90277a5dc855bc9e7"
+                    }
+                ],
                 "langmaterial": [
                     {
                         "id": "aspace_449fcb36c438aa93789b23ca3b76e1aa",
                         "value": "Materials primarily in English, with some publications in French."
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator"
                     }
                 ],
                 "physdesc": [
@@ -124,6 +256,12 @@
                                 "value": "1 videocassettes (u-matic)"
                             }
                         ]
+                    }
+                ],
+                "physloc": [
+                    {
+                        "id": "aspace_1422236a683c716bad5a62cfb99167bc",
+                        "value": "This collection is located in offsite storage. Contact the repository for access."
                     }
                 ],
                 "repository": [
@@ -41559,6 +41697,103 @@
                     }
                 ]
             }
+        ],
+        "phystech": [
+            {
+                "id": "aspace_9d429b0bf5d773008381a395ed623ab5",
+                "head": [
+                    {
+                        "value": "Audiovisual Access Policies and Procedures"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "The \u003cspan class=\"ead-i\"\u003eSoul of Reason\u003c/span\u003e audio recordings in Series IV.A. have been digitized and are available to stream via the finding aid."
+                    },
+                    {
+                        "value": "Audiovisual materials that have not been preserved are not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact university-archives@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information."
+                    }
+                ]
+            },
+            {
+                "id": "aspace_b5e8daca64fc44e88e6971c7a70051f2",
+                "head": [
+                    {
+                        "value": "Physical Characteristics and Technical Requirements"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact university-archives@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information."
+                    }
+                ]
+            }
+        ],
+        "prefercite": [
+            {
+                "id": "aspace_496f03fb84fd3502418f5e0de3f715a0",
+                "head": [
+                    {
+                        "value": "Preferred Citation"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Published citations should take the following form: Identification of item, date (if known); Records of the Institute of African American Affairs; RG 9.8; box number; folder number; New York University Archives, New York University Libraries."
+                    }
+                ]
+            }
+        ],
+        "processinfo": [
+            {
+                "id": "aspace_18e46d2566c16beb9ac25dda13ad6562",
+                "head": [
+                    {
+                        "value": "Processing Information"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Materials from the 2018 accretions were placed in new acid-free folders and boxes."
+                    }
+                ]
+            }
+        ],
+        "scopecontent": [
+            {
+                "id": "aspace_883bf41ec45142a47d5f8a8f5b9dee78",
+                "head": [
+                    {
+                        "value": "Scope and Content Note"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "The Records of the Institute of African American Affairs date from 1965 to 2018. Included is correspondence from the late 1980s and early 1990s from Earl S. Davis, one of IAAA's directors, as well as conference and event materials, and information about Association of Education in Journalism internships. The collection also contains 266 recordings of \u003cspan class=\"ead-emph ead-emph-italic\"\u003eThe Soul of Reason\u003c/span\u003e, a radio talk show that aired on commercial radio station WNBC and later on NYU's station WNYU. The collection contains a portion of \u003cspan class=\"ead-emph ead-emph-italic\"\u003eThe Soul of Reason\u003c/span\u003e shows that initially aired between 1971 and 1978, with interviewees ranging from politicians to professional athletes to medical professionals to contemporary artists."
+                    },
+                    {
+                        "value": "\nThe Records of the Institute of African American Affairs 2018 accretions include event material relating to conferences and programs created by the Institute for Afro-American Affairs from 1993 to 2003. Recordings of these event discussions are found on 876 audiovisual recordings and 210 born digital materials. "
+                    },
+                    {
+                        "value": "The publication \u003cspan class=\"ead-emph ead-emph-italic\"\u003eBlack Renaissance Noire\u003c/span\u003e and event material relating to conferences and programs presented by the Institute from 1993 to 2018 are part of a separate 2018 accretion. "
+                    }
+                ]
+            }
+        ],
+        "userestrict": [
+            {
+                "id": "aspace_4b961069ed353520e55eb20d29c558d3",
+                "head": [
+                    {
+                        "value": "Use Restrictions"
+                    }
+                ],
+                "p": [
+                    {
+                        "value": "Any rights (including copyright and related rights to publicity and privacy) held by The Institute of African American Affairs are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu."
+                    }
+                ]
+            }
         ]
     },
     "eadheader": [
@@ -41599,7 +41834,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 15:50:06 -0400"
+                                "2020-06-10 15:04:48 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }

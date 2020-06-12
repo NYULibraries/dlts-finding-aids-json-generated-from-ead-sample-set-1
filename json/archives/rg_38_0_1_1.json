@@ -72,9 +72,13 @@
                 "corpname": [
                     "New York University. Libraries",
                     "New York University. Office of University Development and Alumni Relations",
+                    "New York University. Office of Budget and Resource Planning",
+                    "Elmer Holmes Bobst Library",
                     "NYU Press",
                     "New York University. Faculty of Arts and Science",
+                    "New-York Historical Society",
                     "Tamiment Library",
+                    "Robert F. Wagner Labor Archives",
                     "New York University. Center for Advanced Technology",
                     "New York University -- History"
                 ],
@@ -105,6 +109,12 @@
                     }
                 ],
                 "origination": [
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            "Rochell, Carlton C."
+                        ]
+                    },
                     {
                         "label": "source"
                     }
@@ -7406,7 +7416,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-05-20 11:33:40 -0400"
+                                "2020-06-10 15:24:02 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }

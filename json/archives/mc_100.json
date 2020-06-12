@@ -69,9 +69,15 @@
         ],
         "controlaccess": [
             {
+                "corpname": [
+                    "New York University. University Heights"
+                ],
                 "genreform": [
                     "Correspondence.",
                     "Questionnaires."
+                ],
+                "persname": [
+                    "John Quigley, 1872-1943"
                 ]
             }
         ],
@@ -87,6 +93,14 @@
                     {
                         "id": "aspace_1c5d2b756e12bfc9553851ce3d0379bf",
                         "value": "Materials are in English."
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            "Rose, Oscar"
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -1635,7 +1649,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 15:48:05 -0400"
+                                "2020-06-10 15:21:13 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }

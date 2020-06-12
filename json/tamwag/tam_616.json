@@ -105,6 +105,10 @@
         ],
         "controlaccess": [
             {
+                "corpname": [
+                    "Asociación de Abuelas de Plaza de Mayo",
+                    "Ballet Nacional de Cuba"
+                ],
                 "genreform": [
                     "Documentary films -- Cuba."
                 ],
@@ -125,6 +129,27 @@
                     "Grenada -- Politics and government -- 1974.",
                     "Cuba --  History -- 20th century.",
                     "Argentina -- History -- Dirty War, 1976-1983."
+                ],
+                "persname": [
+                    "Alonso, Alicia, 1921- -- -- Interviews",
+                    "Mandela, Nelson, 1918-2013",
+                    "Núñez Jiménez, Antonio -- -- Interviews",
+                    "Schlesinger, Arthur M. (Arthur Meier), 1917-2007 -- -- Interviews",
+                    "González, Elián, 1993-",
+                    "Bussi de Allende, Hortensia -- -- Interviews",
+                    "Walker, Alice, 1944- -- -- Interviews",
+                    "Davis, Angela Y. (Angela Yvonne), 1944- -- -- Interviews",
+                    "Almeida, Juan -- -- Interviews",
+                    "García Márquez, Gabriel, 1927-2014 -- -- Interviews",
+                    "Agee, Philip. -- -- Interviews",
+                    "Pollack, Sydney, 1934-2008 -- -- Interviews",
+                    "Frady, Marshall -- -- Interviews",
+                    "Castro, Fidel, 1926-2016",
+                    "McGovern, George S. (George Stanley), 1922- -- -- Interviews",
+                    "Rabinowitz, Victor -- -- Interviews",
+                    "Castro, Raúl, 1930- -- -- Interviews",
+                    "Bishop, Maurice",
+                    "John Paul II, Pope, 1920-2005"
                 ],
                 "subject": [
                     "Food relief, American -- Cuba.",
@@ -149,6 +174,20 @@
                     {
                         "id": "aspace_45b7749235ff95c7e8c371fb2e5759fb",
                         "value": "Materials are in Spanish and English."
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            "Bravo, Estela"
+                        ]
+                    },
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            "Bravo, Ernesto"
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -42984,7 +43023,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 16:08:47 -0400"
+                                "2020-06-10 16:58:36 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
