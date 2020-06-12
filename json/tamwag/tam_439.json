@@ -78,6 +78,10 @@
         ],
         "controlaccess": [
             {
+                "corpname": [
+                    "United States. Congress. House. -- Committee on Un-American Activities",
+                    "Camp \"Kinderland\" (Hopewell Junction, N.Y.)"
+                ],
                 "genreform": [
                     "Clippings (information artifacts)",
                     "Financial records",
@@ -85,6 +89,13 @@
                     "Photographs.",
                     "Minutes (administrative records)",
                     "Songbooks."
+                ],
+                "persname": [
+                    "Suller, Elsie.",
+                    "Segal, Edith, 1902-",
+                    "Seeger, Pete, 1919-2014",
+                    "Falk, Huey",
+                    "Itzkowitz, Fay"
                 ],
                 "subject": [
                     "Camps -- New York (State) -- History -- 20th century.",
@@ -129,6 +140,23 @@
                             }
                         ],
                         "value": "\n      \n.    "
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator"
+                    },
+                    {
+                        "label": "source",
+                        "persname": [
+                            "Falk, Huey"
+                        ]
+                    },
+                    {
+                        "label": "source",
+                        "persname": [
+                            "Itzkowitz, Fay"
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -10516,7 +10544,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-04-27 16:08:08 -0400"
+                                "2020-06-10 16:54:38 -0400"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
