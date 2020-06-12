@@ -64,10 +64,15 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "Arizona Educators United"
+                    {
+                        "value": "Arizona Educators United"
+                    }
                 ],
                 "persname": [
-                    "Karvelis, Noah"
+                    {
+                        "role": "dnr",
+                        "value": "Karvelis, Noah"
+                    }
                 ],
                 "subject": [
                     "Teachers' contracts -- United States.",
@@ -96,13 +101,18 @@
                     {
                         "label": "Creator",
                         "persname": [
-                            "Karvelis, Noah"
+                            {
+                                "value": "Karvelis, Noah"
+                            }
                         ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            "Karvelis, Noah"
+                            {
+                                "role": "dnr",
+                                "value": "Karvelis, Noah"
+                            }
                         ]
                     }
                 ],
@@ -121,7 +131,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],

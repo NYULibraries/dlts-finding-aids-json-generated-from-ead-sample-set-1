@@ -117,7 +117,10 @@
                     "Slides (photographs)"
                 ],
                 "persname": [
-                    "O'Reilly, Ciarán"
+                    {
+                        "role": "fmo",
+                        "value": "O'Reilly, Ciarán"
+                    }
                 ],
                 "subject": [
                     "Theater -- Production and direction.",
@@ -160,12 +163,19 @@
                 ],
                 "origination": [
                     {
-                        "label": "Creator"
+                        "label": "Creator",
+                        "corpname": [
+                            {
+                                "value": "Irish Repertory Theatre"
+                            }
+                        ]
                     },
                     {
                         "label": "source",
                         "persname": [
-                            "O'Reilly, Ciarán"
+                            {
+                                "value": "O'Reilly, Ciarán"
+                            }
                         ]
                     }
                 ],
@@ -221,7 +231,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "Tamiment Library and Robert F. Wagner Labor Archives"
+                            {
+                                "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                            }
                         ]
                     }
                 ],

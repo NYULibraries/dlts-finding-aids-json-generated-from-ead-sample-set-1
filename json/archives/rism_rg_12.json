@@ -58,13 +58,23 @@
         "controlaccess": [
             {
                 "corpname": [
-                    "Research Institute for the Study of Man",
-                    "National Institute of Mental Health (U.S.). Center for Studies of Narcotic and Drug Abuse",
-                    "University of the West Indies (Mona, Jamaica). Dept. of Social and Preventive Medicine"
+                    {
+                        "value": "Research Institute for the Study of Man"
+                    },
+                    {
+                        "value": "National Institute of Mental Health (U.S.). Center for Studies of Narcotic and Drug Abuse"
+                    },
+                    {
+                        "value": "University of the West Indies (Mona, Jamaica). Dept. of Social and Preventive Medicine"
+                    }
                 ],
                 "persname": [
-                    "Rubin, Vera D.",
-                    "Comitas, Lambros"
+                    {
+                        "value": "Rubin, Vera D."
+                    },
+                    {
+                        "value": "Comitas, Lambros"
+                    }
                 ],
                 "subject": [
                     "Cannabis.",
@@ -112,7 +122,12 @@
                 ],
                 "origination": [
                     {
-                        "label": "Creator"
+                        "label": "Creator",
+                        "corpname": [
+                            {
+                                "value": "Research Institute for the Study of Man"
+                            }
+                        ]
                     }
                 ],
                 "physdesc": [
@@ -136,7 +151,9 @@
                 "repository": [
                     {
                         "corpname": [
-                            "New York University Archives"
+                            {
+                                "value": "New York University Archives"
+                            }
                         ]
                     }
                 ],
