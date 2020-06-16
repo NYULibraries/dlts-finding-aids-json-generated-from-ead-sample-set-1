@@ -140,6 +140,25 @@
         ],
         "did": [
             {
+                "physdesc": [
+                    {
+                        "extent": [
+                            {
+                                "value": "30.75 Linear Feet"
+                            },
+                            {
+                                "value": "in 27 record cartons, 2 oversize flat boxes, 1 manuscript box, and 1 half manuscript box"
+                            }
+                        ]
+                    },
+                    {
+                        "extent": [
+                            {
+                                "value": "1 websites"
+                            }
+                        ]
+                    }
+                ],
                 "abstract": [
                     {
                         "value": "Camp Kinderland was founded on Sylvan Lake in Hopewell Junction, NY in 1923 by members of the Workmen's Circle who worked in the organization's New York City schools. The camp's founders sought to create a summer youth camp that would not only provide a recreational escape for the children of working people from the tenements of New York City, but also one whose culture would encourage and foster a commitment to socially progressive activism and the embracing of a rich Jewish secular tradition. The camp's founders, including some activists in the Communist Party, were associated with the left wing of the Workermen's Circle. From 1930 the Camp operated under the auspices of a branch of the International Workers order. In the 1950s, under the pressure of New York State \"anti-subversive\" investigations, it was incorporated independently. The collection contains administrative records (including legal and financial records, property and maintenance files, registration and membership records), files relating to Camp Kinderland's cultural programs both in and out of season, publicity materials, oral histories, and photographic and audiovisual materials.",
@@ -183,25 +202,6 @@
                             {
                                 "role": "dnr",
                                 "value": "Itzkowitz, Fay"
-                            }
-                        ]
-                    }
-                ],
-                "physdesc": [
-                    {
-                        "extent": [
-                            {
-                                "value": "30.75 Linear Feet"
-                            },
-                            {
-                                "value": "in 27 record cartons, 2 oversize flat boxes, 1 manuscript box, and 1 half manuscript box"
-                            }
-                        ]
-                    },
-                    {
-                        "extent": [
-                            {
-                                "value": "1 websites"
                             }
                         ]
                     }
