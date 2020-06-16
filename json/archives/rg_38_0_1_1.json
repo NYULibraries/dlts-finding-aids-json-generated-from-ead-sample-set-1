@@ -119,6 +119,18 @@
         ],
         "did": [
             {
+                "physdesc": [
+                    {
+                        "extent": [
+                            {
+                                "value": "26 Linear Feet"
+                            },
+                            {
+                                "value": "in 26 record cartons."
+                            }
+                        ]
+                    }
+                ],
                 "abstract": [
                     {
                         "value": "This collection contains material associated with the administration of the Dean of Libraries, including materials related to research projects, events, and individual departments within New York University libraries.",
@@ -145,18 +157,6 @@
                         "corpname": [
                             {
                                 "value": "New York University. Libraries"
-                            }
-                        ]
-                    }
-                ],
-                "physdesc": [
-                    {
-                        "extent": [
-                            {
-                                "value": "26 Linear Feet"
-                            },
-                            {
-                                "value": "in 26 record cartons."
                             }
                         ]
                     }

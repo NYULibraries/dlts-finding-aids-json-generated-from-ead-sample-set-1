@@ -88,6 +88,15 @@
         ],
         "did": [
             {
+                "physdesc": [
+                    {
+                        "extent": [
+                            {
+                                "value": "238 websites"
+                            }
+                        ]
+                    }
+                ],
                 "abstract": [
                     {
                         "value": "This collection consists of a selection of websites produced and operated by contemporary\ncomposers for the promotion of their work and careers. \"Contemporary\" we define as living or,\nin a few cases, very recently deceased. \"Composers\" we define as creative musicians who are\nworking within, are descending from, or are in some significant way connected to the Western\ntraditions of concert music; this includes composers who produce notated scores plus those\nwhose work embraces improvisation, collaborative composition, and other post-modern/post-\nclassical creative practices. The curatorial emphasis is on young, emerging American composers.\nTheir sites typically include biographical data, calendars of performances, catalogs of scores and\nrecordings, and embedded audio and video. Capture of the sites began in 2014 and is ongoing.",
@@ -107,15 +116,6 @@
                             {
                                 "role": "col",
                                 "value": "New York University Archives"
-                            }
-                        ]
-                    }
-                ],
-                "physdesc": [
-                    {
-                        "extent": [
-                            {
-                                "value": "238 websites"
                             }
                         ]
                     }
@@ -13655,16 +13655,6 @@
                         ],
                         "did": [
                             {
-                                "origination": [
-                                    {
-                                        "label": "Creator",
-                                        "persname": [
-                                            {
-                                                "value": "Roussel, Patrice, 1956-"
-                                            }
-                                        ]
-                                    }
-                                ],
                                 "physdesc": [
                                     {
                                         "extent": [
@@ -13673,6 +13663,16 @@
                                             },
                                             {
                                                 "value": "in 1 archived website"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "origination": [
+                                    {
+                                        "label": "Creator",
+                                        "persname": [
+                                            {
+                                                "value": "Roussel, Patrice, 1956-"
                                             }
                                         ]
                                     }
@@ -16968,16 +16968,6 @@
                         ],
                         "did": [
                             {
-                                "origination": [
-                                    {
-                                        "label": "source",
-                                        "corpname": [
-                                            {
-                                                "value": "Wadada Leo Smith's Golden Quartet"
-                                            }
-                                        ]
-                                    }
-                                ],
                                 "physdesc": [
                                     {
                                         "extent": [
@@ -16986,6 +16976,16 @@
                                             },
                                             {
                                                 "value": "in 1 archived website."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "origination": [
+                                    {
+                                        "label": "source",
+                                        "corpname": [
+                                            {
+                                                "value": "Wadada Leo Smith's Golden Quartet"
                                             }
                                         ]
                                     }

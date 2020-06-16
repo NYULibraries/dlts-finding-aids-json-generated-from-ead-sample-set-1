@@ -87,6 +87,18 @@
         ],
         "did": [
             {
+                "physdesc": [
+                    {
+                        "extent": [
+                            {
+                                "value": "0.5 Linear Feet"
+                            },
+                            {
+                                "value": "in 1 manuscript box"
+                            }
+                        ]
+                    }
+                ],
                 "abstract": [
                     {
                         "value": "This collection contains correspondence and questionnaires regarding life at the University Heights campus of New York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a popular figure at the school. John Quigley was an officer at the University Heights campus for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes, stories, and photographs from alumnus about Quigley in preparation for \u003cspan class=\"ead-emph ead-emph-italic\"\u003eForty Years of John the Cop\u003c/span\u003e, a book that celebrated Quigley's fortieth anniversary at the University Heights campus.",
@@ -105,18 +117,6 @@
                         "persname": [
                             {
                                 "value": "Rose, Oscar"
-                            }
-                        ]
-                    }
-                ],
-                "physdesc": [
-                    {
-                        "extent": [
-                            {
-                                "value": "0.5 Linear Feet"
-                            },
-                            {
-                                "value": "in 1 manuscript box"
                             }
                         ]
                     }

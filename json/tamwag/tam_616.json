@@ -206,36 +206,6 @@
         ],
         "did": [
             {
-                "abstract": [
-                    {
-                        "value": "Estela Bravo (1933- ) is an American-born documentary filmmaker who has been creating films on Cuba and Latin America with her husband Ernesto Bravo since the 1980s. Estela and Ernesto Bravo moved to Cuba in the early 1960s, and as a result many of Estela's films focus on political and cultural relations between the United States and Cuba. The collection contains over 1,300 video tapes and film reels recorded by Bravo throughout her career. In addition to full-length features and video footage, the collection contains a small amount of ephemera, correspondence, home movies, and documentation related to the promotion and licensing of Bravo's films. Footage in this collection consists of interviews with political leaders and celebrities; scenes of historical events, marches, demonstrations, and performances; battle footage; clips from Cuba's State Council archives; speeches by Fidel Castro, Nelson Mandela, and others; and background footage (b-roll) used in finished films. This footage is primarily recorded on U-matic and Betacam video tapes, and produced on film reels, VHS, and DVD for screening and distribution. This collection has been partially digitized, and only the digitized footage is currently accessible to researchers.",
-                        "id": "aspace_cc23d6d697b3ecd496f3796631a3e705"
-                    }
-                ],
-                "langmaterial": [
-                    {
-                        "id": "aspace_45b7749235ff95c7e8c371fb2e5759fb",
-                        "value": "Materials are in Spanish and English."
-                    }
-                ],
-                "origination": [
-                    {
-                        "label": "Creator",
-                        "persname": [
-                            {
-                                "value": "Bravo, Estela"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Creator",
-                        "persname": [
-                            {
-                                "value": "Bravo, Ernesto"
-                            }
-                        ]
-                    }
-                ],
                 "physdesc": [
                     {
                         "extent": [
@@ -271,6 +241,36 @@
                             },
                             {
                                 "value": "in 82 digital video files and on 16 DVDs."
+                            }
+                        ]
+                    }
+                ],
+                "abstract": [
+                    {
+                        "value": "Estela Bravo (1933- ) is an American-born documentary filmmaker who has been creating films on Cuba and Latin America with her husband Ernesto Bravo since the 1980s. Estela and Ernesto Bravo moved to Cuba in the early 1960s, and as a result many of Estela's films focus on political and cultural relations between the United States and Cuba. The collection contains over 1,300 video tapes and film reels recorded by Bravo throughout her career. In addition to full-length features and video footage, the collection contains a small amount of ephemera, correspondence, home movies, and documentation related to the promotion and licensing of Bravo's films. Footage in this collection consists of interviews with political leaders and celebrities; scenes of historical events, marches, demonstrations, and performances; battle footage; clips from Cuba's State Council archives; speeches by Fidel Castro, Nelson Mandela, and others; and background footage (b-roll) used in finished films. This footage is primarily recorded on U-matic and Betacam video tapes, and produced on film reels, VHS, and DVD for screening and distribution. This collection has been partially digitized, and only the digitized footage is currently accessible to researchers.",
+                        "id": "aspace_cc23d6d697b3ecd496f3796631a3e705"
+                    }
+                ],
+                "langmaterial": [
+                    {
+                        "id": "aspace_45b7749235ff95c7e8c371fb2e5759fb",
+                        "value": "Materials are in Spanish and English."
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            {
+                                "value": "Bravo, Estela"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            {
+                                "value": "Bravo, Ernesto"
                             }
                         ]
                     }
