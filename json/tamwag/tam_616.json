@@ -43045,7 +43045,36 @@
                     "publicationstmt": [
                         {
                             "address": [
-                                {}
+                                {
+                                    "addressline": [
+                                        {
+                                            "value": "Elmer Holmes Bobst Library"
+                                        },
+                                        {
+                                            "value": "70 Washington Square South"
+                                        },
+                                        {
+                                            "value": "2nd Floor"
+                                        },
+                                        {
+                                            "value": "New York, NY 10012"
+                                        },
+                                        {
+                                            "value": "special.collections@nyu.edu"
+                                        },
+                                        {
+                                            "extptr": [
+                                                {
+                                                    "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                                    "show": "new",
+                                                    "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                                    "type": "simple"
+                                                }
+                                            ],
+                                            "value": "URL: "
+                                        }
+                                    ]
+                                }
                             ],
                             "publisher": "Tamiment Library and Robert F. Wagner Labor Archives"
                         }
