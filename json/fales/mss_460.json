@@ -126,28 +126,6 @@
         ],
         "did": [
             {
-                "abstract": [
-                    {
-                        "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by Adele Fournet between 2015 and 2016.  The project sought to highlight the work of women creating electronic music and to disseminate their work.  The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings created by Fournet and the website, bitrosie.com, on which the recordings were posted.  The recordings include full-length and edited interviews with and performances by 11 of the 12 female music producers and groups featured on bitrosie.com.  The Bit Rosie website includes the edited interviews and video recordings of performances.  The interviews include discussions of the type of music the women create and produce, their creative influences and processes, and their feelings about being women in a male-dominated field.",
-                        "id": "aspace_e16017cf31ee2d9861e09db9ad99c5d2"
-                    }
-                ],
-                "langmaterial": [
-                    {
-                        "id": "aspace_fe5ce4370688e24cd86239e16252d807",
-                        "value": "Materials primarily in English, with six video recordings in Spanish and nine video recordings in German."
-                    }
-                ],
-                "origination": [
-                    {
-                        "label": "Creator",
-                        "persname": [
-                            {
-                                "value": "Fournet, Adele"
-                            }
-                        ]
-                    }
-                ],
                 "physdesc": [
                     {
                         "extent": [
@@ -176,6 +154,28 @@
                             },
                             {
                                 "value": "in 1 archived website."
+                            }
+                        ]
+                    }
+                ],
+                "abstract": [
+                    {
+                        "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by Adele Fournet between 2015 and 2016.  The project sought to highlight the work of women creating electronic music and to disseminate their work.  The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings created by Fournet and the website, bitrosie.com, on which the recordings were posted.  The recordings include full-length and edited interviews with and performances by 11 of the 12 female music producers and groups featured on bitrosie.com.  The Bit Rosie website includes the edited interviews and video recordings of performances.  The interviews include discussions of the type of music the women create and produce, their creative influences and processes, and their feelings about being women in a male-dominated field.",
+                        "id": "aspace_e16017cf31ee2d9861e09db9ad99c5d2"
+                    }
+                ],
+                "langmaterial": [
+                    {
+                        "id": "aspace_fe5ce4370688e24cd86239e16252d807",
+                        "value": "Materials primarily in English, with six video recordings in Spanish and nine video recordings in German."
+                    }
+                ],
+                "origination": [
+                    {
+                        "label": "Creator",
+                        "persname": [
+                            {
+                                "value": "Fournet, Adele"
                             }
                         ]
                     }

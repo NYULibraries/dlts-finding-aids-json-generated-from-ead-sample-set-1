@@ -102,6 +102,18 @@
         ],
         "did": [
             {
+                "physdesc": [
+                    {
+                        "extent": [
+                            {
+                                "value": "30.5 Linear Feet"
+                            },
+                            {
+                                "value": "in 43 boxes"
+                            }
+                        ]
+                    }
+                ],
                 "abstract": [
                     {
                         "value": "The Study of Chronic Marihuana Users in Jamaica (The Ganja Project) is a collection of materials relating to an anthropological and medical study of the long-term effects of cannabis smoking. It was commissioned by the National Institute of Mental Health in 1970 and conducted by the Research Institute for the Study of Man, in collaboration with the University of the West Indies, between 1970 and 1972. Materials include human subject data, background research on the physiological and psychological effects of cannabis use, the legal issues surrounding research involving controlled substances, and published materials relating to the study.",
@@ -126,18 +138,6 @@
                         "corpname": [
                             {
                                 "value": "Research Institute for the Study of Man"
-                            }
-                        ]
-                    }
-                ],
-                "physdesc": [
-                    {
-                        "extent": [
-                            {
-                                "value": "30.5 Linear Feet"
-                            },
-                            {
-                                "value": "in 43 boxes"
                             }
                         ]
                     }
