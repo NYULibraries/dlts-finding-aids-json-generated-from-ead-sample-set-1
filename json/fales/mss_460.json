@@ -2117,6 +2117,11 @@
             ],
             "filedesc": [
                 {
+                    "editionstmt": [
+                        {
+                            "value": "\u003cspan class=\"ead-p\"\u003eThis is an editionstmt, it was added for testing purposes.\u003c/span\u003e"
+                        }
+                    ],
                     "publicationstmt": [
                         {
                             "address": [
