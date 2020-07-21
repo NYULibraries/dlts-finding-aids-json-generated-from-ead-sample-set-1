@@ -101,6 +101,15 @@
                         "id": "aspace_812c814cb437c396cc59b07bdc042596"
                     }
                 ],
+                "container": [
+                    {
+                        "altrender": "Box - 10 x 12",
+                        "id": "aspace_fe33b5160d408c86ca37842e8f6d9fea",
+                        "label": "photographs [31142063269008]",
+                        "type": "box",
+                        "value": "1"
+                    }
+                ],
                 "langmaterial": [
                     {
                         "id": "aspace_ac9287cf9e42b50bcf165050d4c0839f",
