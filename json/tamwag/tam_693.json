@@ -98,6 +98,22 @@
                         "id": "aspace_d77ecd460a3b602f799b26e2c7728b30"
                     }
                 ],
+                "container": [
+                    {
+                        "altrender": "Manuscript box - Legal",
+                        "id": "aspace_99c7971b44e213d4c5818a65e49dd9aa",
+                        "label": "Mixed Materials [31142063292638]",
+                        "type": "Box",
+                        "value": "1"
+                    },
+                    {
+                        "altrender": "Manuscript box - Legal - Half",
+                        "id": "aspace_781dffbe095c7a144d6636b9bde385dc",
+                        "label": "Mixed Materials [31142063292620]",
+                        "type": "Box",
+                        "value": "2"
+                    }
+                ],
                 "langmaterial": [
                     {
                         "id": "aspace_e573226da18182e5654cab42754e2303",

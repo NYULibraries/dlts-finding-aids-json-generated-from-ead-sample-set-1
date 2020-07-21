@@ -163,6 +163,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_d929e9bdeb51a3f44e77706beb7d230b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_8b8824698eb834a464c1b1c2799a51e6",
+                                        "parent": "aspace_d929e9bdeb51a3f44e77706beb7d230b",
+                                        "type": "folder",
+                                        "value": "1"
+                                    }
+                                ],
                                 "langmaterial": [
                                     {
                                         "language": [
@@ -193,6 +208,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_56219fe580e4c9d4de953a73f3911853",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_2d9f1080ec623aa548e83d3edf27abfa",
+                                        "parent": "aspace_56219fe580e4c9d4de953a73f3911853",
+                                        "type": "folder",
+                                        "value": "2"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 20, 1943"
@@ -211,6 +241,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_beeccdd5823849fac838216c5c8a78c4",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_3294f418188859c8a17ace92781997a8",
+                                        "parent": "aspace_beeccdd5823849fac838216c5c8a78c4",
+                                        "type": "folder",
+                                        "value": "3"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -229,6 +274,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_3424816c01b9330bcb65b10f29053ddd",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_d274694f8f7144073efcf6871846438d",
+                                        "parent": "aspace_3424816c01b9330bcb65b10f29053ddd",
+                                        "type": "folder",
+                                        "value": "4"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 16, 1935"
@@ -247,6 +307,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_2c8088d3f91bc279dfe33b1175af751d",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_b41d9dd5db1c59db4e2e729a86d2336c",
+                                        "parent": "aspace_2c8088d3f91bc279dfe33b1175af751d",
+                                        "type": "folder",
+                                        "value": "5"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 12, 1935"
@@ -265,6 +340,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_36313100d22270c13f43003f87228f2d",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_32622378f21cc8e78c6c5eb7c29c77f2",
+                                        "parent": "aspace_36313100d22270c13f43003f87228f2d",
+                                        "type": "folder",
+                                        "value": "6"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 26, 1935"
@@ -283,6 +373,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_ca73a674204a7eb03581bd5288680e62",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_2ff6ea188311e2e8e17f7bcad575d41d",
+                                        "parent": "aspace_ca73a674204a7eb03581bd5288680e62",
+                                        "type": "folder",
+                                        "value": "7"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "October 4, 1935"
@@ -301,6 +406,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_bdda4c9c258e238d221bf23d0f236717",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_7644716334d1edb8ff51ea28715a28c2",
+                                        "parent": "aspace_bdda4c9c258e238d221bf23d0f236717",
+                                        "type": "folder",
+                                        "value": "8"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "April 22, 1935"
@@ -319,6 +439,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c5b7184b9e012f5e46b3d7289ee98ab1",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_e5d54a2733fe8bf6d507fcbb1500fcfc",
+                                        "parent": "aspace_c5b7184b9e012f5e46b3d7289ee98ab1",
+                                        "type": "folder",
+                                        "value": "9"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 7, 1935"
@@ -337,6 +472,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_7a82ed10676419217cce368560d5fb29",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_6bdb78513cb50a5dc9a6243fee9c3a84",
+                                        "parent": "aspace_7a82ed10676419217cce368560d5fb29",
+                                        "type": "folder",
+                                        "value": "10"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -355,6 +505,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_fb5d13f0ededa47056fe5289b03187c4",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_e9c62f30b63995cbaaf8ed4d2abe7901",
+                                        "parent": "aspace_fb5d13f0ededa47056fe5289b03187c4",
+                                        "type": "folder",
+                                        "value": "11"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 7, 1935"
@@ -373,6 +538,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_b5dee3a00be9772db2e2cf48dc1dbaf3",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_59b0c56d0fc484fbda5c6c3d95cca818",
+                                        "parent": "aspace_b5dee3a00be9772db2e2cf48dc1dbaf3",
+                                        "type": "folder",
+                                        "value": "12"
+                                    }
+                                ],
                                 "langmaterial": [
                                     {
                                         "language": [
@@ -403,6 +583,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_45146f6e407a205163941e0b882ff07d",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_b1e9b7a6e44070fa6da99e10cb82692e",
+                                        "parent": "aspace_45146f6e407a205163941e0b882ff07d",
+                                        "type": "folder",
+                                        "value": "13"
+                                    }
+                                ],
                                 "langmaterial": [
                                     {
                                         "language": [
@@ -433,6 +628,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_786cc7869c886ab9311b0fc4d95491d3",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_cc17bd4857a1d04a935181949e1e81ac",
+                                        "parent": "aspace_786cc7869c886ab9311b0fc4d95491d3",
+                                        "type": "folder",
+                                        "value": "14"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 6, 1935"
@@ -451,6 +661,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_454d6dbc0348583bbdbb05ed83be99cb",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_47155d414b435f3b8a3147ce6700adc7",
+                                        "parent": "aspace_454d6dbc0348583bbdbb05ed83be99cb",
+                                        "type": "folder",
+                                        "value": "15"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -469,6 +694,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_70bbd689ce73d79e22b423f876c5161b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_341dbcc7f5a9eafdbbef07870bbc458b",
+                                        "parent": "aspace_70bbd689ce73d79e22b423f876c5161b",
+                                        "type": "folder",
+                                        "value": "16"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -487,6 +727,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_1d03056f01b98855f651eae00a61270c",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_bf75d8a5c57245783740ef666bb235f7",
+                                        "parent": "aspace_1d03056f01b98855f651eae00a61270c",
+                                        "type": "folder",
+                                        "value": "17"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "January 21, 1935"
@@ -505,6 +760,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_f58dbd10aab3698b12c12a3645bcf4c5",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_f952601034b1a80e2d3686be23c088b7",
+                                        "parent": "aspace_f58dbd10aab3698b12c12a3645bcf4c5",
+                                        "type": "folder",
+                                        "value": "18"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 30, 1935"
@@ -523,6 +793,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_e5766d841849c2745f099155a765549a",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_3c5f9c91001cb6122ff9932d0c317b9d",
+                                        "parent": "aspace_e5766d841849c2745f099155a765549a",
+                                        "type": "folder",
+                                        "value": "19"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 30, 1935"
@@ -541,6 +826,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_f5db69e5632b683a43287cb588c1275f",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_cf3f9d0c146c4cb368a5c6838fb8f8b8",
+                                        "parent": "aspace_f5db69e5632b683a43287cb588c1275f",
+                                        "type": "folder",
+                                        "value": "20"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -559,6 +859,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_78da047370f91543ec4ba6e5b516f987",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_b3325ec9b8846f0229f1c3e9877b4e86",
+                                        "parent": "aspace_78da047370f91543ec4ba6e5b516f987",
+                                        "type": "folder",
+                                        "value": "21"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -577,6 +892,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_51a9c743bc1679b4b92dc2cc9bfa8a33",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_cd60f31b44f343163a5abc47a7f3ce31",
+                                        "parent": "aspace_51a9c743bc1679b4b92dc2cc9bfa8a33",
+                                        "type": "folder",
+                                        "value": "22"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -595,6 +925,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_61e4bc6c3a9c18203ed97975d2a246b5",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_590d21b49dfa9a749630077004f92eab",
+                                        "parent": "aspace_61e4bc6c3a9c18203ed97975d2a246b5",
+                                        "type": "folder",
+                                        "value": "23"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "May 5, 1936"
@@ -613,6 +958,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_9cfeb94e91deef72302242003688e867",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_d11191ce5107ac9b867dd2e52a9c1ec5",
+                                        "parent": "aspace_9cfeb94e91deef72302242003688e867",
+                                        "type": "folder",
+                                        "value": "24"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -631,6 +991,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_657f74dab92a58085f08e4e934935044",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_1419f9839c3412e8a69cba242df50471",
+                                        "parent": "aspace_657f74dab92a58085f08e4e934935044",
+                                        "type": "folder",
+                                        "value": "25"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -649,6 +1024,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_299c0fc9234f51cea7cf3eaf03d66a27",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_99b1006a9004ac5b2280707e31a38026",
+                                        "parent": "aspace_299c0fc9234f51cea7cf3eaf03d66a27",
+                                        "type": "folder",
+                                        "value": "26"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -667,6 +1057,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_e90bf816d8a162ee3b004ad39b6d160a",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_eb366d024d902ebc80871bfc8b39b19f",
+                                        "parent": "aspace_e90bf816d8a162ee3b004ad39b6d160a",
+                                        "type": "folder",
+                                        "value": "27"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -685,6 +1090,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_af899ba8d676f8598786fc9c54df935b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_efce8c95c080f89145c2175439f20023",
+                                        "parent": "aspace_af899ba8d676f8598786fc9c54df935b",
+                                        "type": "folder",
+                                        "value": "28"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -703,6 +1123,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_91c9fd93a4ffcc3cc50e9163f9839652",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_504e257b2e3363528bddf0a08db02b06",
+                                        "parent": "aspace_91c9fd93a4ffcc3cc50e9163f9839652",
+                                        "type": "folder",
+                                        "value": "29"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -721,6 +1156,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_87243aceffd4e10b4f6f8461d3955a68",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_053d7c82c41dea2c30c780dfbe6cc12f",
+                                        "parent": "aspace_87243aceffd4e10b4f6f8461d3955a68",
+                                        "type": "folder",
+                                        "value": "30"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 21, 1935"
@@ -739,6 +1189,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_10d59ba9d6a196ac7e8db4b082acadfa",
+                                        "label": "Microform [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_a94ba83e3904720c60e9c0bee5fb6a23",
+                                        "parent": "aspace_10d59ba9d6a196ac7e8db4b082acadfa",
+                                        "type": "folder",
+                                        "value": "31"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -757,6 +1222,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c6d9b009b8aa1a26ddc757495a61610d",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_a97db5d7eda0206f8365388e98adf0f1",
+                                        "parent": "aspace_c6d9b009b8aa1a26ddc757495a61610d",
+                                        "type": "folder",
+                                        "value": "36"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 11, 1935"
@@ -775,6 +1255,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_259ce7e714e7498c63997a3391322700",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_6c481b8b115072777e69c3c6ece188f4",
+                                        "parent": "aspace_259ce7e714e7498c63997a3391322700",
+                                        "type": "folder",
+                                        "value": "33"
+                                    }
+                                ],
                                 "langmaterial": [
                                     {
                                         "language": [
@@ -805,6 +1300,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c2379248bd7f344e6f892c0d933c419b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_6163e2eb90a692416c8193410fa9b0d0",
+                                        "parent": "aspace_c2379248bd7f344e6f892c0d933c419b",
+                                        "type": "folder",
+                                        "value": "34"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 11, 1935"
@@ -823,6 +1333,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_02adf894a7a173d3d46a3a7ea8305d32",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_286255488bb9afc8eb12d2ff3ef30266",
+                                        "parent": "aspace_02adf894a7a173d3d46a3a7ea8305d32",
+                                        "type": "folder",
+                                        "value": "35"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -841,6 +1366,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_83469228a5da9fd37771fe0a7bcc9f59",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_f1e85cd7c65904d2c3d1f37ba5e0ba2a",
+                                        "parent": "aspace_83469228a5da9fd37771fe0a7bcc9f59",
+                                        "type": "folder",
+                                        "value": "36"
+                                    }
+                                ],
                                 "langmaterial": [
                                     {
                                         "language": [
@@ -871,6 +1411,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_a66d78559ebbfd042cb39d7225f79d64",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_886cf1a5a147b6e3dfc5ec3248c91e40",
+                                        "parent": "aspace_a66d78559ebbfd042cb39d7225f79d64",
+                                        "type": "folder",
+                                        "value": "37"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 10, 1935"
@@ -889,6 +1444,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_7064d8f69d0974c41ce5111b7360961b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_9aa986ffa92c2533d09001eb4c02a431",
+                                        "parent": "aspace_7064d8f69d0974c41ce5111b7360961b",
+                                        "type": "folder",
+                                        "value": "38"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -907,6 +1477,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_abdb99b5596cc0216db49a69cc3151be",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_36ad8fa5786e8a6307fb6eddaf447f8a",
+                                        "parent": "aspace_abdb99b5596cc0216db49a69cc3151be",
+                                        "type": "folder",
+                                        "value": "39"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -925,6 +1510,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_451a5a72fbf151acc4cf2d97519564a3",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_16e45b08ed576e99d3894c8e465fa9a3",
+                                        "parent": "aspace_451a5a72fbf151acc4cf2d97519564a3",
+                                        "type": "folder",
+                                        "value": "40"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 15, 1935"
@@ -943,6 +1543,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c8f42aea72af0cb2c68a567463fc2161",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_a810ffde26aa303be919cd7ef9181f34",
+                                        "parent": "aspace_c8f42aea72af0cb2c68a567463fc2161",
+                                        "type": "folder",
+                                        "value": "41"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -961,6 +1576,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_374ea626612d4529871a249d903b0f70",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_ea3324372ac6aaa611c6391a1cf5ab17",
+                                        "parent": "aspace_374ea626612d4529871a249d903b0f70",
+                                        "type": "folder",
+                                        "value": "42"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -979,6 +1609,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_bb0ff64075f1c5c80751240d4a7a7d2b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_089d3eab4e47defdd374a3fe5fee7654",
+                                        "parent": "aspace_bb0ff64075f1c5c80751240d4a7a7d2b",
+                                        "type": "folder",
+                                        "value": "43"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -997,6 +1642,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c2bb15fac71119de116a0c4cce60793b",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_cfe4e67b60d66d1aec18db88522bf26f",
+                                        "parent": "aspace_c2bb15fac71119de116a0c4cce60793b",
+                                        "type": "folder",
+                                        "value": "44"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 17, 1935"
@@ -1015,6 +1675,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c92e480ebf6f9b1995ed096ac2ffa4d1",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_b5955d9a7197cb7707bc81412165890b",
+                                        "parent": "aspace_c92e480ebf6f9b1995ed096ac2ffa4d1",
+                                        "type": "folder",
+                                        "value": "45"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1033,6 +1708,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_2256f97836ddd229a6cf5e1026e82a82",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_777fc52dd95dc79e8a9ba5546bc589e9",
+                                        "parent": "aspace_2256f97836ddd229a6cf5e1026e82a82",
+                                        "type": "folder",
+                                        "value": "46"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1051,6 +1741,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_1250b21db1800afd2f04f886bc38e0c0",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_1665f1d59615ff2f3bda461d4e510449",
+                                        "parent": "aspace_1250b21db1800afd2f04f886bc38e0c0",
+                                        "type": "folder",
+                                        "value": "47"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1069,6 +1774,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_a33f477cc61a2808b23cf05c04c188be",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_7c504f2a26f7c54ff633b1f54b7de43c",
+                                        "parent": "aspace_a33f477cc61a2808b23cf05c04c188be",
+                                        "type": "folder",
+                                        "value": "48"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1087,6 +1807,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_a3ee57ae4ba4e1a9f1495b0c674613d8",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_da884fdd81d9f03eafcfaa8c47e80159",
+                                        "parent": "aspace_a3ee57ae4ba4e1a9f1495b0c674613d8",
+                                        "type": "folder",
+                                        "value": "49"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1105,6 +1840,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_1c920e2ad34b05987cd6c23bc11d5da5",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_a77860f895b9c6355b69563a0dd3c316",
+                                        "parent": "aspace_1c920e2ad34b05987cd6c23bc11d5da5",
+                                        "type": "folder",
+                                        "value": "50"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "August 21, 1935"
@@ -1123,6 +1873,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_2b08f238711ce87076e9d3d36263151f",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_c1a66c3bca15da701d455fff9ac973a9",
+                                        "parent": "aspace_2b08f238711ce87076e9d3d36263151f",
+                                        "type": "folder",
+                                        "value": "51"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1141,6 +1906,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_e8d67c303362dfcf49bf0ea35f3141a8",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_d70778822dc8ecce8da5e29db509b3c2",
+                                        "parent": "aspace_e8d67c303362dfcf49bf0ea35f3141a8",
+                                        "type": "folder",
+                                        "value": "52"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1159,6 +1939,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_23f3327afbb23f1596d1063069e7b53e",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_99a02b0432772b3f9690dda4c0e6ea53",
+                                        "parent": "aspace_23f3327afbb23f1596d1063069e7b53e",
+                                        "type": "folder",
+                                        "value": "53"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1177,6 +1972,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_addc969a105d2c67faa0e2dfc64e2ce0",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_7e7ceb572cfadab8af34c907d9a404af",
+                                        "parent": "aspace_addc969a105d2c67faa0e2dfc64e2ce0",
+                                        "type": "folder",
+                                        "value": "54"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1195,6 +2005,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_bb671e2511f43f2dfb5659f36503760f",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_d1badae38a157743fba295c80bead77e",
+                                        "parent": "aspace_bb671e2511f43f2dfb5659f36503760f",
+                                        "type": "folder",
+                                        "value": "55"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1213,6 +2038,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_15ed78bfefcaf5d0453585b8b0a29890",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_50eba077748f6e57619abbb532a654fe",
+                                        "parent": "aspace_15ed78bfefcaf5d0453585b8b0a29890",
+                                        "type": "folder",
+                                        "value": "56"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1231,6 +2071,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_14751db65ae3ddd7ee4f45b66a72d346",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_07a107226dc7b988b709fa5ffd020ea3",
+                                        "parent": "aspace_14751db65ae3ddd7ee4f45b66a72d346",
+                                        "type": "folder",
+                                        "value": "57"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 11, 1935"
@@ -1249,6 +2104,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_71a070ef26a7a5be4fe0ff13c243cac7",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_334d7cfd502be89a3a4724107a1f573e",
+                                        "parent": "aspace_71a070ef26a7a5be4fe0ff13c243cac7",
+                                        "type": "folder",
+                                        "value": "58"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1267,6 +2137,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_7d77260b6742c26325d99ffd9f3a0e36",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_2aeae63e83c29b176d59160f490f24f1",
+                                        "parent": "aspace_7d77260b6742c26325d99ffd9f3a0e36",
+                                        "type": "folder",
+                                        "value": "59"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 6, 1935"
@@ -1285,6 +2170,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_8380887beffcdc9fca8f409e6526de57",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_105ed19f7eca1f94512f723a8afa6331",
+                                        "parent": "aspace_8380887beffcdc9fca8f409e6526de57",
+                                        "type": "folder",
+                                        "value": "60"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 18, 1935"
@@ -1303,6 +2203,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_9110e04f08c7b540440a3aaed76340f1",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_715e8b922c13a3048644369267c7a161",
+                                        "parent": "aspace_9110e04f08c7b540440a3aaed76340f1",
+                                        "type": "folder",
+                                        "value": "61"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1321,6 +2236,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_6bf1ccd5940ddfae1ab61837cd7de8b2",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_bf67afd35587bf7195dd23688e2313cb",
+                                        "parent": "aspace_6bf1ccd5940ddfae1ab61837cd7de8b2",
+                                        "type": "folder",
+                                        "value": "62"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1339,6 +2269,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_c9f993c09e84611029ea8d6627330200",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_15bdd1db94a69457727ad70c36798ca1",
+                                        "parent": "aspace_c9f993c09e84611029ea8d6627330200",
+                                        "type": "folder",
+                                        "value": "63"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 11, 1935"
@@ -1357,6 +2302,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_f5c3f597af24d9dcb42910d30df693aa",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_de7e87d78a96b85f517ae5af9d6ff475",
+                                        "parent": "aspace_f5c3f597af24d9dcb42910d30df693aa",
+                                        "type": "folder",
+                                        "value": "64"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1375,6 +2335,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_66f72d8ea45923aba237a9008244bf4a",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_39cf73111477c7999097e89a92509ce3",
+                                        "parent": "aspace_66f72d8ea45923aba237a9008244bf4a",
+                                        "type": "folder",
+                                        "value": "65"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "July 10, 1935"
@@ -1393,6 +2368,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_dcceeb292c124c04a88e2ca152df0999",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_0d6004512a259860da7caf4abca0381f",
+                                        "parent": "aspace_dcceeb292c124c04a88e2ca152df0999",
+                                        "type": "folder",
+                                        "value": "66"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "February 15, 1935"
@@ -1411,6 +2401,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_cd6754ada8cc803bed638c76cd6ebc27",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_634eb39fe21cff2a1cf889a9d8abf9b9",
+                                        "parent": "aspace_cd6754ada8cc803bed638c76cd6ebc27",
+                                        "type": "folder",
+                                        "value": "67"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "January 11, 1938"
@@ -1429,6 +2434,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_df78e7f39075c12ebb2cfb35023fd2e5",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_4ff64c4ea227aaf4fd929e3029532544",
+                                        "parent": "aspace_df78e7f39075c12ebb2cfb35023fd2e5",
+                                        "type": "folder",
+                                        "value": "68"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "August 27, 1937"
@@ -1447,6 +2467,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_3e9c44a756e1433c65c106816b0be48c",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_baedacb3446c9421ec8df574d37514de",
+                                        "parent": "aspace_3e9c44a756e1433c65c106816b0be48c",
+                                        "type": "folder",
+                                        "value": "69"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "January 6, 1933"
@@ -1465,6 +2500,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_02206e4426be5696207a54d6757041a0",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_2a5a18743f7ecc8d44e8a43bdec98562",
+                                        "parent": "aspace_02206e4426be5696207a54d6757041a0",
+                                        "type": "folder",
+                                        "value": "70"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "March 28, 1935"
@@ -1483,6 +2533,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_bea30f2e35f501188fc53328105b75cb",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_215273e7448d3845ca286ac912d9dde2",
+                                        "parent": "aspace_bea30f2e35f501188fc53328105b75cb",
+                                        "type": "folder",
+                                        "value": "71"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 6, 1935"
@@ -1501,6 +2566,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_a4d8e891dd50944c317ad327f52ca4c0",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_3a1b36864d360d32e887f68876ed50d5",
+                                        "parent": "aspace_a4d8e891dd50944c317ad327f52ca4c0",
+                                        "type": "folder",
+                                        "value": "72"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "c. 1935"
@@ -1519,6 +2599,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_dcf9f098dacf7f0c1e18004b7c261de9",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_5ae962ab6d384096293dfe7324b671d2",
+                                        "parent": "aspace_dcf9f098dacf7f0c1e18004b7c261de9",
+                                        "type": "folder",
+                                        "value": "73"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "June 3, 1935"
@@ -1537,6 +2632,21 @@
                         "level": "file",
                         "did": [
                             {
+                                "container": [
+                                    {
+                                        "altrender": "Manuscript box - Legal",
+                                        "id": "aspace_a298c8812c5c8c91ebe6afce8b035ba7",
+                                        "label": "Mixed Materials [31142063004140]",
+                                        "type": "box",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "id": "aspace_873284eb9b667c951991c2b1539ea06e",
+                                        "parent": "aspace_a298c8812c5c8c91ebe6afce8b035ba7",
+                                        "type": "folder",
+                                        "value": "74"
+                                    }
+                                ],
                                 "unitdate": [
                                     {
                                         "value": "October 16, 1935"
