@@ -103,9 +103,10 @@
                 ],
                 "container": [
                     {
+                        "barcode": "31142063269008",
+                        "label": "photographs",
                         "altrender": "Box - 10 x 12",
                         "id": "aspace_fe33b5160d408c86ca37842e8f6d9fea",
-                        "label": "photographs [31142063269008]",
                         "type": "box",
                         "value": "1"
                     }
