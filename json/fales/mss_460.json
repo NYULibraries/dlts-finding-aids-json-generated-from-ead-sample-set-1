@@ -251,6 +251,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/s7h44pwg",
+                                                            "role": "video-service",
+                                                            "show": "embed",
+                                                            "title": "Klara Andersson -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Klara Andersson -- Edited interview"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -287,6 +307,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/bzkh1f4x",
+                                                            "role": "video-service",
+                                                            "show": "embed",
+                                                            "title": "Klara Andersson -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Klara Andersson -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -344,6 +384,24 @@
                                 ],
                                 "did": [
                                     {
+                                        "dao": [
+                                            [
+                                                {
+                                                    "actuate": "onRequest",
+                                                    "href": "https://wayback.archive-it.org/7872/*/http://www.bitrosie.com",
+                                                    "show": "new",
+                                                    "title": "Archived Bit Rosie Website",
+                                                    "type": "simple",
+                                                    "daodesc": {
+                                                        "p": [
+                                                            {
+                                                                "value": "Archived Bit Rosie Website: 2017-ongoing"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        ],
                                         "unitdate": [
                                             {
                                                 "normal": "2017/2017",
@@ -414,6 +472,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/ngf1vpdf",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Orieta Chrem -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Orieta Chrem -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -465,6 +543,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Chrem, Orieta -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Chrem, Orieta -- Full-length interview: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -500,6 +597,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/79cnpb82",
+                                                            "role": "video-service",
+                                                            "show": "embed",
+                                                            "title": "Orieta Chrem -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Orieta Chrem -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -573,6 +690,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/hqbzknvr",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Julie Covello -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Covello -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -624,6 +761,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Julie Covello -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Covello -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -659,6 +815,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/3j9kd9sz",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Julie Covello -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Covello -- Performance: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -713,6 +889,24 @@
                                                     }
                                                 ]
                                             }
+                                        ],
+                                        "dao": [
+                                            [
+                                                {
+                                                    "actuate": "onRequest",
+                                                    "href": "FA_MSS_460_ER_9",
+                                                    "show": "new",
+                                                    "title": "Inventories",
+                                                    "type": "simple",
+                                                    "daodesc": {
+                                                        "p": [
+                                                            {
+                                                                "value": "Inventories: 2016-"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
                                         ],
                                         "unitdate": [
                                             {
@@ -769,6 +963,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/cz8w9n9c",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Friederike Jäger -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Friederike Jäger -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -820,6 +1034,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Friederike Jäger -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Friederike Jäger -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -855,6 +1088,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/zs7h49g8",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Friederike Jäger -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Friederike Jäger -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -928,6 +1181,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/866t1mt9",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Julie Kathryn -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Kathryn -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -979,6 +1252,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Julie Kathryn -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Kathryn -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1014,6 +1306,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/v15dv8zt",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Julie Kathryn -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Julie Kathryn -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1087,6 +1399,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/4j0zpj13",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Minami Kato -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Minami Kato -- Edited interview: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2015/2015",
@@ -1138,6 +1470,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Minami Kato -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Minami Kato -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2015/2015",
@@ -1173,6 +1524,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/q83bk8df",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Minami Kato -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Minami Kato -- Performance: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1246,6 +1617,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/0rxwdhjx",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "K. Marie Kim -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "K. Marie Kim -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1297,6 +1688,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "K. Marie Kim -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "K. Marie Kim -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1332,6 +1742,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/kh1897w3",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "K. Marie Kim -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "K. Marie Kim -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1405,6 +1835,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/w0vt4h61",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Dion McKenzie -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Dion McKenzie -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1456,6 +1906,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Dion McKenzie  -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Dion McKenzie  -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1491,6 +1960,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/fqz617d4",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Dion McKenzie -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Dion McKenzie -- Performance: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1565,6 +2054,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/r7sqvgpj",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Franziska Plückhan -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Franziska Plückhan -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1616,6 +2125,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Franziska Plückhan -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Franziska Plückhan -- Full-length interview: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1651,6 +2179,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/b2rbp4j8",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Franziska Plückhan -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Franziska Plückhan -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1724,6 +2272,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/mgqnkg5d",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Pauchi Sasaki -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Pauchi Sasaki -- Edited interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1775,6 +2343,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Pauchi Sasaki -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Pauchi Sasaki -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2016/2016",
@@ -1810,6 +2397,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/69p8d42c",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Pauchi Sasaki -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Pauchi Sasaki -- Performance: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
@@ -1883,6 +2490,26 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/gqnk9fmt",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Gisela Fullá Silvestre -- Edited interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Gisela Fullá Silvestre -- Edited interview: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2015/2015",
@@ -1934,6 +2561,25 @@
                                                         ]
                                                     }
                                                 ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                            "show": "new",
+                                                            "title": "Gisela Fullá Silvestre -- Full-length interview",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Gisela Fullá Silvestre -- Full-length interview: 2016-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                ],
                                                 "unitdate": [
                                                     {
                                                         "normal": "2015/2015",
@@ -1969,6 +2615,26 @@
                                                             }
                                                         ]
                                                     }
+                                                ],
+                                                "dao": [
+                                                    [
+                                                        {
+                                                            "actuate": "onRequest",
+                                                            "audience": "external",
+                                                            "href": "http://hdl.handle.net/2333.1/2jm643j1",
+                                                            "role": "video-service",
+                                                            "show": "new",
+                                                            "title": "Gisela Fullá Silvestre -- Performance",
+                                                            "type": "simple",
+                                                            "daodesc": {
+                                                                "p": [
+                                                                    {
+                                                                        "value": "Gisela Fullá Silvestre -- Performance: 2015-"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
                                                 ],
                                                 "unitdate": [
                                                     {
