@@ -63063,7 +63063,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "RG9-8_ref4426",
+                                                        "href": "http://hdl.handle.net/2333.1/cfxpp2cb",
+                                                        "role": "image-service",
                                                         "show": "new",
                                                         "title": "Teach-In, reel 1",
                                                         "type": "simple",
@@ -67021,7 +67022,7 @@
                 ],
                 "p": [
                     {
-                        "value": "The \u003cspan class=\"ead-i\"\u003eSoul of Reason\u003c/span\u003e audio recordings in Series IV.A. have been digitized and are available to stream via the finding aid."
+                        "value": "The Soul of Reason audio recordings in Series IV.A. have been digitized and are available to stream via the finding aid."
                     },
                     {
                         "value": "Audiovisual materials that have not been preserved are not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact university-archives@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information."

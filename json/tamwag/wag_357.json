@@ -167,7 +167,8 @@
                                     {
                                         "actuate": "onLoad",
                                         "audience": "external",
-                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value= http://dlib.nyu.edu/findingaids/ead/tamwag/wag_357.xml\u0026view=xml",
+                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/tamwag/wag_357.xml\u0026view=xml",
+                                        "role": "service",
                                         "show": "new",
                                         "title": "PDF Files",
                                         "type": "simple",
