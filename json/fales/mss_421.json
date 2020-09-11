@@ -412,7 +412,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_4",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Email and correspondence",
                                                         "type": "simple",
@@ -512,7 +513,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_5",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Email",
                                                         "type": "simple",
@@ -597,7 +599,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_6",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Email",
                                                         "type": "simple",
@@ -687,7 +690,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_7",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Email and correspondence",
                                                         "type": "simple",
@@ -2023,7 +2027,8 @@
                                         "dao": [
                                             {
                                                 "actuate": "onRequest",
-                                                "href": "FA_MSS_421_ER_1",
+                                                "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                "role": "service",
                                                 "show": "new",
                                                 "title": "Photographs",
                                                 "type": "simple",
@@ -2900,7 +2905,8 @@
                                         "dao": [
                                             {
                                                 "actuate": "onRequest",
-                                                "href": "FA_MSS_421_ER_2",
+                                                "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                "role": "service",
                                                 "show": "new",
                                                 "title": "Email",
                                                 "type": "simple",
@@ -4033,7 +4039,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_8",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "General",
                                                         "type": "simple",
@@ -4547,7 +4554,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_9",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Cochrane, Michelle",
                                                         "type": "simple",
@@ -4940,7 +4948,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_10",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Farber, Celia",
                                                         "type": "simple",
@@ -5487,7 +5496,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_11",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Lister, Ardele",
                                                         "type": "simple",
@@ -6072,7 +6082,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_12",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Sex Panic!",
                                                         "type": "simple",
@@ -6202,7 +6213,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_13",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Sonnabend, Joseph",
                                                         "type": "simple",
@@ -6492,7 +6504,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_16",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"AIDS: Return of the Sex Police\"",
                                                         "type": "simple",
@@ -6614,7 +6627,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_15",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"A Brief History of AIDS Dogma\"",
                                                         "type": "simple",
@@ -6666,7 +6680,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_27",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"The Co-factor Factor\"",
                                                         "type": "simple",
@@ -6702,7 +6717,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_14",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Crixivan Study and Arrest in Philadelphia",
                                                         "type": "simple",
@@ -6802,7 +6818,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_17",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"Heterosexual Men and AIDS\"",
                                                         "type": "simple",
@@ -7011,7 +7028,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_18",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\u003cemph render=\"italic\"\u003eLittle Sissy\u003c/emph\u003e",
                                                         "type": "simple",
@@ -7081,7 +7099,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_28",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"The Night Larry Kramer Dissed Me\"",
                                                         "type": "simple",
@@ -7116,7 +7135,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_19",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "Notes",
                                                         "type": "simple",
@@ -7182,7 +7202,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_29",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"The Original Safe Sex Slut's Guide to Healthy Living\"",
                                                         "type": "simple",
@@ -7234,7 +7255,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_30",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"The Other Epidemic\"",
                                                         "type": "simple",
@@ -7269,7 +7291,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_21",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\u003cemph render=\"italic\"\u003ePOZ\u003c/emph\u003e biography",
                                                         "type": "simple",
@@ -7374,7 +7397,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_22",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"S+M: Sons and Mothers\"",
                                                         "type": "simple",
@@ -7425,7 +7449,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_23",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"Safer-sex Panic\"",
                                                         "type": "simple",
@@ -7496,7 +7521,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_24",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"Satire on Gay Articles Declaring Oral Sex a Risk for AIDS\"",
                                                         "type": "simple",
@@ -7582,7 +7608,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_25",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"Silence of the Lambdas\" by Katie Szymanski",
                                                         "type": "simple",
@@ -7669,7 +7696,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_26",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\u003cemph render=\"italic\"\u003eStayin' Alive\u003c/emph\u003e",
                                                         "type": "simple",
@@ -7796,7 +7824,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_31",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"The Tragic Death of Robert Gould, M.D.\"",
                                                         "type": "simple",
@@ -7986,7 +8015,8 @@
                                                 "dao": [
                                                     {
                                                         "actuate": "onRequest",
-                                                        "href": "FA_MSS_421_ER_32",
+                                                        "href": "https://aeon.library.nyu.edu/Logon?Action=10\u0026Form=31\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_421.xml\u0026view=xml",
+                                                        "role": "service",
                                                         "show": "new",
                                                         "title": "\"Walter Fuck-up\"",
                                                         "type": "simple",
