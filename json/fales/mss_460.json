@@ -500,73 +500,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_07349d9532f786367c4e6b49fa9d0db1",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_6f55fa80ebba9cea4d8de72f0a7ab562",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "39.17 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Chrem, Orieta -- Full-length interview: 2015-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5745"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Chrem, Orieta -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_c8182235d9443c23459ad5032aad1a05",
                                         "level": "file",
                                         "did": [
@@ -614,6 +547,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Chrem, Orieta -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_07349d9532f786367c4e6b49fa9d0db1",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_6f55fa80ebba9cea4d8de72f0a7ab562",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "39.17 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Chrem, Orieta -- Full-length interview: 2015-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5745"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Chrem, Orieta -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -709,73 +710,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_a2b47e7dbb1f49dbf76e7867a84ccf8f",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_22e4a3e64d92d5b5797ee0aabe7bf94f",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "66.31 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Julie Covello -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5748"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Covello, Julie -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_0e3b82f1bf6dcc14aa3ab87d3b18ef61",
                                         "level": "item",
                                         "did": [
@@ -823,6 +757,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Covello, Julie -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_a2b47e7dbb1f49dbf76e7867a84ccf8f",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_22e4a3e64d92d5b5797ee0aabe7bf94f",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "66.31 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Julie Covello -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5748"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Covello, Julie -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -970,73 +972,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_7d22aa1763dad9b676263dad2ce1df24",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_102cd3894ab76d266c52bc5d354957ce",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "27.79 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Friederike Jäger -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5751"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Jäger, Friederike -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_9c5c0655f35b850cb5454a1f6cbc78f4",
                                         "level": "item",
                                         "did": [
@@ -1084,6 +1019,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Jäger, Friederike -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_7d22aa1763dad9b676263dad2ce1df24",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_102cd3894ab76d266c52bc5d354957ce",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "27.79 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Friederike Jäger -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5751"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Jäger, Friederike -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -1179,73 +1182,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_f4b887c1fee7c96e004de91fed5cb60c",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_997bba4039f09af909cf0f54f7aa22ef",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "48.62 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Julie Kathryn -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5754"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Kathryn, Julie -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_bc19f074b130e8d187d8a85ebc9f2c00",
                                         "level": "item",
                                         "did": [
@@ -1293,6 +1229,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Kathryn, Julie -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_f4b887c1fee7c96e004de91fed5cb60c",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_997bba4039f09af909cf0f54f7aa22ef",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "48.62 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Julie Kathryn -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5754"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Kathryn, Julie -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -1388,73 +1392,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_63561ab3b5923bb00b5d1cccbc46758b",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_70b79a2d2bccb1002f31e6d36e9ccd28",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "46.69 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Minami Kato -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2015/2015",
-                                                        "value": "2015"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5757"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Kato, Minami -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_42865f4db8ccee52618a8411ebcd63f2",
                                         "level": "item",
                                         "did": [
@@ -1502,6 +1439,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Kato, Minami -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_63561ab3b5923bb00b5d1cccbc46758b",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_70b79a2d2bccb1002f31e6d36e9ccd28",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "46.69 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Minami Kato -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2015/2015",
+                                                        "value": "2015"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5757"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Kato, Minami -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -1597,73 +1602,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_6a394afe28cc0370c4f7818ee93c8895",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_a7cd07f218bf23302dd1254d1050148e",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "35.84 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "K. Marie Kim -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5760"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Kim, K. Marie -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_0155c334eda826ee3be56020f860521c",
                                         "level": "item",
                                         "did": [
@@ -1711,6 +1649,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Kim, K. Marie -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_6a394afe28cc0370c4f7818ee93c8895",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_a7cd07f218bf23302dd1254d1050148e",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "35.84 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "K. Marie Kim -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5760"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Kim, K. Marie -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -1806,73 +1812,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_bc0f4d970eb19b7fc5b782fdcebff817",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_db82f587b3a6e0f2e3465b1527e8e624",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "219.42 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Dion McKenzie  -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5763"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "McKenzie, Dion -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_1bdcef3343c3a46a12612acdda500077",
                                         "level": "item",
                                         "did": [
@@ -1920,6 +1859,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "McKenzie, Dion -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_bc0f4d970eb19b7fc5b782fdcebff817",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_db82f587b3a6e0f2e3465b1527e8e624",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "219.42 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Dion McKenzie  -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5763"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "McKenzie, Dion -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -2016,73 +2023,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_be55e9d26d3e3202078e1cf59327707c",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_90f4aca16e91848a4a14e5a460b8aa8b",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "38.37 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Franziska Plückhan -- Full-length interview: 2015-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5766"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Plückhan, Franziska -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_5cc0026c150804366f214c82392c7242",
                                         "level": "item",
                                         "did": [
@@ -2130,6 +2070,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Plückhan, Franziska -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_be55e9d26d3e3202078e1cf59327707c",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_90f4aca16e91848a4a14e5a460b8aa8b",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "38.37 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Franziska Plückhan -- Full-length interview: 2015-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5766"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Plückhan, Franziska -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -2225,73 +2233,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_7366ed074ec599915e78091d95d9a8d1",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_9ecc66c3abc89eca24c30efd475f1bdd",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "50.13 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Pauchi Sasaki -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2016/2016",
-                                                        "value": "2016"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5769"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": "Sasaki, Pauchi -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_8abb4def6dd5b1b73f144c8f14f5b0b6",
                                         "level": "item",
                                         "did": [
@@ -2339,6 +2280,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Sasaki, Pauchi -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_7366ed074ec599915e78091d95d9a8d1",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_9ecc66c3abc89eca24c30efd475f1bdd",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "50.13 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Pauchi Sasaki -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2016/2016",
+                                                        "value": "2016"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5769"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": "Sasaki, Pauchi -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -2434,73 +2443,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "aspace_c377c5eaffd322fb6ac7fb2b7026965d",
-                                        "level": "item",
-                                        "accessrestrict": [
-                                            {
-                                                "id": "aspace_a948eaad2c30538812220f7c5f2f3e97",
-                                                "head": [
-                                                    {
-                                                        "value": "Conditions Governing Access"
-                                                    }
-                                                ],
-                                                "p": [
-                                                    {
-                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "did": [
-                                            {
-                                                "physdesc": [
-                                                    {
-                                                        "extent": [
-                                                            {
-                                                                "value": "47.37 Gigabytes"
-                                                            },
-                                                            {
-                                                                "value": "in 1 video file."
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "dao": [
-                                                    {
-                                                        "actuate": "onRequest",
-                                                        "audience": "external",
-                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
-                                                        "show": "new",
-                                                        "type": "simple",
-                                                        "daodesc": {
-                                                            "p": [
-                                                                {
-                                                                    "value": "Gisela Fullá Silvestre -- Full-length interview: 2016-"
-                                                                }
-                                                            ]
-                                                        }
-                                                    }
-                                                ],
-                                                "unitdate": [
-                                                    {
-                                                        "normal": "2015/2015",
-                                                        "value": "2015"
-                                                    }
-                                                ],
-                                                "unitid": [
-                                                    {
-                                                        "value": "cuid5772"
-                                                    }
-                                                ],
-                                                "unittitle": [
-                                                    {
-                                                        "value": " Silvestre, Gisela Fullá -- Full-length interview"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
                                         "id": "aspace_24423b2187c2cf8c0def3303f54a0877",
                                         "level": "item",
                                         "did": [
@@ -2548,6 +2490,74 @@
                                                 "unittitle": [
                                                     {
                                                         "value": "Silvestre, Gisela Fullá -- Performance"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "aspace_c377c5eaffd322fb6ac7fb2b7026965d",
+                                        "level": "item",
+                                        "accessrestrict": [
+                                            {
+                                                "id": "aspace_a948eaad2c30538812220f7c5f2f3e97",
+                                                "head": [
+                                                    {
+                                                        "value": "Conditions Governing Access"
+                                                    }
+                                                ],
+                                                "p": [
+                                                    {
+                                                        "value": "This video recording is available for streaming with password authentication from NYU Libraries for researchers with prior approval based on the 2016 agreement with the donor."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "did": [
+                                            {
+                                                "physdesc": [
+                                                    {
+                                                        "extent": [
+                                                            {
+                                                                "value": "47.37 Gigabytes"
+                                                            },
+                                                            {
+                                                                "value": "in 1 video file."
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "dao": [
+                                                    {
+                                                        "actuate": "onRequest",
+                                                        "audience": "external",
+                                                        "href": "https://aeon.library.nyu.edu/remoteauth/aeon.dll?Action=10\u0026Form=10\u0026Value=http://dlib.nyu.edu/findingaids/ead/fales/MSS_460.xml\u0026view=xml",
+                                                        "role": "electronic-records-service",
+                                                        "show": "new",
+                                                        "type": "simple",
+                                                        "daodesc": {
+                                                            "p": [
+                                                                {
+                                                                    "value": "Gisela Fullá Silvestre -- Full-length interview: 2016-"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "unitdate": [
+                                                    {
+                                                        "normal": "2015/2015",
+                                                        "value": "2015"
+                                                    }
+                                                ],
+                                                "unitid": [
+                                                    {
+                                                        "value": "cuid5772"
+                                                    }
+                                                ],
+                                                "unittitle": [
+                                                    {
+                                                        "value": " Silvestre, Gisela Fullá -- Full-length interview"
                                                     }
                                                 ]
                                             }
@@ -2742,7 +2752,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-10-01 15:06:39 -0400"
+                                "2020-11-04 11:43:40 -0500"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
