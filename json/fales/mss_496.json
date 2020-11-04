@@ -203,7 +203,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://markadamo.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -303,7 +303,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.christopheradler.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -405,7 +405,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://aroojaftab.bandcamp.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -505,7 +505,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.andyakiho.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -604,7 +604,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.robertlivingstonaldridge.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -701,7 +701,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.kathrynalexander.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -798,7 +798,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.billalves.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -900,7 +900,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://charlesames.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1002,7 +1002,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://david-amram.blogspot.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1099,7 +1099,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.laurieanderson.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1193,7 +1193,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.andres.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1295,7 +1295,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.markapplebaum.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1397,7 +1397,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.appletonjon.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1499,7 +1499,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.flexatone.org/article/christopherAriza",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1598,7 +1598,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.rustybanks.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1698,7 +1698,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://bernardobarros.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1795,7 +1795,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.mmlxii.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "none",
                                         "type": "simple",
                                         "daodesc": {
@@ -1897,7 +1897,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.masonbates.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -1991,7 +1991,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.beckmusic.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2093,7 +2093,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.gordonbeeferman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2187,7 +2187,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.dbehrman.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2289,7 +2289,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.laurenbernofsky.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2391,7 +2391,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.abbiebetinis.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2488,7 +2488,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.oscarbettison.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2585,7 +2585,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.lisabielawa.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2679,7 +2679,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.hayesbiggs.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2776,7 +2776,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.johnbischoff.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2873,7 +2873,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://theobleckmann.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -2973,7 +2973,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.borbetomagus.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3075,7 +3075,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://pauljbotelho.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3174,7 +3174,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.susanbotti.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3274,7 +3274,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.douglasboyce.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3373,7 +3373,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.glennbranca.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3475,7 +3475,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://kitbraz.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3574,7 +3574,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.martinbresnick.com/#/homepage",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3676,7 +3676,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.margaretbrouwer.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3776,7 +3776,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.gavinbryars.com/calendar",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3878,7 +3878,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.warrenburt.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -3957,7 +3957,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.donbyron.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4051,7 +4051,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://droplid.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4153,7 +4153,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.richardcarrick.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4247,7 +4247,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.joelchadabe.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4344,7 +4344,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ryanmchase.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4450,7 +4450,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.rhyschatham.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4547,7 +4547,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.acheungmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4641,7 +4641,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.maryellenchilds.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4743,7 +4743,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.churchmuse.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4842,7 +4842,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.annaclyne.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -4944,7 +4944,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.emilycooley.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5052,7 +5052,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://carsoncooman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5157,7 +5157,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.anthonycornicello.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5259,7 +5259,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.campjulie.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5376,7 +5376,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://shawncrouchmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5478,7 +5478,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.conradcummings.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5578,7 +5578,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.douglasjcuomo.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5677,7 +5677,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.sebastiancurrier.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5774,7 +5774,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://chayaczernowin.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5876,7 +5876,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.michaeldaugherty.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -5978,7 +5978,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.migueldelaguila.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6075,7 +6075,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049-test/*/http://delaurenti.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6177,7 +6177,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://brycedessner.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6279,7 +6279,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://nicholasdeyoe.com/Nicholas_Deyoe/Nicholas_Deyoe.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6384,7 +6384,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.didkovsky.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6399,7 +6399,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.doctornerve.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6414,7 +6414,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.vomitfist.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6429,7 +6429,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.busterandfriends.com/projects/eris/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6534,7 +6534,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.dbdoty.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6633,7 +6633,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.mark-dresser.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6729,7 +6729,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.dreyblatt.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6831,7 +6831,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ensemble21.com/eckardt/home.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -6933,7 +6933,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ryanedwards.info/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7033,7 +7033,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.martyehrlich.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7144,7 +7144,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://charminghostess.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7241,7 +7241,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://mohammedfairouz.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7335,7 +7335,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.mrfastforward.com/site/Home.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7437,6 +7437,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/9896/*/http://www.adelefournet.com",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7451,6 +7452,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.adelefournet.com",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7570,7 +7572,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://joshuafried.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7669,7 +7671,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.paulfrucht.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7768,7 +7770,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ellenfullman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7870,7 +7872,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://fulmermusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -7969,7 +7971,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://diamandagalas.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8068,7 +8070,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.kylegann.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8168,7 +8170,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.alexandragardner.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8282,7 +8284,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://florentghys.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8379,7 +8381,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.randy-gibson.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8481,7 +8483,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://danielgilliam.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8583,7 +8585,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://gisburg.info/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8685,7 +8687,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://dylanglatthorn.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8779,7 +8781,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.philmultic.com/artists/goldstein/index.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8884,7 +8886,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://danielgoode.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -8992,7 +8994,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://michaelgordonmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9089,7 +9091,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.anniegosfield.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9191,7 +9193,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.edgreenmusic.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9293,7 +9295,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.juddgreenstein.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9390,7 +9392,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.rachelgrimespiano.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9487,7 +9489,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.yotamhaber.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9584,7 +9586,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.josephhallman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9681,7 +9683,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.michaelharrison.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -9848,7 +9850,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.gerryhemingway.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10012,7 +10014,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.michaelhersch.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10114,7 +10116,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.jenniferhigdon.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10216,7 +10218,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/8875/*/http://www.shelleyhirsch.com/shelley/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10315,7 +10317,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://wp.nyu.edu/elizabeth_hoffman/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10412,7 +10414,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.robinholcomb.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10514,7 +10516,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://damonholzborn.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10614,7 +10616,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://roberthonstein.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10716,7 +10718,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.waynehorvitz.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10818,7 +10820,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.birdonawire.ca/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -10912,7 +10914,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.jerryhunt.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11071,7 +11073,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://MrJoeIconis.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11173,7 +11175,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://colinjacobsen.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11273,7 +11275,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://sonicempireinc.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11375,7 +11377,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.jennyoliviajohnson.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11477,7 +11479,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.scottjohnsoncomposer.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11644,7 +11646,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://mikaelk.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -11763,14 +11765,14 @@
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/9900/*/http://www.iamsnowangel.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of Julie Kathryn",
                                                 "type": "locator"
                                             },
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/4049/*/http://www.iamsnowangel.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of Julie Kathryn",
                                                 "type": "locator"
                                             }
@@ -11895,14 +11897,14 @@
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/9898/*/http://kmariekim.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of K. Marie Kim",
                                                 "type": "locator"
                                             },
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/4049/*/http://kmariekim.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of K. Marie Kim",
                                                 "type": "locator"
                                             }
@@ -12014,7 +12016,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.marikimura.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12111,7 +12113,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.johnkingmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12205,7 +12207,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://keithkirchoff.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12302,7 +12304,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049-test/*/http://philkline.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12411,7 +12413,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.guyklucevsek.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12513,7 +12515,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.marykouyoumdjian.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12613,7 +12615,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049-test/*/http://www.joanlabarbara.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12716,7 +12718,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://reloadsanear.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12818,7 +12820,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://davidlangmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -12918,7 +12920,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049-test/*/http://hannahlash.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13015,7 +13017,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.claralatham.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13109,7 +13111,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.mjleach.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13203,7 +13205,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://ericlemmon.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13300,7 +13302,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049-test/*/http://www.tanialeon.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13397,7 +13399,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://www.fredlerdahl.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13491,7 +13493,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://davidtlittle.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13588,7 +13590,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/8877/*/http://www.franklondon.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13693,7 +13695,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://WendyLuck.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13795,7 +13797,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://carlmaguire.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13879,7 +13881,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://mappinternational.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -13981,7 +13983,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.bunitamarcus.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14093,7 +14095,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ingrammarshall.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14190,7 +14192,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.paulamatthusen.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14284,7 +14286,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://dylanmattingly.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14381,7 +14383,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.missymazzoli.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14478,7 +14480,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://dosiamckay.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14575,7 +14577,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.andrewmckennalee.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14674,7 +14676,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.melafoundation.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14776,7 +14778,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.stratisminakakis.info/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14873,7 +14875,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.adammirza.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -14970,7 +14972,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ericmoe.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15072,7 +15074,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.meredithmonk.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15178,7 +15180,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.jessiemontgomery.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15272,7 +15274,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.beatamoon.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15369,7 +15371,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.carmanmoore.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15468,7 +15470,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.virgilmoorefield.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15562,7 +15564,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ikuemori.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15656,7 +15658,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.mostel.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15765,7 +15767,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.patmuchmore.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15868,7 +15870,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://brainwashed.com/mumma/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -15973,7 +15975,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ronnagorcka.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16070,7 +16072,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.ericnathanmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16167,7 +16169,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/8879/*/http://roynathanson.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16269,7 +16271,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.benneill.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16363,7 +16365,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.olganeuwirth.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16457,7 +16459,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://nyds-discographies.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16566,7 +16568,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://phillniblock.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16660,7 +16662,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.yoniniv.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16760,7 +16762,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://joanarnaupamies.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16863,7 +16865,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.zeenaparkins.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -16965,7 +16967,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://michaelpattersoncomposer.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17059,7 +17061,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.jessicapavone.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17153,7 +17155,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://sites.google.com/site/maggipayne/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17250,7 +17252,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.tristanperich.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17347,7 +17349,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.matthiaspintscher.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17453,7 +17455,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://www.bobbyprevite.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17550,7 +17552,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://gabrielprokofiev.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17647,7 +17649,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.kevinputs.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17744,7 +17746,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.matthewquayle.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17841,7 +17843,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.willredman.com/home.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -17952,7 +17954,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://toddreynolds.wordpress.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18051,7 +18053,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/8880/*/http://marcribot.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18153,7 +18155,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://gyanriley.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18260,14 +18262,14 @@
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/9901/*/http://azuremilesrecords.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of Michael Robinson",
                                                 "type": "locator"
                                             },
                                             {
                                                 "audience": "external",
                                                 "href": "https://wayback.archive-it.org/4049/*/http://azuremilesrecords.com",
-                                                "role": "service",
+                                                "role": "external-link",
                                                 "title": "Archived website of Michael Robinson",
                                                 "type": "locator"
                                             }
@@ -18379,7 +18381,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.davidrosenboom.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18476,7 +18478,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.marinarosenfeld.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18570,7 +18572,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.francoisrossignol.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18667,7 +18669,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.johnrot.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18773,7 +18775,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.nedrothenberg.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18870,7 +18872,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.danielroumain.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -18972,7 +18974,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.joelrust.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19069,7 +19071,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://saariaho.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19166,7 +19168,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.timucinsahin.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19269,7 +19271,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://jennyscheinman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19366,7 +19368,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.joseserebrier.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19463,7 +19465,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://ericshanfield.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19565,7 +19567,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.alexshapiro.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19673,7 +19675,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.elliottsharp.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19770,7 +19772,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://judithshatin.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19867,7 +19869,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://carolineshaw.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -19961,7 +19963,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.brightsheng.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20055,7 +20057,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.aliceshields.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20155,7 +20157,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://myungsoo.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20252,7 +20254,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://aaronsiegel.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20349,7 +20351,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.arlenesierra.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20462,7 +20464,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.wadadaleosmith.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20569,7 +20571,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.davidsmooke.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20674,7 +20676,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://sarahkirklandsnider.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20771,7 +20773,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.stevensnowden.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20865,7 +20867,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.scattershot.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -20944,7 +20946,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.soundart.org/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21043,7 +21045,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://retiary.org/ls/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21140,7 +21142,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://rand.info/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21237,7 +21239,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.sukothai.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21334,7 +21336,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://ryanstreber.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21436,7 +21438,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://jobytalbot.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21536,7 +21538,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://conradtao.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21633,7 +21635,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.augustareadthomas.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21730,7 +21732,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://davidevanthomas.com",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21827,7 +21829,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://ktonline.net/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -21921,7 +21923,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.michaeltorke.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22021,7 +22023,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://christophertrapani.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22130,7 +22132,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://tobytwiningmusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22227,7 +22229,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://nicholasurie.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22329,7 +22331,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://krimitzavasiliki.wordpress.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22435,7 +22437,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://loisvvierk.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22532,7 +22534,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.tloneditions.com/ezequiel_vinao.html",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22629,7 +22631,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.stefanweisman.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22726,7 +22728,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/https://www.sfu.ca/~westerka/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22823,7 +22825,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "http://wayback.archive-it.org/*/http://www.conradwinslow.com/ ",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -22925,7 +22927,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.erlingwold.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -23022,7 +23024,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://juliawolfemusic.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -23127,7 +23129,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://scottwollschleger.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -23229,7 +23231,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://www.katherineyoung.info/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -23326,7 +23328,7 @@
                                         "actuate": "onLoad",
                                         "audience": "external",
                                         "href": "https://wayback.archive-it.org/4049/*/http://ninacyoung.com/",
-                                        "role": "service",
+                                        "role": "external-link",
                                         "show": "new",
                                         "type": "simple",
                                         "daodesc": {
@@ -23507,7 +23509,7 @@
                     "creation": [
                         {
                             "date": [
-                                "2020-10-01 15:36:54 -0400"
+                                "2020-11-04 11:47:26 -0500"
                             ],
                             "value": "This finding aid was produced using ArchivesSpace on ."
                         }
