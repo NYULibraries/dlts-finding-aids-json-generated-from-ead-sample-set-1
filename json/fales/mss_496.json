@@ -114,7 +114,7 @@
                         "label": "Creator",
                         "corpname": [
                             {
-                                "role": "col",
+                                "role": "Collector",
                                 "value": "New York University Archives"
                             }
                         ]
@@ -20439,7 +20439,7 @@
                                         "value": "Wadada Leo Smith's Golden Quintet"
                                     },
                                     {
-                                        "role": "fmo",
+                                        "role": "Former owner",
                                         "value": "Wadada Leo Smith's Golden Quartet"
                                     }
                                 ]
