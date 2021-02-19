@@ -62,8 +62,6 @@
         "controlaccess": {
             "corpname": [
                 {
-                    "rules": "aacr",
-                    "source": "naf",
                     "value": "New York University. University Heights"
                 }
             ],
@@ -79,7 +77,6 @@
             ],
             "persname": [
                 {
-                    "source": "local",
                     "value": "John Quigley, 1872-1943"
                 }
             ]
@@ -116,8 +113,6 @@
                 {
                     "label": "Creator",
                     "persname": {
-                        "rules": "dacs",
-                        "source": "local",
                         "value": "Rose, Oscar"
                     }
                 }
@@ -136,7 +131,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "1935/1937",
                     "type": "inclusive",
                     "value": "1935-1937"
                 }
@@ -171,11 +165,7 @@
                         "langmaterial": [
                             {
                                 "value": ".",
-                                "language": {
-                                    "langcode": "eng",
-                                    "scriptcode": "Latn",
-                                    "value": "English"
-                                }
+                                "language": "English"
                             }
                         ],
                         "unitdate": [
@@ -511,11 +501,7 @@
                         "langmaterial": [
                             {
                                 "value": ".",
-                                "language": {
-                                    "langcode": "eng",
-                                    "scriptcode": "Latn",
-                                    "value": "English"
-                                }
+                                "language": "English"
                             }
                         ],
                         "unitdate": [
@@ -551,11 +537,7 @@
                         "langmaterial": [
                             {
                                 "value": ".",
-                                "language": {
-                                    "langcode": "eng",
-                                    "scriptcode": "Latn",
-                                    "value": "English"
-                                }
+                                "language": "English"
                             }
                         ],
                         "unitdate": [
@@ -1161,11 +1143,7 @@
                         "langmaterial": [
                             {
                                 "value": ".",
-                                "language": {
-                                    "langcode": "eng",
-                                    "scriptcode": "Latn",
-                                    "value": "English"
-                                }
+                                "language": "English"
                             }
                         ],
                         "unitdate": [
@@ -1261,11 +1239,7 @@
                         "langmaterial": [
                             {
                                 "value": ".",
-                                "language": {
-                                    "langcode": "eng",
-                                    "scriptcode": "Latn",
-                                    "value": "English"
-                                }
+                                "language": "English"
                             }
                         ],
                         "unitdate": [
@@ -2475,8 +2449,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NyNyUA",
             "url": "http://dlib.nyu.edu/findingaids/html/repository/mc_100",
             "value": "mc_100"
         },

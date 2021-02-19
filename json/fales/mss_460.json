@@ -80,8 +80,6 @@
         "controlaccess": {
             "corpname": [
                 {
-                    "rules": "dacs",
-                    "source": "local",
                     "value": "Bit Rosie"
                 }
             ],
@@ -189,8 +187,6 @@
                 {
                     "label": "Creator",
                     "persname": {
-                        "rules": "dacs",
-                        "source": "local",
                         "value": "Fournet, Adele"
                     }
                 }
@@ -203,7 +199,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "2015/2016",
                     "type": "inclusive",
                     "value": "2015-2016"
                 }
@@ -274,7 +269,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "type": "inclusive",
                                                 "value": "2016"
                                             }
@@ -323,7 +317,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -337,7 +330,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -381,7 +373,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "2017/2017",
                                         "value": "2017-ongoing"
                                     }
                                 ],
@@ -472,7 +463,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -520,7 +510,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -581,7 +570,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -595,7 +583,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -659,7 +646,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -707,7 +693,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -768,7 +753,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -782,7 +766,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2015/2016",
                                         "type": "inclusive",
                                         "value": "2015-2016"
                                     }
@@ -829,7 +812,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -894,7 +876,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -942,7 +923,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1003,7 +983,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1017,7 +996,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -1081,7 +1059,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1129,7 +1106,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1190,7 +1166,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1204,7 +1179,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -1268,7 +1242,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -1316,7 +1289,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -1377,7 +1349,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -1391,7 +1362,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2015/2015",
                                         "value": "2015"
                                     }
                                 ],
@@ -1455,7 +1425,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1503,7 +1472,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1564,7 +1532,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1578,7 +1545,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -1642,7 +1608,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1690,7 +1655,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -1751,7 +1715,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1765,7 +1728,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2015/2016",
                                         "type": "inclusive",
                                         "value": "2015-2016"
                                     }
@@ -1830,7 +1792,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1878,7 +1839,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1939,7 +1899,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -1953,7 +1912,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -2017,7 +1975,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -2065,7 +2022,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -2126,7 +2082,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2016/2016",
                                                 "value": "2016"
                                             }
                                         ],
@@ -2140,7 +2095,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2016/2016",
                                         "value": "2016"
                                     }
                                 ],
@@ -2204,7 +2158,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -2252,7 +2205,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -2313,7 +2265,6 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "normal": "2015/2015",
                                                 "value": "2015"
                                             }
                                         ],
@@ -2327,7 +2278,6 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "normal": "2015/2015",
                                         "value": "2015"
                                     }
                                 ],
@@ -2422,8 +2372,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NNU-F",
             "url": "http://dlib.nyu.edu/findingaids/html/fales/mss_460",
             "value": "mss_460"
         },

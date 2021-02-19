@@ -78,43 +78,30 @@
         "controlaccess": {
             "corpname": [
                 {
-                    "source": "naf",
                     "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                 },
                 {
-                    "source": "naf",
                     "value": "Congress of Italian-American Organizations."
                 },
                 {
-                    "source": "naf",
                     "value": "Workmen's Circle/Arbeter Ring"
                 },
                 {
-                    "rules": "dacs",
-                    "source": "naf",
                     "value": "International Longshoremen's Association"
                 },
                 {
-                    "source": "naf",
                     "value": "Amalgamated Clothing Workers of America"
                 },
                 {
-                    "rules": "dacs",
-                    "source": "naf",
                     "value": "International Ladies' Garment Workers' Union"
                 },
                 {
-                    "rules": "dacs",
-                    "source": "local",
                     "value": "Council Workshop for Senior Citizens (New York, N.Y.)"
                 },
                 {
-                    "rules": "dacs",
-                    "source": "local",
                     "value": "Kingsbridge Heights Nursing Home (New York, N.Y.)"
                 },
                 {
-                    "source": "naf",
                     "value": "Transport Workers Union of America"
                 }
             ],
@@ -371,7 +358,6 @@
                     "label": "Creator",
                     "persname": {
                         "role": "Donor",
-                        "source": "naf",
                         "value": "Gutman, Herbert G. (Herbert George), 1928-1985"
                     }
                 }
@@ -384,7 +370,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "1972/1976",
                     "type": "inclusive",
                     "value": "1972-1976, undated"
                 }
@@ -782,7 +767,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 7"
                                     }
@@ -870,7 +854,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 18"
                                     }
@@ -1012,15 +995,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 17 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
                                         }
                                     ],
@@ -1094,7 +1074,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 February 26 and March 12 "
                                     }
@@ -1155,7 +1134,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "value": "1975"
                                     }
                                 ],
@@ -1197,7 +1175,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Typographical Union. Local 6 (New York, N.Y.)"
                                         }
                                     ],
@@ -1275,7 +1252,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 9 and June 10"
                                     }
@@ -1380,7 +1356,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 5"
                                     }
@@ -1487,7 +1462,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 10"
                                     }
@@ -1539,7 +1513,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Hebrew Sheltering and Immigrant Aid Society of America"
                                         }
                                     ],
@@ -1639,7 +1612,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 March 16 and 24 and May 5, 9, and 15"
                                     }
@@ -1751,7 +1723,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 11"
                                     }
@@ -1845,7 +1816,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 26"
                                     }
@@ -1977,7 +1947,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "New York (N.Y.). Board of Transportation"
                                         }
                                     ],
@@ -2051,7 +2020,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 March 26 and April 2"
                                     }
@@ -2100,7 +2068,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United States. Works Progress Administration (N.Y.)"
                                         }
                                     ]
@@ -2168,7 +2135,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1976",
                                         "type": "inclusive",
                                         "value": "1975 December 12 and December 22, and 1976 January 21"
                                     }
@@ -2370,7 +2336,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 May 16"
                                     }
@@ -2461,7 +2426,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "value": "1975"
                                     }
                                 ],
@@ -2554,7 +2518,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 28"
                                     }
@@ -2721,7 +2684,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 February 25"
                                     }
@@ -2826,7 +2788,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 5"
                                     }
@@ -2872,12 +2833,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "United States. Works Progress Administration (N.Y.)"
                                         }
                                     ]
@@ -2953,7 +2911,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "value": "1973 April 4 and Undated"
                                     }
                                 ],
@@ -2998,7 +2955,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ],
@@ -3078,7 +3034,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 October 24"
                                     }
@@ -3202,7 +3157,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 27"
                                     }
@@ -3248,7 +3202,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ],
@@ -3323,7 +3276,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 30"
                                     }
@@ -3384,7 +3336,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 25"
                                     }
@@ -3433,7 +3384,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -3475,7 +3425,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 November 13"
                                     }
@@ -3929,7 +3878,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 2"
                                     }
@@ -4017,7 +3965,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 8"
                                     }
@@ -4066,7 +4013,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -4149,7 +4095,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 October 24 and October 31"
                                     }
@@ -4201,7 +4146,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
                                         }
                                     ]
@@ -4368,7 +4312,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 14"
                                     }
@@ -4420,7 +4363,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
                                         }
                                     ]
@@ -4528,8 +4470,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
                                         }
                                     ]
@@ -4764,7 +4704,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -4878,7 +4817,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 13"
                                     }
@@ -4984,7 +4922,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 4"
                                     }
@@ -5030,7 +4967,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Bloomingdale's (Firm)"
                                         }
                                     ],
@@ -5062,7 +4998,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 26"
                                     }
@@ -5197,7 +5132,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -5596,7 +5530,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 28"
                                     }
@@ -5700,7 +5633,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 19"
                                     }
@@ -5801,7 +5733,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 4"
                                     }
@@ -5850,7 +5781,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United States. Works Progress Administration (N.Y.)"
                                         }
                                     ]
@@ -5968,7 +5898,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 8"
                                     }
@@ -6017,7 +5946,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
                                         }
                                     ],
@@ -6095,7 +6023,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 July 3"
                                     }
@@ -6150,7 +6077,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -6204,7 +6130,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "value": "1975"
                                     }
                                 ],
@@ -6338,8 +6263,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "Hotel Employees \u0026amp; Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
                                         }
                                     ],
@@ -6399,7 +6322,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 December 17"
                                     }
@@ -6487,7 +6409,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 16"
                                     }
@@ -6533,16 +6454,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Seamen's Union of America"
                                         },
                                         {
-                                            "rules": "dacs",
-                                            "source": "naf",
                                             "value": "Congress of Industrial Organizations (U.S.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Irish Republican Army"
                                         }
                                     ],
@@ -6717,7 +6634,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 19"
                                     }
@@ -6823,7 +6739,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 12 and 22"
                                     }
@@ -6894,7 +6809,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
                                         }
                                     ],
@@ -6976,7 +6890,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "value": "1974"
                                     }
                                 ],
@@ -7184,7 +7097,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 24"
                                     }
@@ -7299,7 +7211,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 18"
                                     }
@@ -7412,7 +7323,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 December"
                                     }
@@ -7538,7 +7448,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 24"
                                     }
@@ -7649,7 +7558,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 December"
                                     }
@@ -7701,11 +7609,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Fur and Leather Workers Union of the United States and Canada"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
                                         }
                                     ],
@@ -7783,7 +7689,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "value": "1973"
                                     }
                                 ],
@@ -7843,8 +7748,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Brotherhood of Bookbinders. Local 119 (New York, N.Y.)"
                                         }
                                     ],
@@ -7905,7 +7808,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "value": "1974 April 20"
                                     }
                                 ],
@@ -7959,7 +7861,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United States. Works Progress Administration (N.Y.)"
                                         }
                                     ]
@@ -8014,7 +7915,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 4"
                                     }
@@ -8147,7 +8047,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "value": "1975 December 10"
                                     }
                                 ],
@@ -8250,7 +8149,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 4"
                                     }
@@ -8388,11 +8286,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Ozone Park (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Camp Croft (Spartanburg, S.C.)"
                                         }
                                     ],
@@ -8456,7 +8352,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 May 3"
                                     }
@@ -8502,7 +8397,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -8556,7 +8450,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1976",
                                         "type": "inclusive",
                                         "value": "1975 November 12 and 24, 1976 January 29"
                                     }
@@ -8608,7 +8501,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         }
                                     ],
@@ -8669,7 +8561,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 11"
                                     }
@@ -8918,7 +8809,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 May 7"
                                     }
@@ -8986,7 +8876,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 13"
                                     }
@@ -9059,7 +8948,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 5"
                                     }
@@ -9102,8 +8990,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "aacr",
-                                            "source": "naf",
                                             "value": "International Union of Operating Engineers"
                                         }
                                     ]
@@ -9144,7 +9030,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May"
                                     }
@@ -9231,7 +9116,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 24"
                                     }
@@ -9277,12 +9161,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         },
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "United Brotherhood of Cloakmakers"
                                         }
                                     ]
@@ -9350,7 +9231,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 3"
                                     }
@@ -9393,7 +9273,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Hatters of North America"
                                         }
                                     ],
@@ -9454,7 +9333,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 4"
                                     }
@@ -9500,11 +9378,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Hatters of North America"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ],
@@ -9551,7 +9427,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -9669,7 +9544,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ],
@@ -10035,7 +9909,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Furniture Workers of America"
                                         }
                                     ],
@@ -10104,7 +9977,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -10150,7 +10022,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "National Biscuit Company"
                                         }
                                     ]
@@ -10191,7 +10062,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 16"
                                     }
@@ -10237,11 +10107,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "AFSCME. District Council 37 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Brooklyn Museum"
                                         }
                                     ],
@@ -10315,7 +10183,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 11"
                                     }
@@ -10503,7 +10370,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 December 6"
                                     }
@@ -10580,7 +10446,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 November 20"
                                     }
@@ -10667,7 +10532,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 February 28"
                                     }
@@ -10710,8 +10574,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "naf",
                                             "value": "Workmen's Circle (U.S.)"
                                         }
                                     ]
@@ -10779,7 +10641,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 February 24 and March 17"
                                     }
@@ -10927,8 +10788,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "Hotel Employees \u0026amp; Restaurant Employees International Union. Local 6 (Hotel, Restaurant and Club Employees Union) (New York, N.Y.)"
                                         }
                                     ],
@@ -10975,7 +10834,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 22"
                                     }
@@ -11024,7 +10882,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         }
                                     ],
@@ -11099,11 +10956,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Fur and Leather Workers Union of the United States and Canada"
                                         }
                                     ]
@@ -11158,7 +11013,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 February 27 and March 6"
                                     }
@@ -11232,7 +11086,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1976/1976",
                                         "type": "inclusive",
                                         "value": "1976 March 18 and April 4"
                                     }
@@ -11369,7 +11222,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ]
@@ -11424,7 +11276,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 18"
                                     }
@@ -11528,7 +11379,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 2"
                                     }
@@ -11619,7 +11469,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 May 16"
                                     }
@@ -11665,12 +11514,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         },
                                         {
-                                            "rules": "aacr",
-                                            "source": "local",
                                             "value": "International Ladies' Garment Workers' Union. Local 91 (New York, N.Y.)"
                                         }
                                     ],
@@ -11888,7 +11734,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 29 and June 6"
                                     }
@@ -11989,7 +11834,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 3"
                                     }
@@ -12283,7 +12127,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 February 25"
                                     }
@@ -12332,12 +12175,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "New York (N.Y.). Department of Sanitation"
                                         },
                                         {
-                                            "rules": "aacr",
-                                            "source": "naf",
                                             "value": "International Union of Operating Engineers"
                                         }
                                     ],
@@ -12410,7 +12250,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 9"
                                     }
@@ -12518,7 +12357,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Cotton Club"
                                         }
                                     ],
@@ -12702,7 +12540,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1976/1976",
                                         "type": "inclusive",
                                         "value": "1976 April 4"
                                     }
@@ -12751,7 +12588,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "ingest",
                                             "value": "National Association of Letter Carriers (U.S.)"
                                         }
                                     ],
@@ -12829,7 +12665,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 21 and March 26"
                                     }
@@ -12887,7 +12722,6 @@
                                     ],
                                     "persname": [
                                         {
-                                            "source": "naf",
                                             "value": "Garvey, Marcus, 1887-1940"
                                         }
                                     ],
@@ -12922,7 +12756,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 9"
                                     }
@@ -12971,7 +12804,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         }
                                     ],
@@ -13079,11 +12911,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Furniture Workers of America"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "United Textile Workers of America"
                                         }
                                     ],
@@ -13148,7 +12978,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 27"
                                     }
@@ -13210,12 +13039,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "Cleaners and Dyers Union"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Hebrew Sheltering and Immigrant Aid Society of America"
                                         }
                                     ],
@@ -13468,7 +13294,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 24"
                                     }
@@ -13517,7 +13342,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Fur Workers Union of the United States and Canada"
                                         }
                                     ],
@@ -13635,8 +13459,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
                                         }
                                     ]
@@ -13771,7 +13593,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 May 14"
                                     }
@@ -13848,7 +13669,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 9"
                                     }
@@ -13894,7 +13714,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Cotton Club"
                                         }
                                     ],
@@ -13976,7 +13795,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 21"
                                     }
@@ -14067,7 +13885,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 11"
                                     }
@@ -14151,7 +13968,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 5"
                                     }
@@ -14200,7 +14016,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "local",
                                             "value": "New York City Taxi Drivers Union, Local 3036"
                                         }
                                     ],
@@ -14301,15 +14116,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 9 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Socialist Party (U.S.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ]
@@ -14376,7 +14188,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 7, March 14, and March 21"
                                     }
@@ -14422,7 +14233,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         }
                                     ],
@@ -14487,7 +14297,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 26"
                                     }
@@ -14533,12 +14342,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
                                         },
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)"
                                         }
                                     ]
@@ -14579,7 +14385,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 4 and March 24"
                                     }
@@ -14693,19 +14498,15 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 22 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Socialist Party (U.S.)"
                                         }
                                     ],
@@ -14766,7 +14567,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 21"
                                     }
@@ -14875,7 +14675,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 30"
                                     }
@@ -14995,7 +14794,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -15041,16 +14839,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
                                         },
                                         {
-                                            "rules": "dacs",
-                                            "source": "naf",
                                             "value": "Workmen's Circle (U.S.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Fur and Leather Workers Union of the United States and Canada"
                                         }
                                     ],
@@ -15200,7 +14994,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 April 30"
                                     }
@@ -15373,7 +15166,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 16"
                                     }
@@ -15509,7 +15301,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 26"
                                     }
@@ -15592,7 +15383,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 23"
                                     }
@@ -15676,7 +15466,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 11"
                                     }
@@ -15725,7 +15514,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Federation of Architects, Engineers, Chemists, and Technicians"
                                         }
                                     ],
@@ -15904,7 +15692,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 7"
                                     }
@@ -16004,7 +15791,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 December 12 and 18"
                                     }
@@ -16191,7 +15977,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 28"
                                     }
@@ -16304,7 +16089,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 2"
                                     }
@@ -16405,7 +16189,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 7"
                                     }
@@ -16642,7 +16425,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 16"
                                     }
@@ -16746,7 +16528,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 May 16"
                                     }
@@ -16865,7 +16646,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 May 9"
                                     }
@@ -16962,7 +16742,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 3"
                                     }
@@ -17075,7 +16854,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 May 14"
                                     }
@@ -17240,7 +17018,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 9"
                                     }
@@ -17330,7 +17107,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 26"
                                     }
@@ -17376,8 +17152,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
                                         }
                                     ]
@@ -17505,7 +17279,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -17551,7 +17324,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ]
@@ -17707,7 +17479,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "value": "1974 April 17"
                                     }
                                 ],
@@ -17791,7 +17562,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 April 11"
                                     }
@@ -17891,16 +17661,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Amalgamated Ladies' Garment Cutters' Union"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)"
                                         },
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Ladies' Garment Workers' Union . Local 23-25 (New York, N.Y.)"
                                         }
                                     ],
@@ -17978,7 +17744,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Furniture Workers of America"
                                         }
                                     ],
@@ -18057,7 +17822,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 2 and 16"
                                     }
@@ -18134,7 +17898,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 2"
                                     }
@@ -18227,7 +17990,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 November 11 and December 1"
                                     }
@@ -18390,7 +18152,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1972/1972",
                                         "type": "inclusive",
                                         "value": "1972 March 25"
                                     }
@@ -18495,7 +18256,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 24"
                                     }
@@ -18620,7 +18380,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 22 and May 9"
                                     }
@@ -18678,7 +18437,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
                                         }
                                     ],
@@ -18801,7 +18559,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 30"
                                     }
@@ -18853,8 +18610,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "local",
                                             "value": "International Longshoremen's Association. Local 1814 (New York, N.Y.)"
                                         }
                                     ]
@@ -18895,7 +18650,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 24"
                                     }
@@ -18986,7 +18740,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 12"
                                     }
@@ -19032,7 +18785,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -19073,7 +18825,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 November 12"
                                     }
@@ -19160,7 +18911,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 1"
                                     }
@@ -19247,7 +18997,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 9 and 13"
                                     }
@@ -19349,7 +19098,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 April 8"
                                     }
@@ -19452,7 +19200,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 23 and May 8"
                                     }
@@ -19588,7 +19335,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)"
                                         }
                                     ]
@@ -19614,7 +19360,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "value": "1973"
                                     }
                                 ],
@@ -19752,15 +19497,12 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Allgemeyner Idisher arbayṭerbund in Liṭa, Poylen un Rusland"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Educational Alliance (New York, N.Y.)"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "Workmen's Circle/Arbeter Ring"
                                         }
                                     ],
@@ -19982,12 +19724,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "rules": "dacs",
-                                            "source": "naf",
                                             "value": "Industrial Workers of the World"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
                                         }
                                     ],
@@ -20128,7 +19867,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 April 25"
                                     }
@@ -20443,11 +20181,9 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "United Furniture Workers of America"
                                         },
                                         {
-                                            "source": "naf",
                                             "value": "International Association of Machinists"
                                         }
                                     ],
@@ -20498,7 +20234,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1973/1973",
                                         "type": "inclusive",
                                         "value": "1973 March 29"
                                     }
@@ -20547,7 +20282,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ]
@@ -20730,7 +20464,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "International Ladies' Garment Workers' Union. Local 89 (New York, N.Y.)"
                                         }
                                     ],
@@ -20858,7 +20591,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 April 24"
                                     }
@@ -20994,7 +20726,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 March 2, March 28, and April 11"
                                     }
@@ -21098,7 +20829,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1974/1974",
                                         "type": "inclusive",
                                         "value": "1974 May 1"
                                     }
@@ -21144,7 +20874,6 @@
                                 {
                                     "corpname": [
                                         {
-                                            "source": "naf",
                                             "value": "Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)"
                                         }
                                     ],
@@ -21204,7 +20933,6 @@
                                 ],
                                 "unitdate": [
                                     {
-                                        "normal": "1975/1975",
                                         "type": "inclusive",
                                         "value": "1975 October 23, November 12, and December 3"
                                     }
@@ -21348,8 +21076,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NNU-TL",
             "url": "http://dlib.nyu.edu/findingaids/html/tamwag/oh_014",
             "value": "oh_014"
         },
