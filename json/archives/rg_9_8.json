@@ -106,46 +106,16 @@
                 }
             ],
             "genreform": [
-                {
-                    "source": "aat",
-                    "value": "Correspondence."
-                },
-                {
-                    "source": "aat",
-                    "value": "Administrative records."
-                },
-                {
-                    "source": "aat",
-                    "value": "Clippings (information artifacts)"
-                },
-                {
-                    "source": "aat",
-                    "value": "Audiovisual materials."
-                },
-                {
-                    "source": "aat",
-                    "value": "Reports."
-                },
-                {
-                    "source": "aat",
-                    "value": "Audiocassettes."
-                },
-                {
-                    "source": "aat",
-                    "value": "Pamphlets."
-                },
-                {
-                    "source": "aat",
-                    "value": "Lectures."
-                },
-                {
-                    "source": "aat",
-                    "value": "VHS"
-                },
-                {
-                    "source": "aat",
-                    "value": "Press releases."
-                }
+                "Correspondence.",
+                "Administrative records.",
+                "Clippings (information artifacts)",
+                "Audiovisual materials.",
+                "Reports.",
+                "Audiocassettes.",
+                "Pamphlets.",
+                "Lectures.",
+                "VHS",
+                "Press releases."
             ],
             "persname": [
                 {
@@ -156,46 +126,16 @@
                 }
             ],
             "subject": [
-                {
-                    "source": "lcsh",
-                    "value": "American literature -- African American authors."
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African American theater"
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African American athletes"
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African Americans |x Mental health"
-                },
-                {
-                    "source": "lcsh",
-                    "value": "American literature |x Puerto Rican authors"
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African Americans -- Economic conditions."
-                },
-                {
-                    "source": "lcsh",
-                    "value": "Puerto Rican families -- New York (State) -- New York."
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African Americans -- Politics and government."
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African American art."
-                },
-                {
-                    "source": "lcsh",
-                    "value": "African American college students."
-                }
+                "American literature -- African American authors.",
+                "African American theater",
+                "African American athletes",
+                "African Americans |x Mental health",
+                "American literature |x Puerto Rican authors",
+                "African Americans -- Economic conditions.",
+                "Puerto Rican families -- New York (State) -- New York.",
+                "African Americans -- Politics and government.",
+                "African American art.",
+                "African American college students."
             ]
         },
         "custodhist": [
