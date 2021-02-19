@@ -55,16 +55,10 @@
         ],
         "controlaccess": {
             "genreform": [
-                {
-                    "source": "lcsh",
-                    "value": "Web sites."
-                }
+                "Web sites."
             ],
             "subject": [
-                {
-                    "source": "lcsh",
-                    "value": "Composers -- 21st century"
-                }
+                "Composers -- 21st century"
             ]
         },
         "custodhist": [
