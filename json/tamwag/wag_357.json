@@ -56,16 +56,12 @@
         "controlaccess": {
             "corpname": [
                 {
-                    "rules": "dacs",
-                    "source": "local",
                     "value": "Arizona Educators United"
                 }
             ],
             "persname": [
                 {
                     "role": "Donor",
-                    "rules": "dacs",
-                    "source": "local",
                     "value": "Karvelis, Noah"
                 }
             ],
@@ -124,8 +120,6 @@
                 {
                     "label": "Creator",
                     "persname": {
-                        "rules": "dacs",
-                        "source": "local",
                         "value": "Karvelis, Noah"
                     }
                 },
@@ -133,8 +127,6 @@
                     "label": "source",
                     "persname": {
                         "role": "Donor",
-                        "rules": "dacs",
-                        "source": "local",
                         "value": "Karvelis, Noah"
                     }
                 }
@@ -147,7 +139,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "2018/2018",
                     "value": "2018"
                 }
             ],
@@ -181,7 +172,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2018-03/2018-04",
                                 "type": "inclusive",
                                 "value": "2018-03-2018-04"
                             }
@@ -261,8 +251,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NNU-TL",
             "url": "http://dlib.nyu.edu/findingaids/html/tamwag/wag_357",
             "value": "wag_357"
         },
