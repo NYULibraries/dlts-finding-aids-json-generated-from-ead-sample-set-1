@@ -109,7 +109,6 @@
                     "label": "Creator",
                     "corpname": {
                         "role": "Collector",
-                        "source": "local",
                         "value": "New York University Archives"
                     }
                 }
@@ -122,7 +121,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "2017/2017",
                     "value": "2017-ongoing"
                 }
             ],
@@ -198,7 +196,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -291,7 +288,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -382,7 +378,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -475,7 +470,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -563,7 +557,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -653,7 +646,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -743,7 +735,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -834,7 +825,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -925,7 +915,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -1015,7 +1004,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -1102,7 +1090,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -1193,7 +1180,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -1284,7 +1270,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -1375,7 +1360,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -1463,7 +1447,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -1556,7 +1539,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -1646,7 +1628,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -1737,7 +1718,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -1824,7 +1804,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -1915,7 +1894,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -2002,7 +1980,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -2093,7 +2070,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -2184,7 +2160,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -2274,7 +2249,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -2364,7 +2338,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -2451,7 +2424,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -2541,7 +2513,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -2631,7 +2602,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -2724,7 +2694,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -2815,7 +2784,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -2903,7 +2871,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -2996,7 +2963,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -3084,7 +3050,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -3175,7 +3140,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -3263,7 +3227,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -3354,7 +3317,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -3447,7 +3409,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -3538,7 +3499,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -3612,7 +3572,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017"
                             }
                         ],
@@ -3699,7 +3658,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -3790,7 +3748,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -3877,7 +3834,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -3967,7 +3923,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -4026,8 +3981,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Rhys Chatham Ensemble"
                                 }
                             ]
@@ -4068,7 +4021,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -4158,7 +4110,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -4245,7 +4196,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -4336,7 +4286,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -4424,7 +4373,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -4515,7 +4463,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -4612,7 +4559,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -4706,7 +4652,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -4797,7 +4742,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -4906,7 +4850,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -4997,7 +4940,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -5090,7 +5032,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -5178,7 +5119,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -5268,7 +5208,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -5359,7 +5298,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -5450,7 +5388,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -5540,7 +5477,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -5631,7 +5567,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -5722,7 +5657,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -5861,7 +5795,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -5955,7 +5888,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -6043,7 +5975,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6127,7 +6058,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6218,7 +6148,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6309,7 +6238,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -6402,7 +6330,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6462,8 +6389,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Charming Hostess (Musical group)"
                                 }
                             ]
@@ -6504,7 +6429,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -6594,7 +6518,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -6681,7 +6604,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6787,7 +6709,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -6899,7 +6820,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -6987,7 +6907,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -7075,7 +6994,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -7166,7 +7084,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -7254,7 +7171,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -7342,7 +7258,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -7435,7 +7350,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -7498,8 +7412,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Bonjour (Musical group)"
                                 }
                             ]
@@ -7540,7 +7452,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -7630,7 +7541,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -7721,7 +7631,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -7812,7 +7721,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -7903,7 +7811,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -7990,7 +7897,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -8084,7 +7990,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -8141,8 +8046,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Michael Gordon Philharmonic"
                                 }
                             ]
@@ -8183,7 +8086,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -8273,7 +8175,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -8364,7 +8265,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -8455,7 +8355,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -8545,7 +8444,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -8635,7 +8533,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -8725,7 +8622,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -8815,7 +8711,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -8889,7 +8784,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -8966,7 +8860,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -9037,7 +8930,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -9114,7 +9006,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -9205,7 +9096,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -9296,7 +9186,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -9384,7 +9273,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -9474,7 +9362,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -9565,7 +9452,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -9658,7 +9544,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -9749,7 +9634,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -9840,7 +9724,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -9927,7 +9810,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -9997,7 +9879,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -10074,7 +9955,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -10165,7 +10045,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -10258,7 +10137,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -10349,7 +10227,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -10440,7 +10317,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -10514,7 +10390,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -10591,7 +10466,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-11/2015-11",
                                 "value": "November 2015- ongoing"
                             }
                         ],
@@ -10653,8 +10527,6 @@
                         {
                             "persname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "local",
                                     "value": "I Am Snow Angel"
                                 }
                             ]
@@ -10705,7 +10577,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -10827,7 +10698,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -10936,7 +10806,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -11026,7 +10895,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -11113,7 +10981,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -11203,7 +11070,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -11265,8 +11131,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Accordion Tribe"
                                 }
                             ]
@@ -11307,7 +11171,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -11398,7 +11261,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -11491,7 +11353,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -11587,7 +11448,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -11678,7 +11538,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -11771,7 +11630,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -11861,7 +11719,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -11948,7 +11805,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -12035,7 +11891,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -12125,7 +11980,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -12215,7 +12069,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -12302,7 +12155,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -12392,7 +12244,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -12486,7 +12337,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -12577,7 +12427,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -12652,7 +12501,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017"
                             }
                         ],
@@ -12743,7 +12591,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -12846,7 +12693,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -12936,7 +12782,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -13023,7 +12868,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -13113,7 +12957,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-08/2017-08",
                                 "value": "August 2017- ongoing"
                             }
                         ],
@@ -13203,7 +13046,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -13293,7 +13135,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -13381,7 +13222,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -13472,7 +13312,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -13562,7 +13401,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-07/2017-07",
                                 "value": "July 2017- ongoing"
                             }
                         ],
@@ -13652,7 +13490,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-05/2014-05",
                                 "value": "May 2014- ongoing"
                             }
                         ],
@@ -13743,7 +13580,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -13802,8 +13638,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Catalyst Quartet"
                                 }
                             ]
@@ -13844,7 +13678,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -13931,7 +13764,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -14021,7 +13853,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -14109,7 +13940,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -14196,7 +14026,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -14283,7 +14112,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -14345,8 +14173,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Anti-Social Music (Musical group)"
                                 }
                             ]
@@ -14387,7 +14213,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -14483,7 +14308,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-08/2015-08",
                                 "value": "August 2015- ongoing"
                             }
                         ],
@@ -14577,7 +14401,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-12/2017-12",
                                 "value": "December 2017- ongoing"
                             }
                         ],
@@ -14667,7 +14490,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -14757,7 +14579,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -14848,7 +14669,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -14935,7 +14755,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15024,15 +14843,12 @@
                             {
                                 "label": "Creator",
                                 "persname": {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Roussel, Patrice, 1956-"
                                 }
                             }
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -15120,7 +14936,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15207,7 +15022,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15300,7 +15114,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2017-05",
                                 "type": "inclusive",
                                 "value": "2014-02-2017-05"
                             }
@@ -15392,7 +15205,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-12/2015-12",
                                 "value": "December 2015- ongoing"
                             }
                         ],
@@ -15483,7 +15295,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -15570,7 +15381,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15657,7 +15467,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15747,7 +15556,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -15837,7 +15645,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-10/2017-10",
                                 "value": "October 2017- ongoing"
                             }
                         ],
@@ -15896,8 +15703,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Latin for Travelers (Musical group)"
                                 }
                             ]
@@ -15938,7 +15743,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16028,7 +15832,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16118,7 +15921,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16208,7 +16010,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16298,7 +16099,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-08/2016-08",
                                 "value": "August 2016- ongoing"
                             }
                         ],
@@ -16358,8 +16158,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Todd Reynolds String Quartet"
                                 }
                             ]
@@ -16492,7 +16290,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -16583,7 +16380,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16683,7 +16479,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017- ongoing"
                             }
                         ],
@@ -16792,7 +16587,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -16882,7 +16676,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -16969,7 +16762,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -17059,7 +16851,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -17118,8 +16909,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Ned Rothenberg Double Band"
                                 }
                             ]
@@ -17160,7 +16949,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -17250,7 +17038,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-08/2016-08",
                                 "value": "August 2016- ongoing"
                             }
                         ],
@@ -17341,7 +17128,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -17431,7 +17217,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-12/2017-12",
                                 "value": "December 2017- ongoing"
                             }
                         ],
@@ -17521,7 +17306,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -17577,8 +17361,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Jenny Scheinman Quartet"
                                 }
                             ]
@@ -17619,7 +17401,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -17709,7 +17490,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -17799,7 +17579,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-12/2016-12",
                                 "value": "December 2016- ongoing"
                             }
                         ],
@@ -17890,7 +17669,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-08/2016-08",
                                 "value": "August 2016- ongoing"
                             }
                         ],
@@ -17947,8 +17725,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Terraplane (Blues group)"
                                 }
                             ]
@@ -17989,7 +17765,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18079,7 +17854,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -18169,7 +17943,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18256,7 +18029,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18343,7 +18115,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18436,7 +18207,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -18526,7 +18296,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -18616,7 +18385,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18672,24 +18440,16 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Wadada Leo Smith's Silver Orchestra"
                                 },
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Wadada Leo Smith's Organic (Musical group)"
                                 },
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Wadada Leo Smith's Golden Quintet"
                                 },
                                 {
                                     "role": "Former owner",
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Wadada Leo Smith's Golden Quartet"
                                 }
                             ]
@@ -18732,15 +18492,12 @@
                             {
                                 "label": "source",
                                 "corpname": {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Wadada Leo Smith's Golden Quartet"
                                 }
                             }
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -18830,7 +18587,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-08/2016-08",
                                 "value": "August 2016- ongoing"
                             }
                         ],
@@ -18924,7 +18680,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -19014,7 +18769,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -19101,7 +18855,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -19175,7 +18928,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-05/2017-05",
                                 "value": "May 2017"
                             }
                         ],
@@ -19263,7 +19015,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -19353,7 +19104,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -19443,7 +19193,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -19533,7 +19282,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2016-08/2016-08",
                                 "value": "August 2016- ongoing"
                             }
                         ],
@@ -19624,7 +19372,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -19717,7 +19464,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -19807,7 +19553,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -19897,7 +19642,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -19987,7 +19731,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -20074,7 +19817,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -20167,7 +19909,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -20229,8 +19970,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Toby Twining Music"
                                 }
                             ]
@@ -20271,7 +20010,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017"
                             }
                         ],
@@ -20361,7 +20099,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-11/2015-11",
                                 "value": "November 2015- ongoing"
                             }
                         ],
@@ -20452,7 +20189,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-09/2017-09",
                                 "value": "September 2017- ongoing"
                             }
                         ],
@@ -20511,8 +20247,6 @@
                         {
                             "corpname": [
                                 {
-                                    "rules": "dacs",
-                                    "source": "naf",
                                     "value": "Go Guitars (Musical group)"
                                 }
                             ]
@@ -20553,7 +20287,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -20643,7 +20376,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -20733,7 +20465,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-02/2014-02",
                                 "value": "February 2014- ongoing"
                             }
                         ],
@@ -20823,7 +20554,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-11/2017-11",
                                 "value": "November 2017- ongoing"
                             }
                         ],
@@ -20913,7 +20643,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2017-06/2017-06",
                                 "value": "June 2017- ongoing"
                             }
                         ],
@@ -21004,7 +20733,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -21094,7 +20822,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-12/2015-12",
                                 "value": "December 2015- ongoing"
                             }
                         ],
@@ -21188,7 +20915,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-12/2015-12",
                                 "value": "December 2015- ongoing"
                             }
                         ],
@@ -21279,7 +21005,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2014-04/2014-04",
                                 "value": "April 2014- ongoing"
                             }
                         ],
@@ -21369,7 +21094,6 @@
                         ],
                         "unitdate": [
                             {
-                                "normal": "2015-02/2015-02",
                                 "value": "February 2015- ongoing"
                             }
                         ],
@@ -21451,8 +21175,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NNU-F",
             "url": "http://dlib.nyu.edu/findingaids/html/fales/mss_496",
             "value": "mss_496"
         },

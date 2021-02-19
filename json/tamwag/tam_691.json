@@ -79,7 +79,6 @@
             ],
             "persname": [
                 {
-                    "source": "naf",
                     "value": "Castro, Fidel, 1926-2016"
                 }
             ]
@@ -127,8 +126,6 @@
                     "label": "Creator",
                     "persname": {
                         "role": "Donor",
-                        "rules": "dacs",
-                        "source": "local",
                         "value": "Havens, David N."
                     }
                 }
@@ -141,7 +138,6 @@
             },
             "unitdate": [
                 {
-                    "normal": "1959-01-04/1959-01-08",
                     "type": "inclusive",
                     "value": "1959-01-04-1959-01-08"
                 }
@@ -207,8 +203,6 @@
     },
     "eadheader": {
         "eadid": {
-            "countrycode": "US",
-            "mainagencycode": "US-NNU-TL",
             "url": "http://dlib.nyu.edu/findingaids/html/tamwag/tam_691/",
             "value": "tam_691"
         },
