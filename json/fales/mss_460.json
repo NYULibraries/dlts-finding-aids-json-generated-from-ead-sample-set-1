@@ -111,6 +111,7 @@
         "did": {
             "physdesc": [
                 {
+                    "value": "\n      \u003cspan class=\"ead-extent\"\u003e715.37 Gigabytes\u003c/span\u003e\n      \u003cspan class=\"ead-extent\"\u003ein 35 computer files and 1 archived website.\u003c/span\u003e\n    ",
                     "altrender": "whole",
                     "extent": [
                         {
@@ -124,6 +125,7 @@
                     ]
                 },
                 {
+                    "value": "\n      \u003cspan class=\"ead-extent\"\u003e715.06 Gigabytes\u003c/span\u003e\n      \u003cspan class=\"ead-extent\"\u003ein 35 computer files.\u003c/span\u003e\n    ",
                     "altrender": "part",
                     "extent": [
                         {
@@ -137,6 +139,7 @@
                     ]
                 },
                 {
+                    "value": "\n      \u003cspan class=\"ead-extent\"\u003e309.1 Megabytes\u003c/span\u003e\n      \u003cspan class=\"ead-extent\"\u003ein 1 archived website.\u003c/span\u003e\n    ",
                     "altrender": "part",
                     "extent": [
                         {
@@ -171,15 +174,15 @@
                 }
             ],
             "repository": {
+                "value": "\n      \u003cspan class=\"ead-corpname\"\u003eFales Library and Special Collections\u003c/span\u003e\n    ",
                 "corpname": {
                     "value": "Fales Library and Special Collections"
-                },
-                "value": "\n      \n    "
+                }
             },
             "unitdate": [
                 {
-                    "type": "inclusive",
-                    "value": "2015-2016"
+                    "value": "2015-2016",
+                    "type": "inclusive"
                 }
             ],
             "unitid": "MSS.460",
@@ -216,6 +219,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.95 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -248,8 +252,8 @@
                                         ],
                                         "unitdate": [
                                             {
-                                                "type": "inclusive",
-                                                "value": "2016"
+                                                "value": "2016",
+                                                "type": "inclusive"
                                             }
                                         ],
                                         "unitid": "cuid5743",
@@ -264,6 +268,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e6.43 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -410,6 +415,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.52 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -457,6 +463,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -517,6 +524,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e39.17 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -593,6 +601,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e5.27 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -640,6 +649,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e4.36 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -700,6 +710,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e66.31 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -745,8 +756,8 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "type": "inclusive",
-                                        "value": "2015-2016"
+                                        "value": "2015-2016",
+                                        "type": "inclusive"
                                     }
                                 ],
                                 "unittitle": {
@@ -760,6 +771,7 @@
                             "did": {
                                 "physdesc": [
                                     {
+                                        "value": "\u003cspan class=\"ead-extent\"\u003e13.81 kilobytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 2 spreadsheets.\u003c/span\u003e",
                                         "altrender": "whole",
                                         "extent": [
                                             {
@@ -823,6 +835,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.96 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -870,6 +883,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e2.87 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -930,6 +944,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e27.79 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1006,6 +1021,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e2.96 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1053,6 +1069,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.18 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1113,6 +1130,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e48.62 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1189,6 +1207,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e4.22 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1236,6 +1255,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.22 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1296,6 +1316,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e46.69 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1372,6 +1393,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.53 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1419,6 +1441,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.08 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1479,6 +1502,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e35.84 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1555,6 +1579,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e18.27 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1602,6 +1627,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e5.93 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1662,6 +1688,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e219.42 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1707,8 +1734,8 @@
                             "did": {
                                 "unitdate": [
                                     {
-                                        "type": "inclusive",
-                                        "value": "2015-2016"
+                                        "value": "2015-2016",
+                                        "type": "inclusive"
                                     }
                                 ],
                                 "unittitle": {
@@ -1739,6 +1766,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.49 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1786,6 +1814,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.98 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1846,6 +1875,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e38.37 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1922,6 +1952,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.18 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -1969,6 +2000,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e4.07 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -2029,6 +2061,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e50.13 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -2105,6 +2138,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e4.85 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -2152,6 +2186,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e3.72 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -2212,6 +2247,7 @@
                                     "did": {
                                         "physdesc": [
                                             {
+                                                "value": "\u003cspan class=\"ead-extent\"\u003e47.37 Gigabytes\u003c/span\u003e\u003cspan class=\"ead-extent\"\u003ein 1 video file.\u003c/span\u003e",
                                                 "altrender": "whole",
                                                 "extent": [
                                                     {
@@ -2374,6 +2410,7 @@
                             "value": "special.collections@nyu.edu"
                         },
                         {
+                            "value": "URL: \u003cspan class=\"ead-extptr\"\u003e\u003c/span\u003e",
                             "extptr": [
                                 {
                                     "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
@@ -2381,8 +2418,7 @@
                                     "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
                                     "type": "simple"
                                 }
-                            ],
-                            "value": "URL: "
+                            ]
                         }
                     ]
                 },
@@ -2414,13 +2450,12 @@
         },
         "profiledesc": {
             "creation": {
-                "date": {
-                    "value": "2020-11-04 11:43:40 -0500"
-                },
-                "value": "This finding aid was produced using ArchivesSpace on ."
+                "value": "This finding aid was produced using ArchivesSpace on \u003cspan class=\"ead-date\"\u003e2020-11-04 11:43:40 -0500\u003c/span\u003e."
             },
             "descrules": "Describing Archives: A Content Standard",
-            "langusage": {}
+            "langusage": {
+                "value": "Finding aid written in English"
+            }
         }
     }
 }
